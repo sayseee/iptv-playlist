@@ -1,0 +1,23 @@
+{
+  "name": "iptv-aggregator",
+  "version": "1.0.0",
+  "description": "Self-improving IPTV aggregation and streaming system",
+  "main": "src/build.js",
+  "scripts": {
+    "start": "node src/build.js",
+    "build": "node src/build.js",
+    "dev": "node src/build.js --verbose"
+  },
+  "keywords": [
+    "iptv",
+    "playlist",
+    "m3u",
+    "streaming",
+    "aggregation"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}
