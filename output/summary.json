@@ -1,7 +1,21 @@
 {
-  "generated": "2026-04-27T14:55:21.301Z",
-  "total_channels": 10404,
+  "generated": "2026-04-27T15:09:43.318Z",
+  "total_channels": 10400,
   "output_format": "1.0.0",
+  "categories": [
+    "general",
+    "news",
+    "kids",
+    "entertainment",
+    "music",
+    "us-series",
+    "asian",
+    "movies",
+    "sports",
+    "religious",
+    "documentaries",
+    "korea"
+  ],
   "files": {
     "m3u": [
       "general.m3u",
@@ -20,19 +34,5 @@
     "json": [
       "catalog.json"
     ]
-  },
-  "categories": [
-    "general",
-    "news",
-    "kids",
-    "entertainment",
-    "music",
-    "us-series",
-    "asian",
-    "movies",
-    "sports",
-    "religious",
-    "documentaries",
-    "korea"
-  ]
+  }
 }

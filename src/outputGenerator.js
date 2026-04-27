@@ -1,6 +1,9 @@
 /**
- * Output Generator
- * Generates M3U playlists and JSON catalog
+ * Output Generator (CLEAN STABLE VERSION)
+ * - Removes geo-blocked streams
+ * - Ensures valid M3U output
+ * - Prevents corrupted catalog.json
+ * - Safe fallback handling
  */
 
 const fs = require('fs');
@@ -18,95 +21,114 @@ function ensureOutputDir() {
 }
 
 /**
- * Generate M3U header
+ * VALIDATION: Only allow clean playable streams
+ */
+function isValidChannel(ch) {
+  return (
+    ch &&
+    ch.url &&
+    ch.url.startsWith('http') &&
+    ch.geoBlocked !== true
+  );
+}
+
+/**
+ * M3U header
  */
 function generateM3UHeader() {
   return '#EXTM3U\n';
 }
 
 /**
- * Generate EXTINF line for a channel
+ * EXTINF builder (safe + clean)
  */
 function generateEXTINF(channel) {
   const tvgId = channel.tvgId || '';
-  const tvgName = channel.tvgName || channel.title;
+  const tvgName = channel.tvgName || channel.title || '';
   const tvgLogo = channel.tvgLogo || '';
   const groupTitle = channel.group || 'Uncategorized';
-  
+
   let extinf = '#EXTINF:-1';
-  
+
   if (tvgId) extinf += ` tvg-id="${tvgId}"`;
   if (tvgName) extinf += ` tvg-name="${tvgName}"`;
   if (tvgLogo) extinf += ` tvg-logo="${tvgLogo}"`;
   if (groupTitle) extinf += ` group-title="${groupTitle}"`;
-  
-  extinf += `\n${channel.title}\n${channel.url}\n`;
-  
+
+  extinf += `,${tvgName}\n${channel.url}\n`;
+
   return extinf;
 }
 
 /**
- * Generate M3U playlist
+ * Generate clean M3U playlist
  */
 function generateM3U(channels) {
   let m3u = generateM3UHeader();
-  
-  channels.forEach(channel => {
+
+  const cleanChannels = (channels || []).filter(isValidChannel);
+
+  cleanChannels.forEach(channel => {
     m3u += generateEXTINF(channel);
   });
-  
+
   return m3u;
 }
 
 /**
- * Write M3U file
+ * Write M3U file safely
  */
 function writeM3UFile(filename, channels) {
   ensureOutputDir();
-  
+
   const filepath = path.join(OUTPUT_DIR, filename);
   const content = generateM3U(channels);
-  
+
   fs.writeFileSync(filepath, content, 'utf8');
-  console.log(`✓ Generated playlist: ${filename} (${channels.length} channels)`);
-  
+
+  console.log(`✓ Generated playlist: ${filename} (${channels.filter(isValidChannel).length} channels)`);
+
   return filepath;
 }
 
 /**
- * Write multiple M3U files for different categories
+ * Write categorized playlists
  */
 function writeM3UByCategory(categorized) {
   ensureOutputDir();
-  
+
   const files = [];
-  
+
   for (const [category, channels] of Object.entries(categorized)) {
-    if (channels.length > 0) {
+    const clean = channels.filter(isValidChannel);
+
+    if (clean.length > 0) {
       const filename = `${category}.m3u`;
-      const filepath = writeM3UFile(filename, channels);
-      
+      const filepath = writeM3UFile(filename, clean);
+
       files.push({
-        category: category,
-        filename: filename,
-        filepath: filepath,
-        channel_count: channels.length
+        category,
+        filename,
+        filepath,
+        channel_count: clean.length
       });
     }
   }
-  
+
   return files;
 }
 
 /**
- * Generate JSON catalog
+ * Generate JSON catalog (clean only)
  */
 function generateJSONCatalog(channels) {
-  const catalog = {
+  const cleanChannels = (channels || []).filter(isValidChannel);
+
+  return {
     version: '1.0.0',
     generated: new Date().toISOString(),
-    total_channels: channels.length,
-    channels: channels.map(ch => ({
+    total_channels: cleanChannels.length,
+    channels: cleanChannels.map(ch => ({
       title: ch.title,
       url: ch.url,
       group: ch.group || 'Uncategorized',
@@ -120,65 +142,68 @@ function generateJSONCatalog(channels) {
       }
     }))
   };
-  
-  return catalog;
 }
 
 /**
- * Write JSON catalog
+ * Write JSON file
  */
 function writeJSONFile(filename, data) {
   ensureOutputDir();
-  
+
   const filepath = path.join(OUTPUT_DIR, filename);
-  const content = JSON.stringify(data, null, 2);
-  
-  fs.writeFileSync(filepath, content, 'utf8');
+  fs.writeFileSync(filepath, JSON.stringify(data, null, 2), 'utf8');
+
   console.log(`✓ Generated catalog: ${filename}`);
-  
+
   return filepath;
 }
 
 /**
- * Generate and write all outputs
+ * MAIN OUTPUT PIPELINE
  */
 function generateAllOutputs(channels, categorized) {
   ensureOutputDir();
-  
+
+  // 🔥 FINAL GLOBAL CLEAN (VERY IMPORTANT)
+  const cleanChannels = (channels || []).filter(isValidChannel);
+
   const outputs = {
     m3u_files: [],
     json_files: [],
     summary: {}
   };
-  
-  // Write main catalog
-  const allChannels = channels.length > 0 ? channels : 
-    Object.values(categorized).flat();
-  
-  outputs.m3u_files.push(writeM3UFile('catalog.m3u', allChannels));
-  
-  // Write categorized playlists
+
+  // 1. MAIN CATALOG
+  outputs.m3u_files.push(
+    writeM3UFile('catalog.m3u', cleanChannels)
+  );
+
+  // 2. CATEGORY FILES
   const categoryFiles = writeM3UByCategory(categorized);
   outputs.m3u_files.push(...categoryFiles.map(f => f.filepath));
-  
-  // Write JSON catalog
-  const jsonCatalog = generateJSONCatalog(allChannels);
-  outputs.json_files.push(writeJSONFile('catalog.json', jsonCatalog));
-  
-  // Write summary
+
+  // 3. JSON CATALOG
+  const jsonCatalog = generateJSONCatalog(cleanChannels);
+  outputs.json_files.push(
+    writeJSONFile('catalog.json', jsonCatalog)
+  );
+
+  // 4. SUMMARY
   const summary = {
     generated: new Date().toISOString(),
-    total_channels: allChannels.length,
+    total_channels: cleanChannels.length,
     output_format: '1.0.0',
+    categories: Object.keys(categorized),
     files: {
       m3u: categoryFiles.map(f => f.filename),
       json: ['catalog.json']
-    },
-    categories: Object.keys(categorized)
+    }
   };
-  
-  outputs.json_files.push(writeJSONFile('summary.json', summary));
-  
+
+  outputs.json_files.push(
+    writeJSONFile('summary.json', summary)
+  );
+
   return outputs;
 }
 

@@ -1,364 +1,243 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="BOKTV (720p) [Not 24/7]" group-title="Uncategorized"
-BOKTV (720p) [Not 24/7]
+#EXTINF:-1 tvg-name="BOKTV (720p) [Not 24/7]" group-title="Uncategorized",BOKTV (720p) [Not 24/7]
 https://livestream2.bokradio.co.za/hls/Bok5c.m3u8
-#EXTINF:-1 tvg-name="CGNTV South Korea (1080p)" group-title="Uncategorized"
-CGNTV South Korea (1080p)
+#EXTINF:-1 tvg-name="CGNTV South Korea (1080p)" group-title="Uncategorized",CGNTV South Korea (1080p)
 https://du35ivadp6cxj.cloudfront.net/out/v1/81781d23cbbf490990b2aa9181d4ce19/CGNWebLiveKR.m3u8
-#EXTINF:-1 tvg-name="CJ OnStyle (540p)" group-title="Uncategorized"
-CJ OnStyle (540p)
+#EXTINF:-1 tvg-name="CJ OnStyle (540p)" group-title="Uncategorized",CJ OnStyle (540p)
 https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
-#EXTINF:-1 tvg-name="CJ OnStyle Plus (540p)" group-title="Uncategorized"
-CJ OnStyle Plus (540p)
+#EXTINF:-1 tvg-name="CJ OnStyle Plus (540p)" group-title="Uncategorized",CJ OnStyle Plus (540p)
 https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
-#EXTINF:-1 tvg-name="CTVN AKD Plus (1080p)" group-title="Uncategorized"
-CTVN AKD Plus (1080p)
+#EXTINF:-1 tvg-name="CTVN AKD Plus (1080p)" group-title="Uncategorized",CTVN AKD Plus (1080p)
 https://live.legitpro.co.in/ctvnakdplus/index.m3u8
-#EXTINF:-1 tvg-name="ducktv (720p)" group-title="Uncategorized"
-ducktv (720p)
+#EXTINF:-1 tvg-name="ducktv (720p)" group-title="Uncategorized",ducktv (720p)
 https://jmp2.uk/stvp-ESBC4700001GR
-#EXTINF:-1 tvg-name="EBS 1 (400p) [Not 24/7]" group-title="Uncategorized"
-EBS 1 (400p) [Not 24/7]
+#EXTINF:-1 tvg-name="EBS 1 (400p) [Not 24/7]" group-title="Uncategorized",EBS 1 (400p) [Not 24/7]
 https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-name="EBS 1 Ⓢ" group-title="Uncategorized"
-EBS 1 Ⓢ
+#EXTINF:-1 tvg-name="EBS 1 Ⓢ" group-title="Uncategorized",EBS 1 Ⓢ
 https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-name="EBS 2 (400p) [Not 24/7]" group-title="Uncategorized"
-EBS 2 (400p) [Not 24/7]
+#EXTINF:-1 tvg-name="EBS 2 (400p) [Not 24/7]" group-title="Uncategorized",EBS 2 (400p) [Not 24/7]
 https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-name="EBS 2 Ⓢ" group-title="Uncategorized"
-EBS 2 Ⓢ
+#EXTINF:-1 tvg-name="EBS 2 Ⓢ" group-title="Uncategorized",EBS 2 Ⓢ
 https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-name="EBS Cinema (720p)" group-title="Uncategorized"
-EBS Cinema (720p)
+#EXTINF:-1 tvg-name="EBS Cinema (720p)" group-title="Uncategorized",EBS Cinema (720p)
 https://rpn.bozztv.com/ebstv/ebscinema/index.m3u8
-#EXTINF:-1 tvg-name="EBS E (400p) [Not 24/7]" group-title="Uncategorized"
-EBS E (400p) [Not 24/7]
+#EXTINF:-1 tvg-name="EBS E (400p) [Not 24/7]" group-title="Uncategorized",EBS E (400p) [Not 24/7]
 https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-name="EBS English Ⓢ" group-title="Uncategorized"
-EBS English Ⓢ
+#EXTINF:-1 tvg-name="EBS English Ⓢ" group-title="Uncategorized",EBS English Ⓢ
 https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-name="EBS HD (1080p)" group-title="Uncategorized"
-EBS HD (1080p)
+#EXTINF:-1 tvg-name="EBS HD (1080p)" group-title="Uncategorized",EBS HD (1080p)
 https://rpn.bozztv.com/ebstv/ebstv/index.m3u8
-#EXTINF:-1 tvg-name="EBS kids (400p) [Not 24/7]" group-title="Uncategorized"
-EBS kids (400p) [Not 24/7]
+#EXTINF:-1 tvg-name="EBS kids (400p) [Not 24/7]" group-title="Uncategorized",EBS kids (400p) [Not 24/7]
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-name="EBS Kids Ⓢ" group-title="Uncategorized"
-EBS Kids Ⓢ
+#EXTINF:-1 tvg-name="EBS Kids Ⓢ" group-title="Uncategorized",EBS Kids Ⓢ
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-name="EBS Musika (720p)" group-title="Uncategorized"
-EBS Musika (720p)
+#EXTINF:-1 tvg-name="EBS Musika (720p)" group-title="Uncategorized",EBS Musika (720p)
 https://rpn.bozztv.com/ebstv/ebsmusika/index.m3u8
-#EXTINF:-1 tvg-name="EBS Plus 1 Ⓢ" group-title="Uncategorized"
-EBS Plus 1 Ⓢ
+#EXTINF:-1 tvg-name="EBS Plus 1 Ⓢ" group-title="Uncategorized",EBS Plus 1 Ⓢ
 https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-name="EBS Plus 2 Ⓢ" group-title="Uncategorized"
-EBS Plus 2 Ⓢ
+#EXTINF:-1 tvg-name="EBS Plus 2 Ⓢ" group-title="Uncategorized",EBS Plus 2 Ⓢ
 https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-name="EBS+ 1 (400p)" group-title="Uncategorized"
-EBS+ 1 (400p)
+#EXTINF:-1 tvg-name="EBS+ 1 (400p)" group-title="Uncategorized",EBS+ 1 (400p)
 https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-name="EBS+ 2 (400p)" group-title="Uncategorized"
-EBS+ 2 (400p)
+#EXTINF:-1 tvg-name="EBS+ 2 (400p)" group-title="Uncategorized",EBS+ 2 (400p)
 https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-name="ETVN (720p)" group-title="Uncategorized"
-ETVN (720p)
+#EXTINF:-1 tvg-name="ETVN (720p)" group-title="Uncategorized",ETVN (720p)
 https://origin2.afxp.telemedia.co.za/abr_kapang/enterepreneur/playlist.m3u8
-#EXTINF:-1 tvg-name="FOX 2 San Francisco CA (KTVU) (720p)" group-title="Uncategorized"
-FOX 2 San Francisco CA (KTVU) (720p)
+#EXTINF:-1 tvg-name="FOX 2 San Francisco CA (KTVU) (720p)" group-title="Uncategorized",FOX 2 San Francisco CA (KTVU) (720p)
 https://aegis-cloudfront-1.tubi.video/8d9284ec-c451-4e51-a1d4-d16e5c8972af/index.m3u8
-#EXTINF:-1 tvg-name="FOX 23 Cape Girardeau MO (KBSI-DT1) (720p) [Not 24/7]" group-title="Uncategorized"
-FOX 23 Cape Girardeau MO (KBSI-DT1) (720p) [Not 24/7]
+#EXTINF:-1 tvg-name="FOX 23 Cape Girardeau MO (KBSI-DT1) (720p) [Not 24/7]" group-title="Uncategorized",FOX 23 Cape Girardeau MO (KBSI-DT1) (720p) [Not 24/7]
 https://live.field59.com/kbsi/kbsi1/playlist.m3u8
-#EXTINF:-1 tvg-name="GCN24 Korean (720p)" group-title="Uncategorized"
-GCN24 Korean (720p)
+#EXTINF:-1 tvg-name="GCN24 Korean (720p)" group-title="Uncategorized",GCN24 Korean (720p)
 http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_1300k.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="GugakTV 국악방송 (1080p)" group-title="Uncategorized"
-GugakTV 국악방송 (1080p)
+#EXTINF:-1 tvg-name="GugakTV 국악방송 (1080p)" group-title="Uncategorized",GugakTV 국악방송 (1080p)
 https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Haddam Killingworth High School TV (HKTV) (1080p) [Geo-blocked]" group-title="Uncategorized"
-Haddam Killingworth High School TV (HKTV) (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-name="Haddam Killingworth High School TV (HKTV) (1080p) [Geo-blocked]" group-title="Uncategorized",Haddam Killingworth High School TV (HKTV) (1080p) [Geo-blocked]
 https://reflect-hktv.cablecast.tv/live-3/live/live.m3u8
-#EXTINF:-1 tvg-name="Hangulat TV (720p)" group-title="Uncategorized"
-Hangulat TV (720p)
+#EXTINF:-1 tvg-name="Hangulat TV (720p)" group-title="Uncategorized",Hangulat TV (720p)
 https://iptv01.eurocable.co.hu/EC-HANGULATTV/index.m3u8
-#EXTINF:-1 tvg-name="Ici Radio-Canada Télé Saguenay/Lac-St-Jean (CKTV-DT) [Geo-blocked]" group-title="Uncategorized"
-Ici Radio-Canada Télé Saguenay/Lac-St-Jean (CKTV-DT) [Geo-blocked]
+#EXTINF:-1 tvg-name="Ici Radio-Canada Télé Saguenay/Lac-St-Jean (CKTV-DT) [Geo-blocked]" group-title="Uncategorized",Ici Radio-Canada Télé Saguenay/Lac-St-Jean (CKTV-DT) [Geo-blocked]
 https://rcavlive.akamaized.net/hls/live/704023/cancktv/master.m3u8
-#EXTINF:-1 tvg-name="Job Plus TV (한국직업방송) (480p)" group-title="Uncategorized"
-Job Plus TV (한국직업방송) (480p)
+#EXTINF:-1 tvg-name="Job Plus TV (한국직업방송) (480p)" group-title="Uncategorized",Job Plus TV (한국직업방송) (480p)
 https://live.jobplustv.or.kr/live/wowtvlive1.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="KBS 1TV" group-title="Uncategorized"
-KBS 1TV
+#EXTINF:-1 tvg-name="KBS 1TV" group-title="Uncategorized",KBS 1TV
 http://mytv.dothome.co.kr/ch/public/1.php
-#EXTINF:-1 tvg-name="KBS 2TV" group-title="Uncategorized"
-KBS 2TV
+#EXTINF:-1 tvg-name="KBS 2TV" group-title="Uncategorized",KBS 2TV
 http://ye23.vip/z7z8/2021/kbs2020.php?id=2
-#EXTINF:-1 tvg-name="KBS Drama" group-title="Uncategorized"
-KBS Drama
+#EXTINF:-1 tvg-name="KBS Drama" group-title="Uncategorized",KBS Drama
 http://ye23.vip/z7z8/2021/kbs2020.php?id=5
-#EXTINF:-1 tvg-name="KBS Joy" group-title="Uncategorized"
-KBS Joy
+#EXTINF:-1 tvg-name="KBS Joy" group-title="Uncategorized",KBS Joy
 http://ye23.vip/z7z8/2021/kbs2020.php?id=6
-#EXTINF:-1 tvg-name="KBS Kids" group-title="Uncategorized"
-KBS Kids
+#EXTINF:-1 tvg-name="KBS Kids" group-title="Uncategorized",KBS Kids
 http://ye23.vip/z7z8/2021/kbs2020.php?id=9
-#EXTINF:-1 tvg-name="KBS Korea Ⓨ" group-title="Uncategorized"
-KBS Korea Ⓨ
+#EXTINF:-1 tvg-name="KBS Korea Ⓨ" group-title="Uncategorized",KBS Korea Ⓨ
 https://www.youtube.com/c/kbsworldtv/live
-#EXTINF:-1 tvg-name="KBS Life" group-title="Uncategorized"
-KBS Life
+#EXTINF:-1 tvg-name="KBS Life" group-title="Uncategorized",KBS Life
 http://ye23.vip/z7z8/2021/kbs2020.php?id=7
-#EXTINF:-1 tvg-name="KBS News D" group-title="Uncategorized"
-KBS News D
+#EXTINF:-1 tvg-name="KBS News D" group-title="Uncategorized",KBS News D
 http://ye23.vip/z7z8/2021/kbs2020.php?id=4
-#EXTINF:-1 tvg-name="KBS Story" group-title="Uncategorized"
-KBS Story
+#EXTINF:-1 tvg-name="KBS Story" group-title="Uncategorized",KBS Story
 http://ye23.vip/z7z8/2021/kbs2020.php?id=8
-#EXTINF:-1 tvg-name="KBS World" group-title="Uncategorized"
-KBS World
+#EXTINF:-1 tvg-name="KBS World" group-title="Uncategorized",KBS World
 https://liveh12.vtvprime.vn/hls/KBS/03.m3u8
-#EXTINF:-1 tvg-name="KMBC-DT1 (720p)" group-title="Uncategorized"
-KMBC-DT1 (720p)
+#EXTINF:-1 tvg-name="KMBC-DT1 (720p)" group-title="Uncategorized",KMBC-DT1 (720p)
 https://cvtv.cvalley.net/hls/KMBCABC/KMBCABC.m3u8
-#EXTINF:-1 tvg-name="KMBC-DT2 (720p)" group-title="Uncategorized"
-KMBC-DT2 (720p)
+#EXTINF:-1 tvg-name="KMBC-DT2 (720p)" group-title="Uncategorized",KMBC-DT2 (720p)
 https://cvtv.cvalley.net/hls/KMBCMeTV/KMBCMeTV.m3u8
-#EXTINF:-1 tvg-name="Korea TV (1080p)" group-title="Uncategorized"
-Korea TV (1080p)
+#EXTINF:-1 tvg-name="Korea TV (1080p)" group-title="Uncategorized",Korea TV (1080p)
 https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Korean Central Television (KCTV) (1080i) [Not 24/7]" group-title="Uncategorized"
-Korean Central Television (KCTV) (1080i) [Not 24/7]
+#EXTINF:-1 tvg-name="Korean Central Television (KCTV) (1080i) [Not 24/7]" group-title="Uncategorized",Korean Central Television (KCTV) (1080i) [Not 24/7]
 https://tv.intchoson.com/kctv/index.m3u8
-#EXTINF:-1 tvg-name="KTV 1 (1080p)" group-title="Uncategorized"
-KTV 1 (1080p)
+#EXTINF:-1 tvg-name="KTV 1 (1080p)" group-title="Uncategorized",KTV 1 (1080p)
 https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-name="KTV 2 (1080p)" group-title="Uncategorized"
-KTV 2 (1080p)
+#EXTINF:-1 tvg-name="KTV 2 (1080p)" group-title="Uncategorized",KTV 2 (1080p)
 https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-name="KTV Al Qurain (1080p)" group-title="Uncategorized"
-KTV Al Qurain (1080p)
+#EXTINF:-1 tvg-name="KTV Al Qurain (1080p)" group-title="Uncategorized",KTV Al Qurain (1080p)
 https://kwtktvaqta.cdn.mangomolo.com/ktvaq/smil:tktvaq.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-name="KTV Arabe (1080p)" group-title="Uncategorized"
-KTV Arabe (1080p)
+#EXTINF:-1 tvg-name="KTV Arabe (1080p)" group-title="Uncategorized",KTV Arabe (1080p)
 https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-name="KTV Bangla (720p)" group-title="Uncategorized"
-KTV Bangla (720p)
+#EXTINF:-1 tvg-name="KTV Bangla (720p)" group-title="Uncategorized",KTV Bangla (720p)
 https://server.livelegitpro.in:9899/tribetv/tribetv/index.m3u8
-#EXTINF:-1 tvg-name="KTV Ethraa (1080p)" group-title="Uncategorized"
-KTV Ethraa (1080p)
+#EXTINF:-1 tvg-name="KTV Ethraa (1080p)" group-title="Uncategorized",KTV Ethraa (1080p)
 https://kwtethta.cdn.mangomolo.com/eth/smil:eth.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-name="KTV News (1080p)" group-title="Uncategorized"
-KTV News (1080p)
+#EXTINF:-1 tvg-name="KTV News (1080p)" group-title="Uncategorized",KTV News (1080p)
 https://kwtkbta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-name="KTV Sport (1080p)" group-title="Uncategorized"
-KTV Sport (1080p)
+#EXTINF:-1 tvg-name="KTV Sport (1080p)" group-title="Uncategorized",KTV Sport (1080p)
 https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-name="KTV Sport Plus (1080p)" group-title="Uncategorized"
-KTV Sport Plus (1080p)
+#EXTINF:-1 tvg-name="KTV Sport Plus (1080p)" group-title="Uncategorized",KTV Sport Plus (1080p)
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-name="KTVK-DT1 (720p)" group-title="Uncategorized"
-KTVK-DT1 (720p)
+#EXTINF:-1 tvg-name="KTVK-DT1 (720p)" group-title="Uncategorized",KTVK-DT1 (720p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-arizonasfamily-vizious/playlist.m3u8
-#EXTINF:-1 tvg-name="KTVO-DT1 (720p)" group-title="Uncategorized"
-KTVO-DT1 (720p)
+#EXTINF:-1 tvg-name="KTVO-DT1 (720p)" group-title="Uncategorized",KTVO-DT1 (720p)
 https://cvtv.cvalley.net/hls/KTVOABC/KTVOABC.m3u8
-#EXTINF:-1 tvg-name="KTVO-DT2 (720p)" group-title="Uncategorized"
-KTVO-DT2 (720p)
+#EXTINF:-1 tvg-name="KTVO-DT2 (720p)" group-title="Uncategorized",KTVO-DT2 (720p)
 https://cvtv.cvalley.net/hls/KTVOCBS/KTVOCBS.m3u8
-#EXTINF:-1 tvg-name="KTVO-DT3 (720p)" group-title="Uncategorized"
-KTVO-DT3 (720p)
+#EXTINF:-1 tvg-name="KTVO-DT3 (720p)" group-title="Uncategorized",KTVO-DT3 (720p)
 https://cvtv.cvalley.net/hls/KTVOComet/KTVOComet.m3u8
-#EXTINF:-1 tvg-name="Lighting Lives Blessing Nations TV Korean (LLBN) (480p)" group-title="Uncategorized"
-Lighting Lives Blessing Nations TV Korean (LLBN) (480p)
+#EXTINF:-1 tvg-name="Lighting Lives Blessing Nations TV Korean (LLBN) (480p)" group-title="Uncategorized",Lighting Lives Blessing Nations TV Korean (LLBN) (480p)
 https://brightstar-korean-pull-secure.akamaized.net/brightstarkorean/stream.m3u8
-#EXTINF:-1 tvg-name="MBC (1080p)" group-title="Uncategorized"
-MBC (1080p)
+#EXTINF:-1 tvg-name="MBC (1080p)" group-title="Uncategorized",MBC (1080p)
 https://cdn8.fntvchannel.com/v1/master/02eeb1726c343dc9c30c32e93dee82013e157021/FNTV-CHANNEL_CDN77/index.m3u8
-#EXTINF:-1 tvg-name="MBC 1 (1080p)" group-title="Uncategorized"
-MBC 1 (1080p)
+#EXTINF:-1 tvg-name="MBC 1 (1080p)" group-title="Uncategorized",MBC 1 (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8
-#EXTINF:-1 tvg-name="MBC 1 Egypt (1080p)" group-title="Uncategorized"
-MBC 1 Egypt (1080p)
+#EXTINF:-1 tvg-name="MBC 1 Egypt (1080p)" group-title="Uncategorized",MBC 1 Egypt (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8
-#EXTINF:-1 tvg-name="MBC 1 USA (1080p) [Geo-blocked]" group-title="Uncategorized"
-MBC 1 USA (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-name="MBC 1 USA (1080p) [Geo-blocked]" group-title="Uncategorized",MBC 1 USA (1080p) [Geo-blocked]
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-usa/fdac3a4fc0473f1f56e07ec1d63a4b7b/index.m3u8
-#EXTINF:-1 tvg-name="MBC 3 USA (1080p) [Geo-blocked]" group-title="Uncategorized"
-MBC 3 USA (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-name="MBC 3 USA (1080p) [Geo-blocked]" group-title="Uncategorized",MBC 3 USA (1080p) [Geo-blocked]
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
-#EXTINF:-1 tvg-name="MBC 4 (1080p)" group-title="Uncategorized"
-MBC 4 (1080p)
+#EXTINF:-1 tvg-name="MBC 4 (1080p)" group-title="Uncategorized",MBC 4 (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
-#EXTINF:-1 tvg-name="MBC 5 (1080p)" group-title="Uncategorized"
-MBC 5 (1080p)
+#EXTINF:-1 tvg-name="MBC 5 (1080p)" group-title="Uncategorized",MBC 5 (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
-#EXTINF:-1 tvg-name="MBC America (1080p)" group-title="Uncategorized"
-MBC America (1080p)
+#EXTINF:-1 tvg-name="MBC America (1080p)" group-title="Uncategorized",MBC America (1080p)
 https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/624ff8f9-db18-da92-4d42-896fa2ff3eb3/source/index.m3u8
-#EXTINF:-1 tvg-name="MBC Andong (안동 MBC) (360p) [Not 24/7]" group-title="Uncategorized"
-MBC Andong (안동 MBC) (360p) [Not 24/7]
+#EXTINF:-1 tvg-name="MBC Andong (안동 MBC) (360p) [Not 24/7]" group-title="Uncategorized",MBC Andong (안동 MBC) (360p) [Not 24/7]
 http://andong.webcasting.co.kr/live/mbc/playlist.m3u8
-#EXTINF:-1 tvg-name="MBC Bollywood (1080p) [Geo-blocked]" group-title="Uncategorized"
-MBC Bollywood (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-name="MBC Bollywood (1080p) [Geo-blocked]" group-title="Uncategorized",MBC Bollywood (1080p) [Geo-blocked]
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
-#EXTINF:-1 tvg-name="MBC Busan (부산MBC) (360p) [Not 24/7]" group-title="Uncategorized"
-MBC Busan (부산MBC) (360p) [Not 24/7]
+#EXTINF:-1 tvg-name="MBC Busan (부산MBC) (360p) [Not 24/7]" group-title="Uncategorized",MBC Busan (부산MBC) (360p) [Not 24/7]
 https://stream.bsmbc.com/livetv/BusanMBC_TV_onairstream/playlist.m3u8
-#EXTINF:-1 tvg-name="MBC Chuncheon (춘천 MBC) (480p) [Not 24/7]" group-title="Uncategorized"
-MBC Chuncheon (춘천 MBC) (480p) [Not 24/7]
+#EXTINF:-1 tvg-name="MBC Chuncheon (춘천 MBC) (480p) [Not 24/7]" group-title="Uncategorized",MBC Chuncheon (춘천 MBC) (480p) [Not 24/7]
 https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
-#EXTINF:-1 tvg-name="MBC Chungbuk (MBC 충북) (720p) [Not 24/7]" group-title="Uncategorized"
-MBC Chungbuk (MBC 충북) (720p) [Not 24/7]
+#EXTINF:-1 tvg-name="MBC Chungbuk (MBC 충북) (720p) [Not 24/7]" group-title="Uncategorized",MBC Chungbuk (MBC 충북) (720p) [Not 24/7]
 http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="MBC Daegu (대구 MBC) (480p) [Not 24/7]" group-title="Uncategorized"
-MBC Daegu (대구 MBC) (480p) [Not 24/7]
+#EXTINF:-1 tvg-name="MBC Daegu (대구 MBC) (480p) [Not 24/7]" group-title="Uncategorized",MBC Daegu (대구 MBC) (480p) [Not 24/7]
 https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8
-#EXTINF:-1 tvg-name="MBC Daejeon (대전 MBC) (720p) [Not 24/7]" group-title="Uncategorized"
-MBC Daejeon (대전 MBC) (720p) [Not 24/7]
+#EXTINF:-1 tvg-name="MBC Daejeon (대전 MBC) (720p) [Not 24/7]" group-title="Uncategorized",MBC Daejeon (대전 MBC) (720p) [Not 24/7]
 https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="MBC Drama (1080p)" group-title="Uncategorized"
-MBC Drama (1080p)
+#EXTINF:-1 tvg-name="MBC Drama (1080p)" group-title="Uncategorized",MBC Drama (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/index.m3u8
-#EXTINF:-1 tvg-name="MBC Drama (480p) [Geo-blocked]" group-title="Uncategorized"
-MBC Drama (480p) [Geo-blocked]
+#EXTINF:-1 tvg-name="MBC Drama (480p) [Geo-blocked]" group-title="Uncategorized",MBC Drama (480p) [Geo-blocked]
 http://mytv.dothome.co.kr/ch/catv/26.php
-#EXTINF:-1 tvg-name="MBC Drama USA (1080p)" group-title="Uncategorized"
-MBC Drama USA (1080p)
+#EXTINF:-1 tvg-name="MBC Drama USA (1080p)" group-title="Uncategorized",MBC Drama USA (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama-usa/ea2f5db904aff224b7066e59c7f585a2/index.m3u8
-#EXTINF:-1 tvg-name="MBC FM (1080p)" group-title="Uncategorized"
-MBC FM (1080p)
+#EXTINF:-1 tvg-name="MBC FM (1080p)" group-title="Uncategorized",MBC FM (1080p)
 https://dbbv9umqcd7cs.cloudfront.net/out/v1/db15b75c3cc0400c91961468d6a232ac/index.m3u8
-#EXTINF:-1 tvg-name="MBC Gangwon (MBC 강원영동) (1080p) [Not 24/7]" group-title="Uncategorized"
-MBC Gangwon (MBC 강원영동) (1080p) [Not 24/7]
+#EXTINF:-1 tvg-name="MBC Gangwon (MBC 강원영동) (1080p) [Not 24/7]" group-title="Uncategorized",MBC Gangwon (MBC 강원영동) (1080p) [Not 24/7]
 http://123.254.93.7:1935/tvlive/livestream2/playlist.m3u8
-#EXTINF:-1 tvg-name="MBC Gwangju (광주 MBC) (1080p) [Geo-blocked] [Not 24/7]" group-title="Uncategorized"
-MBC Gwangju (광주 MBC) (1080p) [Geo-blocked] [Not 24/7]
+#EXTINF:-1 tvg-name="MBC Gwangju (광주 MBC) (1080p) [Geo-blocked] [Not 24/7]" group-title="Uncategorized",MBC Gwangju (광주 MBC) (1080p) [Geo-blocked] [Not 24/7]
 https://media.kjmbc.co.kr/hls/live/stream/playlist.m3u8
-#EXTINF:-1 tvg-name="MBC Gyeongnam (경남 MBC) (1080p) [Not 24/7]" group-title="Uncategorized"
-MBC Gyeongnam (경남 MBC) (1080p) [Not 24/7]
+#EXTINF:-1 tvg-name="MBC Gyeongnam (경남 MBC) (1080p) [Not 24/7]" group-title="Uncategorized",MBC Gyeongnam (경남 MBC) (1080p) [Not 24/7]
 https://624a79c87201d.streamlock.net/MBCTV/TV1.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="MBC Iraq (1080p)" group-title="Uncategorized"
-MBC Iraq (1080p)
+#EXTINF:-1 tvg-name="MBC Iraq (1080p)" group-title="Uncategorized",MBC Iraq (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8
-#EXTINF:-1 tvg-name="MBC Jeju (제주 MBC) (352p) [Not 24/7]" group-title="Uncategorized"
-MBC Jeju (제주 MBC) (352p) [Not 24/7]
+#EXTINF:-1 tvg-name="MBC Jeju (제주 MBC) (352p) [Not 24/7]" group-title="Uncategorized",MBC Jeju (제주 MBC) (352p) [Not 24/7]
 https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
-#EXTINF:-1 tvg-name="MBC Jeonju (450p)" group-title="Uncategorized"
-MBC Jeonju (450p)
+#EXTINF:-1 tvg-name="MBC Jeonju (450p)" group-title="Uncategorized",MBC Jeonju (450p)
 https://5ee9633b25727.streamlock.net/jmbc_tv/_definst_/jmbc_tv.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="MBC Loud (1080p)" group-title="Uncategorized"
-MBC Loud (1080p)
+#EXTINF:-1 tvg-name="MBC Loud (1080p)" group-title="Uncategorized",MBC Loud (1080p)
 https://d2lfa0y84k5bwn.cloudfront.net/out/v1/86dd4506a70c4d7fb35e2ab50296d9a3/index.m3u8
-#EXTINF:-1 tvg-name="MBC Masr (1080p)" group-title="Uncategorized"
-MBC Masr (1080p)
+#EXTINF:-1 tvg-name="MBC Masr (1080p)" group-title="Uncategorized",MBC Masr (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8
-#EXTINF:-1 tvg-name="MBC Masr 2 (1080p)" group-title="Uncategorized"
-MBC Masr 2 (1080p)
+#EXTINF:-1 tvg-name="MBC Masr 2 (1080p)" group-title="Uncategorized",MBC Masr 2 (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
-#EXTINF:-1 tvg-name="MBC Masr Drama (1080p)" group-title="Uncategorized"
-MBC Masr Drama (1080p)
+#EXTINF:-1 tvg-name="MBC Masr Drama (1080p)" group-title="Uncategorized",MBC Masr Drama (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-drama/567b703c19ede6598222de81b0e4508b/index.m3u8
-#EXTINF:-1 tvg-name="MBC Masr USA (1080p)" group-title="Uncategorized"
-MBC Masr USA (1080p)
+#EXTINF:-1 tvg-name="MBC Masr USA (1080p)" group-title="Uncategorized",MBC Masr USA (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-usa/cd8d40acdab28aac0582faa3bd3983f1/index.m3u8
-#EXTINF:-1 tvg-name="MBC Mokpo (목포 MBC) (720p) [Not 24/7]" group-title="Uncategorized"
-MBC Mokpo (목포 MBC) (720p) [Not 24/7]
+#EXTINF:-1 tvg-name="MBC Mokpo (목포 MBC) (720p) [Not 24/7]" group-title="Uncategorized",MBC Mokpo (목포 MBC) (720p) [Not 24/7]
 http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
-#EXTINF:-1 tvg-name="MBC Net (480p) [Geo-blocked]" group-title="Uncategorized"
-MBC Net (480p) [Geo-blocked]
+#EXTINF:-1 tvg-name="MBC Net (480p) [Geo-blocked]" group-title="Uncategorized",MBC Net (480p) [Geo-blocked]
 http://mytv.dothome.co.kr/ch/catv/28.php
-#EXTINF:-1 tvg-name="MBC Persia (1080p)" group-title="Uncategorized"
-MBC Persia (1080p)
+#EXTINF:-1 tvg-name="MBC Persia (1080p)" group-title="Uncategorized",MBC Persia (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8
-#EXTINF:-1 tvg-name="MBC TV" group-title="Uncategorized"
-MBC TV
+#EXTINF:-1 tvg-name="MBC TV" group-title="Uncategorized",MBC TV
 http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
-#EXTINF:-1 tvg-name="MBC TV (576p)" group-title="Uncategorized"
-MBC TV (576p)
+#EXTINF:-1 tvg-name="MBC TV (576p)" group-title="Uncategorized",MBC TV (576p)
 https://mumt03.tangotv.in/MBCTV/index.m3u8
-#EXTINF:-1 tvg-name="MBC Yeosu (여수 MBC) (1080p) [Not 24/7]" group-title="Uncategorized"
-MBC Yeosu (여수 MBC) (1080p) [Not 24/7]
+#EXTINF:-1 tvg-name="MBC Yeosu (여수 MBC) (1080p) [Not 24/7]" group-title="Uncategorized",MBC Yeosu (여수 MBC) (1080p) [Not 24/7]
 https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
-#EXTINF:-1 tvg-name="NBS Korea Agricultural Broadcasting (720p)" group-title="Uncategorized"
-NBS Korea Agricultural Broadcasting (720p)
+#EXTINF:-1 tvg-name="NBS Korea Agricultural Broadcasting (720p)" group-title="Uncategorized",NBS Korea Agricultural Broadcasting (720p)
 https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
-#EXTINF:-1 tvg-name="Persiana Korea" group-title="Uncategorized"
-Persiana Korea
+#EXTINF:-1 tvg-name="Persiana Korea" group-title="Uncategorized",Persiana Korea
 https://korhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-name="SBS CJB (540p) [Not 24/7]" group-title="Uncategorized"
-SBS CJB (540p) [Not 24/7]
+#EXTINF:-1 tvg-name="SBS CJB (540p) [Not 24/7]" group-title="Uncategorized",SBS CJB (540p) [Not 24/7]
 http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
-#EXTINF:-1 tvg-name="SBS G1 (360p) [Not 24/7]" group-title="Uncategorized"
-SBS G1 (360p) [Not 24/7]
+#EXTINF:-1 tvg-name="SBS G1 (360p) [Not 24/7]" group-title="Uncategorized",SBS G1 (360p) [Not 24/7]
 http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="SBS JIBS (720p) [Not 24/7]" group-title="Uncategorized"
-SBS JIBS (720p) [Not 24/7]
+#EXTINF:-1 tvg-name="SBS JIBS (720p) [Not 24/7]" group-title="Uncategorized",SBS JIBS (720p) [Not 24/7]
 http://123.140.197.22/stream/1/play.m3u8
-#EXTINF:-1 tvg-name="SBS JTV (406p) [Not 24/7]" group-title="Uncategorized"
-SBS JTV (406p) [Not 24/7]
+#EXTINF:-1 tvg-name="SBS JTV (406p) [Not 24/7]" group-title="Uncategorized",SBS JTV (406p) [Not 24/7]
 http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8
-#EXTINF:-1 tvg-name="SBS KBC (1080p) [Not 24/7]" group-title="Uncategorized"
-SBS KBC (1080p) [Not 24/7]
+#EXTINF:-1 tvg-name="SBS KBC (1080p) [Not 24/7]" group-title="Uncategorized",SBS KBC (1080p) [Not 24/7]
 https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
-#EXTINF:-1 tvg-name="SBS KNN (1080p) [Not 24/7]" group-title="Uncategorized"
-SBS KNN (1080p) [Not 24/7]
+#EXTINF:-1 tvg-name="SBS KNN (1080p) [Not 24/7]" group-title="Uncategorized",SBS KNN (1080p) [Not 24/7]
 https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
-#EXTINF:-1 tvg-name="SBS TBC (540p) [Geo-blocked] [Not 24/7]" group-title="Uncategorized"
-SBS TBC (540p) [Geo-blocked] [Not 24/7]
+#EXTINF:-1 tvg-name="SBS TBC (540p) [Geo-blocked] [Not 24/7]" group-title="Uncategorized",SBS TBC (540p) [Geo-blocked] [Not 24/7]
 http://203.251.91.122:1935/on-air-Backup/tv/playlist.m3u8
-#EXTINF:-1 tvg-name="SBS TV" group-title="Uncategorized"
-SBS TV
+#EXTINF:-1 tvg-name="SBS TV" group-title="Uncategorized",SBS TV
 https://allanf181.github.io/adaptive-streams/streams/kr/SBSTV.m3u8
-#EXTINF:-1 tvg-name="SBS UBC (540p) [Not 24/7]" group-title="Uncategorized"
-SBS UBC (540p) [Not 24/7]
+#EXTINF:-1 tvg-name="SBS UBC (540p) [Not 24/7]" group-title="Uncategorized",SBS UBC (540p) [Not 24/7]
 https://stream.ubc.co.kr/hls/ubctvstream/index.m3u8
-#EXTINF:-1 tvg-name="SBS6 Classics (1080p) [Geo-blocked]" group-title="Uncategorized"
-SBS6 Classics (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-name="SBS6 Classics (1080p) [Geo-blocked]" group-title="Uncategorized",SBS6 Classics (1080p) [Geo-blocked]
 https://sbs6classic.prd1.talpatvcdn.nl/v1/master/8ada1ed2ae3b9c3db6fc5e604cfa78fc7d2d745e/sbs6classic_ssai/fea54560ba684701a2143f33a9cf4489/index.m3u8
-#EXTINF:-1 tvg-name="Swaraj Express SMBC (720p) [Not 24/7]" group-title="Uncategorized"
-Swaraj Express SMBC (720p) [Not 24/7]
+#EXTINF:-1 tvg-name="Swaraj Express SMBC (720p) [Not 24/7]" group-title="Uncategorized",Swaraj Express SMBC (720p) [Not 24/7]
 https://cdn-2.pishow.tv/live/477/master.m3u8
-#EXTINF:-1 tvg-name="TalkTV" group-title="Uncategorized"
-TalkTV
+#EXTINF:-1 tvg-name="TalkTV" group-title="Uncategorized",TalkTV
 https://live-talktv-ssai.simplestreamcdn.com/v1/master/82267e84b9e5053b3fd0ade12cb1a146df74169a/talktv-live/index.m3u8
-#EXTINF:-1 tvg-name="TalkTV (1080p)" group-title="Uncategorized"
-TalkTV (1080p)
+#EXTINF:-1 tvg-name="TalkTV (1080p)" group-title="Uncategorized",TalkTV (1080p)
 https://live-talktv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/talktv-live/index.m3u8
-#EXTINF:-1 tvg-name="TVN (1080p)" group-title="Uncategorized"
-TVN (1080p)
+#EXTINF:-1 tvg-name="TVN (1080p)" group-title="Uncategorized",TVN (1080p)
 http://217.26.190.76:8888/play/a0m6/index.m3u8
-#EXTINF:-1 tvg-name="TVN (720p)" group-title="Uncategorized"
-TVN (720p)
+#EXTINF:-1 tvg-name="TVN (720p)" group-title="Uncategorized",TVN (720p)
 https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/playlist_dvr.m3u8
-#EXTINF:-1 tvg-name="TVN24 (720p)" group-title="Uncategorized"
-TVN24 (720p)
+#EXTINF:-1 tvg-name="TVN24 (720p)" group-title="Uncategorized",TVN24 (720p)
 https://ss2.tvrdomi.com:1936/vozzmedianetwork/vozzmedianetwork/playlist.m3u8
-#EXTINF:-1 tvg-name="TVN3 (1080p) [Geo-blocked]" group-title="Uncategorized"
-TVN3 (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-name="TVN3 (1080p) [Geo-blocked]" group-title="Uncategorized",TVN3 (1080p) [Geo-blocked]
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
-#EXTINF:-1 tvg-name="TVNBN (720p)" group-title="Uncategorized"
-TVNBN (720p)
+#EXTINF:-1 tvg-name="TVNBN (720p)" group-title="Uncategorized",TVNBN (720p)
 https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
-#EXTINF:-1 tvg-name="TVNET (360p)" group-title="Uncategorized"
-TVNET (360p)
+#EXTINF:-1 tvg-name="TVNET (360p)" group-title="Uncategorized",TVNET (360p)
 https://player.tvnet.lv/stream/amlst:61659/playlist.m3u8
-#EXTINF:-1 tvg-name="TVnet (720p)" group-title="Uncategorized"
-TVnet (720p)
+#EXTINF:-1 tvg-name="TVnet (720p)" group-title="Uncategorized",TVnet (720p)
 https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
-#EXTINF:-1 tvg-name="TVNZ 1 [Geo-blocked]" group-title="Uncategorized"
-TVNZ 1 [Geo-blocked]
+#EXTINF:-1 tvg-name="TVNZ 1 [Geo-blocked]" group-title="Uncategorized",TVNZ 1 [Geo-blocked]
 https://d2ce82tpc3p734.cloudfront.net/v1/master/b1f4432f8f95be9e629d97baabfed15b8cacd1f8/TVNZ_1/master.m3u8
-#EXTINF:-1 tvg-name="TVNZ 2 [Geo-blocked]" group-title="Uncategorized"
-TVNZ 2 [Geo-blocked]
+#EXTINF:-1 tvg-name="TVNZ 2 [Geo-blocked]" group-title="Uncategorized",TVNZ 2 [Geo-blocked]
 https://duoak7vltfob0.cloudfront.net/v1/master/b1f4432f8f95be9e629d97baabfed15b8cacd1f8/TVNZ_2/master.m3u8
-#EXTINF:-1 tvg-name="TVNZ Duke [Geo-blocked]" group-title="Uncategorized"
-TVNZ Duke [Geo-blocked]
+#EXTINF:-1 tvg-name="TVNZ Duke [Geo-blocked]" group-title="Uncategorized",TVNZ Duke [Geo-blocked]
 https://dayqb844napyo.cloudfront.net/v1/master/b1f4432f8f95be9e629d97baabfed15b8cacd1f8/TVNZ_Duke/master.m3u8
-#EXTINF:-1 tvg-name="WMBC-DT1 (720p)" group-title="Uncategorized"
-WMBC-DT1 (720p)
+#EXTINF:-1 tvg-name="WMBC-DT1 (720p)" group-title="Uncategorized",WMBC-DT1 (720p)
 http://d029dcec.kazmazpaz.ru/iptv/GVR4V8HYAGBS5V/1098/manifest.m3u8
-#EXTINF:-1 tvg-name="WSBS-DT1 (1080p)" group-title="Uncategorized"
-WSBS-DT1 (1080p)
+#EXTINF:-1 tvg-name="WSBS-DT1 (1080p)" group-title="Uncategorized",WSBS-DT1 (1080p)
 https://mdstrm.com/live-stream-playlist/67ed74e8af482ba71d47fd7b.m3u8
