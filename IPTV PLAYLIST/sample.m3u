@@ -1,7 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="sample1" tvg-name="Sample Channel 1" tvg-logo="" group-title="Sports",Sample Sports Channel
-http://example.com/stream1.m3u8
-#EXTINF:-1 tvg-id="sample2" tvg-name="Sample Channel 2" tvg-logo="" group-title="Movies",Sample Movie Channel
-http://example.com/stream2.m3u8
-#EXTINF:-1 tvg-id="sample3" tvg-name="Sample Channel 3" tvg-logo="" group-title="News",Sample News Channel
-http://example.com/stream3.m3u8

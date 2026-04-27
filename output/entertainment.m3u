@@ -23,9 +23,6 @@ https://ml-pull-dvc-myco.io:2096/AAJ_ENTERTAINMENT/index.m3u8
 #EXTINF:-1 tvg-name="AlbKanale Music TV (720p)" group-title="Uncategorized"
 AlbKanale Music TV (720p)
 https://albportal.net/albkanalemusic.m3u8
-#EXTINF:-1 tvg-name="AlbKanale Music TV Ⓢ" group-title="Uncategorized"
-AlbKanale Music TV Ⓢ
-https://albportal.net/albkanalemusic.m3u8
 #EXTINF:-1 tvg-name="ATN Music (360p)" group-title="Uncategorized"
 ATN Music (360p)
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
@@ -107,18 +104,9 @@ http://23.237.10.66:16372
 #EXTINF:-1 tvg-name="D Music (1280p) [Not 24/7]" group-title="Uncategorized"
 D Music (1280p) [Not 24/7]
 http://43.252.18.195:5080/live/streams/WCVNews.playlist.m3u8
-#EXTINF:-1 tvg-name="DELUXE MUSIC" group-title="Uncategorized"
-DELUXE MUSIC
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1 tvg-name="Deluxe Music (720p)" group-title="Uncategorized"
 Deluxe Music (720p)
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-#EXTINF:-1 tvg-name="DELUXE MUSIC DANCE BY KONTOR" group-title="Uncategorized"
-DELUXE MUSIC DANCE BY KONTOR
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
-#EXTINF:-1 tvg-name="DELUXE MUSIC RAP" group-title="Uncategorized"
-DELUXE MUSIC RAP
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
 #EXTINF:-1 tvg-name="Dhoom Music (720p)" group-title="Uncategorized"
 Dhoom Music (720p)
 https://cdn-1.pishow.tv/live/1456/master.m3u8
@@ -143,9 +131,6 @@ https://enterbcef94b.airspace-cdn.cbsivideo.com/master.m3u8
 #EXTINF:-1 tvg-name="Epic Music (720p)" group-title="Uncategorized"
 Epic Music (720p)
 http://103.213.31.109:90/ShowBox/playlist.m3u8
-#EXTINF:-1 tvg-name="ERT Music Ⓖ" group-title="Uncategorized"
-ERT Music Ⓖ
-https://ertflix.akamaized.net/ertlive/music/default/index.m3u8
 #EXTINF:-1 tvg-name="ETV Music (1080p)" group-title="Uncategorized"
 ETV Music (1080p)
 https://cc-szivnms4rlah6.akamaized.net/WWBI/Amagi/ETV_Music_IN/playlist.m3u8
@@ -272,15 +257,9 @@ https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-HLS8/mtvfrance.m3u8
 #EXTINF:-1 tvg-name="MTV Are you the One?" group-title="Uncategorized"
 MTV Are you the One?
 https://jmp2.uk/plu-5f6108d8cc331900075e98e4.m3u8
-#EXTINF:-1 tvg-name="MTV Ava" group-title="Uncategorized"
-MTV Ava
-https://live-fi.tvkaista.net/ava/live.m3u8?src=freetv
 #EXTINF:-1 tvg-name="MTV Ava (720p)" group-title="Uncategorized"
 MTV Ava (720p)
 https://live-fi.tvkaista.net/ava/live.m3u8
-#EXTINF:-1 tvg-name="MTV Azerbaijan Ⓢ" group-title="Uncategorized"
-MTV Azerbaijan Ⓢ
-https://www.tvkaista.net/stream-forwarder/get.php?x=MTVAzerbaijan
 #EXTINF:-1 tvg-name="MTV Biggest Pop" group-title="Uncategorized"
 MTV Biggest Pop
 https://jmp2.uk/plu-65410176770cf1000866bf31.m3u8
@@ -395,9 +374,6 @@ https://jmp2.uk/plu-625463563b8ddc0007134aeb.m3u8
 #EXTINF:-1 tvg-name="MTV Spankin' New (1080p)" group-title="Uncategorized"
 MTV Spankin' New (1080p)
 https://jmp2.uk/plu-5d14fdb8ca91eedee1633117.m3u8
-#EXTINF:-1 tvg-name="MTV Sub" group-title="Uncategorized"
-MTV Sub
-https://live-fi.tvkaista.net/sub/live.m3u8?src=freetv
 #EXTINF:-1 tvg-name="MTV Sub (720p)" group-title="Uncategorized"
 MTV Sub (720p)
 https://live-fi.tvkaista.net/sub/live.m3u8
@@ -416,15 +392,9 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-
 #EXTINF:-1 tvg-name="MTV Uutiset (720p)" group-title="Uncategorized"
 MTV Uutiset (720p)
 https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8
-#EXTINF:-1 tvg-name="MTV Uutiset Live" group-title="Uncategorized"
-MTV Uutiset Live
-https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8
 #EXTINF:-1 tvg-name="MTV Vergüenza ajena (720p)" group-title="Uncategorized"
 MTV Vergüenza ajena (720p)
 https://jmp2.uk/plu-63eb9495a8b227000841bf64.m3u8
-#EXTINF:-1 tvg-name="MTV3" group-title="Uncategorized"
-MTV3
-https://live-fi.tvkaista.net/mtv3/live.m3u8?src=freetv
 #EXTINF:-1 tvg-name="MTV3 (720p)" group-title="Uncategorized"
 MTV3 (720p)
 https://live-fi.tvkaista.net/mtv3/live.m3u8
@@ -437,15 +407,9 @@ https://cdn-2.pishow.tv/live/226/master.m3u8
 #EXTINF:-1 tvg-name="Music Japan TV (544p)" group-title="Uncategorized"
 Music Japan TV (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
-#EXTINF:-1 tvg-name="Music ON TV!（エムオン）" group-title="Uncategorized"
-Music ON TV!（エムオン）
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-name="Music TV Granada (1080p) [Not 24/7]" group-title="Uncategorized"
 Music TV Granada (1080p) [Not 24/7]
 https://cloudvideo.servers10.com:8081/8032/index.m3u8
-#EXTINF:-1 tvg-name="MUSICPlus" group-title="Uncategorized"
-MUSICPlus
-http://s02.diazol.hu:10192/stream.m3u8
 #EXTINF:-1 tvg-name="MusicTop (1080p)" group-title="Uncategorized"
 MusicTop (1080p)
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
@@ -455,9 +419,6 @@ https://nogoumtv.nrpstream.com/hls/stream.m3u8
 #EXTINF:-1 tvg-name="ONE1 Music (1080p)" group-title="Uncategorized"
 ONE1 Music (1080p)
 https://cdne.folxplay.tv/folx-trz/streams/ch-3/master.m3u8
-#EXTINF:-1 tvg-name="Oxygen Music" group-title="Uncategorized"
-Oxygen Music
-https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
 #EXTINF:-1 tvg-name="Oxygen Music (1080p)" group-title="Uncategorized"
 Oxygen Music (1080p)
 https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
@@ -497,9 +458,6 @@ https://eu1.vectromdigital.com:1936/redmusic/redmusic/playlist.m3u8
 #EXTINF:-1 tvg-name="Retro Music Television (360p)" group-title="Uncategorized"
 Retro Music Television (360p)
 https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1 tvg-name="Retro Music Television Ⓢ" group-title="Uncategorized"
-Retro Music Television Ⓢ
-https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="RMTV (288p)" group-title="Uncategorized"
 RMTV (288p)
 https://transcoder1.bitcare.eu/streaming/rimextv/rmtv.m3u8
@@ -536,9 +494,6 @@ https://origin-de-y376549.cdn.nextologies.com:444/4c3caf7294b3/fbbd0aee3d9a8260/
 #EXTINF:-1 tvg-name="Tarang Music (720p)" group-title="Uncategorized"
 Tarang Music (720p)
 https://livetv.tarangplus.in/tarangmusic-origin/live/playlist.m3u8
-#EXTINF:-1 tvg-name="TDM Entertainment" group-title="Uncategorized"
-TDM Entertainment
-https://live4.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
 #EXTINF:-1 tvg-name="TDM Entertainment Ch. 95 (720p)" group-title="Uncategorized"
 TDM Entertainment Ch. 95 (720p)
 https://live3.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
@@ -548,9 +503,6 @@ https://live.tele7music.ro/hls/stream/index.m3u8
 #EXTINF:-1 tvg-name="Telehit Musica" group-title="Uncategorized"
 Telehit Musica
 http://190.61.55.34:2401/play/a06t/index.m3u8
-#EXTINF:-1 tvg-name="TLC Finland" group-title="Uncategorized"
-TLC Finland
-https://live-fi.tvkaista.net/tlc/live.m3u8?src=freetv
 #EXTINF:-1 tvg-name="Totalmusic (720p)" group-title="Uncategorized"
 Totalmusic (720p)
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
@@ -587,24 +539,6 @@ https://hls.vantagetv.co.uk/vmusicuk_stream/index.m3u8
 #EXTINF:-1 tvg-name="VH1 Queens of Reality" group-title="Uncategorized"
 VH1 Queens of Reality
 https://jmp2.uk/plu-66abefe5d2d50d00082c7d12.m3u8
-#EXTINF:-1 tvg-name="VH1+ Back to 90's – Pluto TV" group-title="Uncategorized"
-VH1+ Back to 90's – Pluto TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6552085aab05240008b05f6c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="VH1+ Canzoni Italiane – Pluto TV" group-title="Uncategorized"
-VH1+ Canzoni Italiane – Pluto TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63724270c7c2360007b170e8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="VH1+ Girl Power! – Pluto TV" group-title="Uncategorized"
-VH1+ Girl Power! – Pluto TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/655208ff53fc9700084a834e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="VH1+ Hip Hop & Rap – Pluto TV" group-title="Uncategorized"
-VH1+ Hip Hop & Rap – Pluto TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6465fef47cb4b100086ee7bd/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="VH1+ Music Legends – Pluto TV" group-title="Uncategorized"
-VH1+ Music Legends – Pluto TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62e8cc10ca869f00078efca8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="VH1+ Rock! – Pluto TV" group-title="Uncategorized"
-VH1+ Rock! – Pluto TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/636a4173e34fd50007534542/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-name="Vintage Music (720p)" group-title="Uncategorized"
 Vintage Music (720p)
 https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
@@ -617,9 +551,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/pl
 #EXTINF:-1 tvg-name="ZB Music (720p)" group-title="Uncategorized"
 ZB Music (720p)
 https://server.zillarbarta.com/zbmusic/index.m3u8
-#EXTINF:-1 tvg-name="Zerouno Tv Music" group-title="Uncategorized"
-Zerouno Tv Music
-https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8
 #EXTINF:-1 tvg-name="Zona Music TV (1080p)" group-title="Uncategorized"
 Zona Music TV (1080p)
 https://acceso.radiosportstv.online:3022/stream/play.m3u8

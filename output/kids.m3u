@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="13 Kids" group-title="Uncategorized"
-13 Kids
-https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
 #EXTINF:-1 tvg-name="13 Kids (1080p)" group-title="Uncategorized"
 13 Kids (1080p)
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
@@ -41,9 +38,6 @@ https://saran-live.ercdn.net/babytv/index.m3u8
 #EXTINF:-1 tvg-name="BBC Kids (720p)" group-title="Uncategorized"
 BBC Kids (720p)
 https://dmr1h4skdal9h.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-name="BeJoy.Kids" group-title="Uncategorized"
-BeJoy.Kids
-https://64b16f23efbee.streamlock.net/bejoy/bejoy/playlist.m3u8
 #EXTINF:-1 tvg-name="BeJoy.kids (1080p)" group-title="Uncategorized"
 BeJoy.kids (1080p)
 https://64b16f23efbee.streamlock.net/bejoy/bejoy/playlist.m3u8
@@ -65,12 +59,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
 #EXTINF:-1 tvg-name="Cartoon Classics (1080p)" group-title="Uncategorized"
 Cartoon Classics (1080p)
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8
-#EXTINF:-1 tvg-name="Cartoon Network Arabic" group-title="Uncategorized"
-Cartoon Network Arabic
-https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
-#EXTINF:-1 tvg-name="Cartoonito Ⓖ" group-title="Uncategorized"
-Cartoonito Ⓖ
-https://live02-seg.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="Dios Te Ve Kids (720p)" group-title="Uncategorized"
 Dios Te Ve Kids (720p)
 https://s.emisoras.tv:8081/diostevekids/index.m3u8
@@ -104,9 +92,6 @@ https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-name="EBS Kids Ⓢ" group-title="Uncategorized"
 EBS Kids Ⓢ
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-name="ERT Kids Ⓖ" group-title="Uncategorized"
-ERT Kids Ⓖ
-https://ertflix.akamaized.net/ertlive/kids/default/index.m3u8
 #EXTINF:-1 tvg-name="Extrema Kids TV [Not 24/7]" group-title="Uncategorized"
 Extrema Kids TV [Not 24/7]
 https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
@@ -125,9 +110,6 @@ https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 #EXTINF:-1 tvg-name="HappyKids (1080p)" group-title="Uncategorized"
 HappyKids (1080p)
 https://dil9xdvretp0f.cloudfront.net/index.m3u8
-#EXTINF:-1 tvg-name="HQM Kids" group-title="Uncategorized"
-HQM Kids
-https://livelist01.yowi.tv/lista/e4bc12dafe33c3ceb3e382e3acc0ec2c012cf7fd/master.m3u8
 #EXTINF:-1 tvg-name="JiaJia Cartoon" group-title="Uncategorized"
 JiaJia Cartoon
 http://49.113.179.174:4022/udp/238.125.0.158:5140
@@ -143,9 +125,6 @@ https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
 #EXTINF:-1 tvg-name="KBS Kids" group-title="Uncategorized"
 KBS Kids
 http://ye23.vip/z7z8/2021/kbs2020.php?id=9
-#EXTINF:-1 tvg-name="Kids – Pluto TV" group-title="Uncategorized"
-Kids – Pluto TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62444e195d2ab7000861694b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-name="Kids Pang TV (1080p)" group-title="Uncategorized"
 Kids Pang TV (1080p)
 https://newidco-kidspangtv-1-us.roku.wurl.tv/playlist.m3u8
@@ -155,9 +134,6 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
 #EXTINF:-1 tvg-name="Kids TV" group-title="Uncategorized"
 Kids TV
 http://origin5.mediacdn.ru/live/kidstv/index.m3u8
-#EXTINF:-1 tvg-name="Kids Ukraine – Pluto TV" group-title="Uncategorized"
-Kids Ukraine – Pluto TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/622a2d8da9d8210007d918c2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-name="Kids Zone (720p)" group-title="Uncategorized"
 Kids Zone (720p)
 http://103.250.28.74:8000/play/a04m/index.m3u8
@@ -188,9 +164,6 @@ https://magicstream.ddns.net/magicstream/stream.m3u8
 #EXTINF:-1 tvg-name="Mattel Junior" group-title="Uncategorized"
 Mattel Junior
 https://jmp2.uk/plu-6888928eb52fb742416673d2.m3u8
-#EXTINF:-1 tvg-name="MONDO TV KIDS" group-title="Uncategorized"
-MONDO TV KIDS
-https://mondotv-mondotvkids-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Moonbug Kids (1080p)" group-title="Uncategorized"
 Moonbug Kids (1080p)
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
@@ -266,9 +239,6 @@ https://s.emisoras.tv:8081/penielkids/index.m3u8
 #EXTINF:-1 tvg-name="Persiana Junior" group-title="Uncategorized"
 Persiana Junior
 https://junhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-name="Planeta Junior" group-title="Uncategorized"
-Planeta Junior
-https://deaplaneta-planetakidz-2-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Forever Kids" group-title="Uncategorized"
 Pluto TV Forever Kids
 https://jmp2.uk/plu-691ddf2a3ae32cf55263476d.m3u8
@@ -311,9 +281,6 @@ http://31.148.48.15/STS_Kids_HD/index.m3u8
 #EXTINF:-1 tvg-name="Super! Kids Classics (720p)" group-title="Uncategorized"
 Super! Kids Classics (720p)
 https://jmp2.uk/plu-67f4f99729b03f18cb36647e.m3u8
-#EXTINF:-1 tvg-name="TNT Kids" group-title="Uncategorized"
-TNT Kids
-https://restreamer1.tnt.ba/hls/tntkids.m3u8
 #EXTINF:-1 tvg-name="TNT Kids (288p)" group-title="Uncategorized"
 TNT Kids (288p)
 https://restreamer1.tnt.ba/hls/tntkids.m3u8

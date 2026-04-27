@@ -92,7 +92,7 @@ async function main() {
       const allUrls = [];
       const urlSet = new Set();
       deduplicatedGroups.forEach(group => {
-        group.alternatives.forEach(alt => {
+        group.streams.forEach(alt => {
           if (!urlSet.has(alt.url)) {
             urlSet.add(alt.url);
             allUrls.push(alt);

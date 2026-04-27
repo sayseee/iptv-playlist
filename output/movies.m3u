@@ -26,9 +26,6 @@ https://amg01076-lightningintern-actionhollywood-samsungau-rs69y.amagi.tv/playli
 #EXTINF:-1 tvg-name="Action Hollywood Movies (720p) [Geo-blocked]" group-title="Uncategorized"
 Action Hollywood Movies (720p) [Geo-blocked]
 https://actionhollywood-klowdtv.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Action24" group-title="Uncategorized"
-Action24
-https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 #EXTINF:-1 tvg-name="Afghan Nobel Movies (720p)" group-title="Uncategorized"
 Afghan Nobel Movies (720p)
 https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u8
@@ -71,9 +68,6 @@ https://d1em2hga7sgumq.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-name="BBC Drama" group-title="Uncategorized"
 BBC Drama
 https://jmp2.uk/plu-60d35a74c63c3c0008df6a90.m3u8
-#EXTINF:-1 tvg-name="BBC Drama – Pluto TV" group-title="Uncategorized"
-BBC Drama – Pluto TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62e7fa5ab5062e0007dcf97d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-name="BBC Drama (1080p)" group-title="Uncategorized"
 BBC Drama (1080p)
 https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
@@ -116,12 +110,6 @@ https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-name="BIZ Cinema (1080p)" group-title="Uncategorized"
 BIZ Cinema (1080p)
 https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/index.m3u8
-#EXTINF:-1 tvg-name="Bizzarro Movies" group-title="Uncategorized"
-Bizzarro Movies
-https://minerva-bizzarromovies-1-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Black Cinema" group-title="Uncategorized"
-Black Cinema
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=80&deviceId=58af4c093a41ca9d4ecabe96&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-name="Bollywood 4U (1080p)" group-title="Uncategorized"
 Bollywood 4U (1080p)
 https://streams2.sofast.tv/umaxx/v1/0196d96223231ea506ec2e7986613e/0196d96312d71ebd416a37ff7b3317/playlist.m3u8
@@ -173,18 +161,12 @@ http://catchup.videoline.ru/cinema/playlist.m3u8
 #EXTINF:-1 tvg-name="Cinema Hausa (720p)" group-title="Uncategorized"
 Cinema Hausa (720p)
 https://streamdot.broadpeak.io/cff02a74da64d1459eeb779df71f0511/afxpstr/CinemaHausa/index.m3u8
-#EXTINF:-1 tvg-name="Cinema Italiano – Pluto TV" group-title="Uncategorized"
-Cinema Italiano – Pluto TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa7d8359b270007861489/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-name="Cinema One (1080p)" group-title="Uncategorized"
 Cinema One (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemaone-dash-abscbnono/index.mpd
 #EXTINF:-1 tvg-name="Cinema Poliziottesco" group-title="Uncategorized"
 Cinema Poliziottesco
 https://jmp2.uk/plu-671754d8e482950008962aaf.m3u8
-#EXTINF:-1 tvg-name="Cinema Segreto" group-title="Uncategorized"
-Cinema Segreto
-https://minerva-cinemasegreto-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Cinema Yoruba (720p)" group-title="Uncategorized"
 Cinema Yoruba (720p)
 https://streamdot.broadpeak.io/cff02a74da64d1457f33a61a45801a4f/afxpstr/CinemaYoruba/index.m3u8
@@ -200,9 +182,6 @@ https://rpn.bozztv.com/gusa/gusa-classiccinema/index.m3u8
 #EXTINF:-1 tvg-name="Classic Movie Westerns" group-title="Uncategorized"
 Classic Movie Westerns
 https://jmp2.uk/plu-61f33318210549000806a530.m3u8
-#EXTINF:-1 tvg-name="Classic Movies" group-title="Uncategorized"
-Classic Movies
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=106&deviceId=561c5b0dada51f8004c4d855&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-name="Classic Movies Channel" group-title="Uncategorized"
 Classic Movies Channel
 https://jmp2.uk/plu-561c5b0dada51f8004c4d855.m3u8
@@ -344,9 +323,6 @@ https://rpn.bozztv.com/ebstv/ebscinema/index.m3u8
 #EXTINF:-1 tvg-name="Ekran Movies" group-title="Uncategorized"
 Ekran Movies
 https://ca-rt.onetv.app/EkranMovies/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-name="Enter-Film" group-title="Uncategorized"
-Enter-Film
-http://212.79.122.11:5014/udp/239.255.6.31:1234
 #EXTINF:-1 tvg-name="ETV Cinema HD (1080p)" group-title="Uncategorized"
 ETV Cinema HD (1080p)
 https://d1q7j6ha51ro6f.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264-3_cloud_in/index.m3u8
@@ -356,36 +332,6 @@ https://cc-wie8j8y69d2uy.akamaized.net/WWBI/Amagi/ETV_Comedy_IN/playlist.m3u8
 #EXTINF:-1 tvg-name="Feel Good Drama" group-title="Uncategorized"
 Feel Good Drama
 https://jmp2.uk/plu-65775af3b3801200084a3aa4.m3u8
-#EXTINF:-1 tvg-name="Film – Pluto TV" group-title="Uncategorized"
-Film – Pluto TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa17fb9f4490007e6419a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="Film Azione – Pluto TV" group-title="Uncategorized"
-Film Azione – Pluto TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa20a2e7f270007c4878d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="Film Classici – Pluto TV" group-title="Uncategorized"
-Film Classici – Pluto TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa3c446d73500075f0e24/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="Film Commedia – Pluto TV" group-title="Uncategorized"
-Film Commedia – Pluto TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa512d67fd900072323db/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="Film d'azione – Rakuten TV" group-title="Uncategorized"
-Film d'azione – Rakuten TV
-https://rakuten-actionmovies-6-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Film Detective" group-title="Uncategorized"
-Film Detective
-https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
-#EXTINF:-1 tvg-name="Film Drama – Pluto TV" group-title="Uncategorized"
-Film Drama – Pluto TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa42b5c2b8f0007197529/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="Film Romantici – Pluto TV" group-title="Uncategorized"
-Film Romantici – Pluto TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa4a4cc92820007b663af/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="Film Thriller – Pluto TV" group-title="Uncategorized"
-Film Thriller – Pluto TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa5e995132a00075f7005/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="Film Top – Rakuten TV" group-title="Uncategorized"
-Film Top – Rakuten TV
-https://rakuten-topfree-6-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Film4 (1080p)" group-title="Uncategorized"
 Film4 (1080p)
 http://80.194.62.172:50002/stream/channelid/1764271106
@@ -437,12 +383,6 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 #EXTINF:-1 tvg-name="FilmRise Les Routes du Paradis (720p)" group-title="Uncategorized"
 FilmRise Les Routes du Paradis (720p)
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883083
-#EXTINF:-1 tvg-name="FilmRise Movies" group-title="Uncategorized"
-FilmRise Movies
-http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8
-#EXTINF:-1 tvg-name="FilmRise Sci-Fi" group-title="Uncategorized"
-FilmRise Sci-Fi
-http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/master.m3u8
 #EXTINF:-1 tvg-name="FilmRise Séries France (720p)" group-title="Uncategorized"
 FilmRise Séries France (720p)
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883033
@@ -512,9 +452,6 @@ http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-92.playl
 #EXTINF:-1 tvg-name="Fox Sports en Espanol (720p)" group-title="Uncategorized"
 Fox Sports en Espanol (720p)
 https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
-#EXTINF:-1 tvg-name="Fox Weather" group-title="Uncategorized"
-Fox Weather
-https://lnc-fox-weather.tubi.video/index.m3u8
 #EXTINF:-1 tvg-name="Fox Weather (1080p)" group-title="Uncategorized"
 Fox Weather (1080p)
 https://foxweather-xumo.amagi.tv/playlist.m3u8
@@ -590,9 +527,6 @@ http://31.148.48.15/MGM_HD/index.m3u8
 #EXTINF:-1 tvg-name="Home Drama Channel (544p)" group-title="Uncategorized"
 Home Drama Channel (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05
-#EXTINF:-1 tvg-name="Horror – Pluto TV" group-title="Uncategorized"
-Horror – Pluto TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61c09e3ac210ed0007606620/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-name="Horror by ALTER (1080p)" group-title="Uncategorized"
 Horror by ALTER (1080p)
 https://d3opw4b2eztyyq.cloudfront.net/playlist.m3u8
@@ -656,9 +590,6 @@ http://ye23.vip/z7z8/2021/kbs2020.php?id=5
 #EXTINF:-1 tvg-name="Khushboo Bangla (720p)" group-title="Uncategorized"
 Khushboo Bangla (720p)
 https://cdn-4.pishow.tv/live/1473/master.m3u8
-#EXTINF:-1 tvg-name="La7 Cinema" group-title="Uncategorized"
-La7 Cinema
-https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8
 #EXTINF:-1 tvg-name="La7 Cinema (720p) [Geo-Blocked]" group-title="Uncategorized"
 La7 Cinema (720p) [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/la7d/browser-dash/la7d.mpd
@@ -677,9 +608,6 @@ https://tvpass.org/live/LifetimeMoviesEast/hd
 #EXTINF:-1 tvg-name="Lifetime Movies Love & Drama (1080p)" group-title="Uncategorized"
 Lifetime Movies Love & Drama (1080p)
 https://d1s7megtamek6r.cloudfront.net/Lifetime_Love_and_Drama.m3u8
-#EXTINF:-1 tvg-name="LiveNOW from FOX" group-title="Uncategorized"
-LiveNOW from FOX
-https://lnc-fox-live-now.tubi.video/index.m3u8
 #EXTINF:-1 tvg-name="LiveNOW from FOX (1080p) [Geo-blocked]" group-title="Uncategorized"
 LiveNOW from FOX (1080p) [Geo-blocked]
 https://pb-k5p02dtnr2162.akamaized.net/LiveNOW_from_FOX.m3u8
@@ -698,18 +626,9 @@ https://maverick-maverick-black-cinema-3-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Max Movies (1080p)" group-title="Uncategorized"
 Max Movies (1080p)
 https://live.maxtn.in/maxmovies/maxmovies/index.m3u8
-#EXTINF:-1 tvg-name="MBC Action Ⓢ" group-title="Uncategorized"
-MBC Action Ⓢ
-http://37.122.156.107:4000/play/a07h/index.m3u8
-#EXTINF:-1 tvg-name="MBC Bollywood" group-title="Uncategorized"
-MBC Bollywood
-https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 #EXTINF:-1 tvg-name="MBC Bollywood (1080p) [Geo-blocked]" group-title="Uncategorized"
 MBC Bollywood (1080p) [Geo-blocked]
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
-#EXTINF:-1 tvg-name="MBC Drama" group-title="Uncategorized"
-MBC Drama
-https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
 #EXTINF:-1 tvg-name="MBC Drama (1080p)" group-title="Uncategorized"
 MBC Drama (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/index.m3u8
@@ -848,9 +767,6 @@ https://viamotionhsi.netplus.ch/live/eds/paramount/browser-HLS8/paramount.m3u8
 #EXTINF:-1 tvg-name="Paramount Movie Channel" group-title="Uncategorized"
 Paramount Movie Channel
 https://jmp2.uk/plu-5cb0cae7a461406ffe3f5213.m3u8
-#EXTINF:-1 tvg-name="Paramount Network" group-title="Uncategorized"
-Paramount Network
-http://185.189.225.150:85/Paramount/index.m3u8
 #EXTINF:-1 tvg-name="Paramount Network de Pluto TV" group-title="Uncategorized"
 Paramount Network de Pluto TV
 https://jmp2.uk/plu-68d566603d3a9580eb461251.m3u8
@@ -1043,9 +959,6 @@ https://jmp2.uk/plu-696e61287d2afdec4ff2cb75.m3u8
 #EXTINF:-1 tvg-name="Rai Movie (576p) [Geo-blocked]" group-title="Uncategorized"
 Rai Movie (576p) [Geo-blocked]
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002
-#EXTINF:-1 tvg-name="Rai Movie Ⓖ" group-title="Uncategorized"
-Rai Movie Ⓖ
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 tvg-name="Rakuten Top Movies UK (1080p)" group-title="Uncategorized"
 Rakuten Top Movies UK (1080p)
 https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
@@ -1196,21 +1109,12 @@ https://cdn10jtedge.indihometv.com/atm/DASH/ROCK_ACTION/manifest.mpd
 #EXTINF:-1 tvg-name="Roja Movies (1080p)" group-title="Uncategorized"
 Roja Movies (1080p)
 https://stream.rojatv.cloud/rojatv/rojatv/index.m3u8
-#EXTINF:-1 tvg-name="Romance – Rakuten TV" group-title="Uncategorized"
-Romance – Rakuten TV
-https://rakuten-romance-6-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Romance 365" group-title="Uncategorized"
 Romance 365
 https://jmp2.uk/plu-62fb6cd97b90e60007bc318a.m3u8
 #EXTINF:-1 tvg-name="RomCom K-Drama (1080p)" group-title="Uncategorized"
 RomCom K-Drama (1080p)
 https://7488d45c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1JvbUNvbUtEcmFtYV9ITFM/playlist.m3u8
-#EXTINF:-1 tvg-name="Rotana Cinema" group-title="Uncategorized"
-Rotana Cinema
-https://rotana.hibridcdn.net/rotana/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8
-#EXTINF:-1 tvg-name="Rotana Cinema KSA" group-title="Uncategorized"
-Rotana Cinema KSA
-https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8
 #EXTINF:-1 tvg-name="Roya Comedy (1080p)" group-title="Uncategorized"
 Roya Comedy (1080p)
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-comedy/playlist.m3u8
@@ -1394,9 +1298,6 @@ https://d3gnyty2vddhsg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-name="The Nanny & Mr Sheffield A Fine Romance" group-title="Uncategorized"
 The Nanny & Mr Sheffield A Fine Romance
 https://jmp2.uk/plu-686d0130ed17cf4c902cbd19.m3u8
-#EXTINF:-1 tvg-name="Thriller – Rakuten TV" group-title="Uncategorized"
-Thriller – Rakuten TV
-https://rakuten-thriller-6-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Thrillers 365" group-title="Uncategorized"
 Thrillers 365
 https://jmp2.uk/plu-62fb6da41afad500077e9178.m3u8
@@ -1520,9 +1421,6 @@ https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/weho/G0161_004/playlist.m3u8
 #EXTINF:-1 tvg-name="WOWOW Cinema (544p)" group-title="Uncategorized"
 WOWOW Cinema (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
-#EXTINF:-1 tvg-name="Yamato Animation" group-title="Uncategorized"
-Yamato Animation
-https://yamatovideo-yamatoanimation-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Young Hollywood (1080p) [Geo-blocked]" group-title="Uncategorized"
 Young Hollywood (1080p) [Geo-blocked]
 https://amg00143-younghollywoodfast-amg00143c1-cineverse-us-946.playouts.now.amagi.tv/playlist/amg00143-younghollywoodfast-younghollywood-cineverseus/playlist.m3u8

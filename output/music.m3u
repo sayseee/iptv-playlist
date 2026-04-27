@@ -32,9 +32,6 @@ https://live.kwikmotion.com/sbrksariyadhradiolive/srpksariyadhradio/playlist.m3u
 #EXTINF:-1 tvg-name="AlbKanale Music TV (720p)" group-title="Uncategorized"
 AlbKanale Music TV (720p)
 https://albportal.net/albkanalemusic.m3u8
-#EXTINF:-1 tvg-name="AlbKanale Music TV Ⓢ" group-title="Uncategorized"
-AlbKanale Music TV Ⓢ
-https://albportal.net/albkanalemusic.m3u8
 #EXTINF:-1 tvg-name="Alkhuzama Radio (1080p)" group-title="Uncategorized"
 Alkhuzama Radio (1080p)
 https://live.kwikmotion.com/sbrksakhuzamaradiolive/srpkhuzama/playlist.m3u8
@@ -152,18 +149,9 @@ http://43.252.18.195:5080/live/streams/WCVNews.playlist.m3u8
 #EXTINF:-1 tvg-name="Damascus Radio (720p)" group-title="Uncategorized"
 Damascus Radio (720p)
 https://radiodamascus.ortas.live/RDimshq/RDimshqLive/playlist.m3u8
-#EXTINF:-1 tvg-name="DELUXE MUSIC" group-title="Uncategorized"
-DELUXE MUSIC
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1 tvg-name="Deluxe Music (720p)" group-title="Uncategorized"
 Deluxe Music (720p)
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-#EXTINF:-1 tvg-name="DELUXE MUSIC DANCE BY KONTOR" group-title="Uncategorized"
-DELUXE MUSIC DANCE BY KONTOR
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
-#EXTINF:-1 tvg-name="DELUXE MUSIC RAP" group-title="Uncategorized"
-DELUXE MUSIC RAP
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
 #EXTINF:-1 tvg-name="Dhoom Music (720p)" group-title="Uncategorized"
 Dhoom Music (720p)
 https://cdn-1.pishow.tv/live/1456/master.m3u8
@@ -185,9 +173,6 @@ https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=ZZDemoIPTVGH
 #EXTINF:-1 tvg-name="Epic Music (720p)" group-title="Uncategorized"
 Epic Music (720p)
 http://103.213.31.109:90/ShowBox/playlist.m3u8
-#EXTINF:-1 tvg-name="ERT Music Ⓖ" group-title="Uncategorized"
-ERT Music Ⓖ
-https://ertflix.akamaized.net/ertlive/music/default/index.m3u8
 #EXTINF:-1 tvg-name="Escúchame Radio TV (720p) [Not 24/7]" group-title="Uncategorized"
 Escúchame Radio TV (720p) [Not 24/7]
 https://stmv1.transmissaodigital.com/pedro9800/pedro9800/playlist.m3u8
@@ -224,9 +209,6 @@ https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/funr
 #EXTINF:-1 tvg-name="GAMTV.cr (720p)" group-title="Uncategorized"
 GAMTV.cr (720p)
 https://v2.azulstream.com:8081/gamtv/gamtv/index.m3u8
-#EXTINF:-1 tvg-name="Giornale Radio Tv" group-title="Uncategorized"
-Giornale Radio Tv
-https://5f204aff97bee.streamlock.net/GR_tv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="Giornale Radio TV (720p)" group-title="Uncategorized"
 Giornale Radio TV (720p)
 https://5f204aff97bee.streamlock.net/GR_tv/livestream/playlist.m3u8
@@ -317,9 +299,6 @@ https://ca1.buximedia.com/itv/love2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="J Music TV (480p)" group-title="Uncategorized"
 J Music TV (480p)
 http://maxotts.maxdigitaltv.com/x-media/C180/master.m3u8
-#EXTINF:-1 tvg-name="Järviradio TV" group-title="Uncategorized"
-Järviradio TV
-https://streamer.radiotaajuus.fi/memfs/47f113bf-04ea-493b-a9d4-52945fd9db31.m3u8
 #EXTINF:-1 tvg-name="Jazz Club (Radio) [Geo-blocked]" group-title="Uncategorized"
 Jazz Club (Radio) [Geo-blocked]
 http://80.79.6.221:25461/smash/public/25
@@ -392,15 +371,9 @@ https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-HLS8/mtvfrance.m3u8
 #EXTINF:-1 tvg-name="MTV Are you the One?" group-title="Uncategorized"
 MTV Are you the One?
 https://jmp2.uk/plu-5f6108d8cc331900075e98e4.m3u8
-#EXTINF:-1 tvg-name="MTV Ava" group-title="Uncategorized"
-MTV Ava
-https://live-fi.tvkaista.net/ava/live.m3u8?src=freetv
 #EXTINF:-1 tvg-name="MTV Ava (720p)" group-title="Uncategorized"
 MTV Ava (720p)
 https://live-fi.tvkaista.net/ava/live.m3u8
-#EXTINF:-1 tvg-name="MTV Azerbaijan Ⓢ" group-title="Uncategorized"
-MTV Azerbaijan Ⓢ
-https://www.tvkaista.net/stream-forwarder/get.php?x=MTVAzerbaijan
 #EXTINF:-1 tvg-name="MTV Biggest Pop" group-title="Uncategorized"
 MTV Biggest Pop
 https://jmp2.uk/plu-65410176770cf1000866bf31.m3u8
@@ -515,9 +488,6 @@ https://jmp2.uk/plu-625463563b8ddc0007134aeb.m3u8
 #EXTINF:-1 tvg-name="MTV Spankin' New (1080p)" group-title="Uncategorized"
 MTV Spankin' New (1080p)
 https://jmp2.uk/plu-5d14fdb8ca91eedee1633117.m3u8
-#EXTINF:-1 tvg-name="MTV Sub" group-title="Uncategorized"
-MTV Sub
-https://live-fi.tvkaista.net/sub/live.m3u8?src=freetv
 #EXTINF:-1 tvg-name="MTV Sub (720p)" group-title="Uncategorized"
 MTV Sub (720p)
 https://live-fi.tvkaista.net/sub/live.m3u8
@@ -536,15 +506,9 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-
 #EXTINF:-1 tvg-name="MTV Uutiset (720p)" group-title="Uncategorized"
 MTV Uutiset (720p)
 https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8
-#EXTINF:-1 tvg-name="MTV Uutiset Live" group-title="Uncategorized"
-MTV Uutiset Live
-https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8
 #EXTINF:-1 tvg-name="MTV Vergüenza ajena (720p)" group-title="Uncategorized"
 MTV Vergüenza ajena (720p)
 https://jmp2.uk/plu-63eb9495a8b227000841bf64.m3u8
-#EXTINF:-1 tvg-name="MTV3" group-title="Uncategorized"
-MTV3
-https://live-fi.tvkaista.net/mtv3/live.m3u8?src=freetv
 #EXTINF:-1 tvg-name="MTV3 (720p)" group-title="Uncategorized"
 MTV3 (720p)
 https://live-fi.tvkaista.net/mtv3/live.m3u8
@@ -557,15 +521,9 @@ https://cdn-2.pishow.tv/live/226/master.m3u8
 #EXTINF:-1 tvg-name="Music Japan TV (544p)" group-title="Uncategorized"
 Music Japan TV (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
-#EXTINF:-1 tvg-name="Music ON TV!（エムオン）" group-title="Uncategorized"
-Music ON TV!（エムオン）
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-name="Music TV Granada (1080p) [Not 24/7]" group-title="Uncategorized"
 Music TV Granada (1080p) [Not 24/7]
 https://cloudvideo.servers10.com:8081/8032/index.m3u8
-#EXTINF:-1 tvg-name="MUSICPlus" group-title="Uncategorized"
-MUSICPlus
-http://s02.diazol.hu:10192/stream.m3u8
 #EXTINF:-1 tvg-name="MusicTop (1080p)" group-title="Uncategorized"
 MusicTop (1080p)
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
@@ -581,15 +539,9 @@ https://nogoumtv.nrpstream.com/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Omroep Brabant Radio (1080p)" group-title="Uncategorized"
 Omroep Brabant Radio (1080p)
 https://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/visualradio/index.m3u8
-#EXTINF:-1 tvg-name="Onda Web Radio" group-title="Uncategorized"
-Onda Web Radio
-http://178.33.224.197:1935/ondaradioweb/ondaradioweb/playlist.m3u8
 #EXTINF:-1 tvg-name="ONE1 Music (1080p)" group-title="Uncategorized"
 ONE1 Music (1080p)
 https://cdne.folxplay.tv/folx-trz/streams/ch-3/master.m3u8
-#EXTINF:-1 tvg-name="Oxygen Music" group-title="Uncategorized"
-Oxygen Music
-https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
 #EXTINF:-1 tvg-name="Oxygen Music (1080p)" group-title="Uncategorized"
 Oxygen Music (1080p)
 https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
@@ -638,15 +590,9 @@ http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-51.playl
 #EXTINF:-1 tvg-name="Quran Radio (1080p)" group-title="Uncategorized"
 Quran Radio (1080p)
 https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8
-#EXTINF:-1 tvg-name="Radio 1 Ⓨ" group-title="Uncategorized"
-Radio 1 Ⓨ
-https://www.youtube.com/watch?v=I8dnZoF1nOE
 #EXTINF:-1 tvg-name="Radio 10 (720p)" group-title="Uncategorized"
 Radio 10 (720p)
 https://radio10.prd1.talpatvcdn.nl/2b725bc7c93f477eaf0e43955ea8a6c1/index.m3u8
-#EXTINF:-1 tvg-name="Radio 105 TV Ⓖ" group-title="Uncategorized"
-Radio 105 TV Ⓖ
-https://live02-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="Radio 21 TV (720p)" group-title="Uncategorized"
 Radio 21 TV (720p)
 https://live.creacast.com/radio21/smil:radio21.smil/playlist.m3u8
@@ -659,12 +605,6 @@ https://stream.radio350.nl/hls/radio350.m3u8
 #EXTINF:-1 tvg-name="Radio 3i (720p)" group-title="Uncategorized"
 Radio 3i (720p)
 https://vstream-cdn.ch/hls/radio3i.m3u8
-#EXTINF:-1 tvg-name="Radio 3M InBlu" group-title="Uncategorized"
-Radio 3M InBlu
-https://stream.mariatvcdn.com/telemistrettaradio/900bfcc0f9012ea272584fd5ff5281b8.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="Radio 51 Tv" group-title="Uncategorized"
-Radio 51 Tv
-https://59d7d6f47d7fc.streamlock.net/canale51/canale51/chunklist_w1193883900.m3u8
 #EXTINF:-1 tvg-name="Radio 51 TV (480p) [Geo-blocked]" group-title="Uncategorized"
 Radio 51 TV (480p) [Geo-blocked]
 http://178.32.140.155/canale51/canale51/playlist.m3u8
@@ -683,9 +623,6 @@ https://video.compuwebecuador.com:3880/stream/play.m3u8
 #EXTINF:-1 tvg-name="Radio Ancón (720p)" group-title="Uncategorized"
 Radio Ancón (720p)
 https://www.streaming507.net:19360/anconvideo/anconvideo.m3u8
-#EXTINF:-1 tvg-name="Radio Birikina Tv" group-title="Uncategorized"
-Radio Birikina Tv
-https://tvd-bk.fluid.stream/RadioBirikinaTV/livestream/chunklist_w84398277.m3u8
 #EXTINF:-1 tvg-name="Radio Birikina TV (720p) [Not 24/7]" group-title="Uncategorized"
 Radio Birikina TV (720p) [Not 24/7]
 https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8
@@ -695,24 +632,15 @@ https://cloudvideo.servers10.com:8081/8154/index.m3u8
 #EXTINF:-1 tvg-name="Radio Bremen Fernsehen (1080p) [Geo-blocked]" group-title="Uncategorized"
 Radio Bremen Fernsehen (1080p) [Geo-blocked]
 https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
-#EXTINF:-1 tvg-name="Radio Bremen Ⓖ" group-title="Uncategorized"
-Radio Bremen Ⓖ
-https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
 #EXTINF:-1 tvg-name="Radio Brianza TV" group-title="Uncategorized"
 Radio Brianza TV
 https://57068da1deb21.streamlock.net/radiorbs/radiorbs/playlist.m3u8
-#EXTINF:-1 tvg-name="Radio Bruno Tv" group-title="Uncategorized"
-Radio Bruno Tv
-https://router.xdevel.com/video0s975758-473/stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Radio Carnaval TV (720p) [Not 24/7]" group-title="Uncategorized"
 Radio Carnaval TV (720p) [Not 24/7]
 https://eu1.servers10.com:8081/8116/index.m3u8
 #EXTINF:-1 tvg-name="Radio Ciudad 98.9 FM TV" group-title="Uncategorized"
 Radio Ciudad 98.9 FM TV
 https://video.wilohosting.com:19360/radiociudadtv/radiociudadtv.m3u8
-#EXTINF:-1 tvg-name="Radio Colonna Tv Ⓨ" group-title="Uncategorized"
-Radio Colonna Tv Ⓨ
-https://www.youtube.com/radiocolonna/live
 #EXTINF:-1 tvg-name="Radio Conexion Web TV (720p)" group-title="Uncategorized"
 Radio Conexion Web TV (720p)
 https://tuvideoonline.com.ar:3391/live/radioconexionlive.m3u8
@@ -743,15 +671,9 @@ https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/radi
 #EXTINF:-1 tvg-name="Radio Hit FM TV (720p)" group-title="Uncategorized"
 Radio Hit FM TV (720p)
 https://peer2.tdiradio.com/static/streaming-playlists/hls/bab99862-ec1c-474f-9a02-4f8c8677d565/0.m3u8
-#EXTINF:-1 tvg-name="Radio HIT Orsk" group-title="Uncategorized"
-Radio HIT Orsk
-http://hithd.camsh.orsk.ru/hls/hithd.m3u8
 #EXTINF:-1 tvg-name="Radio Hogar (720p)" group-title="Uncategorized"
 Radio Hogar (720p)
 https://www.streaming507.net:19360/videoradiohogar/videoradiohogar.m3u8
-#EXTINF:-1 tvg-name="Radio Ibiza" group-title="Uncategorized"
-Radio Ibiza
-https://str48.fluid.stream/RadioIbizaTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="Radio Ibiza TV (720p) [Not 24/7]" group-title="Uncategorized"
 Radio Ibiza TV (720p) [Not 24/7]
 https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/playlist.m3u8
@@ -767,21 +689,12 @@ https://59d7d6f47d7fc.streamlock.net/visualradio/visualradio/playlist.m3u8
 #EXTINF:-1 tvg-name="Radio Imagen 105.1 FM (720p) [Not 24/7]" group-title="Uncategorized"
 Radio Imagen 105.1 FM (720p) [Not 24/7]
 https://streaming.imagenfm105-1.com/hls/stream.m3u8
-#EXTINF:-1 tvg-name="Radio Immagine Tv" group-title="Uncategorized"
-Radio Immagine Tv
-https://media.velcom.it:8081/RadioImmagineTV/index.fmp4.m3u8
 #EXTINF:-1 tvg-name="Radio Impacto 2 (288p) [Not 24/7]" group-title="Uncategorized"
 Radio Impacto 2 (288p) [Not 24/7]
 https://panel.streamingtv-mediacp.online:1936/jawepvrvyz/jawepvrvyz/playlist.m3u8
 #EXTINF:-1 tvg-name="Radio Isla TV (720p)" group-title="Uncategorized"
 Radio Isla TV (720p)
 https://59a564764e2b6.streamlock.net/palestra/palestra/playlist.m3u8
-#EXTINF:-1 tvg-name="Radio Italia Cina Tv" group-title="Uncategorized"
-Radio Italia Cina Tv
-https://585b674743bbb.streamlock.net/9054/9054/playlist.m3u8
-#EXTINF:-1 tvg-name="Radio Italia Trend" group-title="Uncategorized"
-Radio Italia Trend
-https://radioitalia-samsungitaly.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Radio Italia Trend (720p)" group-title="Uncategorized"
 Radio Italia Trend (720p)
 https://amg00745-radioitailaspa-radioitalia-rakuten-sucsc.amagi.tv/hls/amagi_hls_data_rakutenAA-radioitalia-rakuten/CDN/master.m3u8
@@ -797,57 +710,27 @@ https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/radi
 #EXTINF:-1 tvg-name="Radio Karolina TV (720p)" group-title="Uncategorized"
 Radio Karolina TV (720p)
 https://peer2.tdiradio.com/static/streaming-playlists/hls/4207de1d-52e8-4591-ad9e-218069b864d1/0.m3u8
-#EXTINF:-1 tvg-name="Radio KISS KISS TV" group-title="Uncategorized"
-Radio KISS KISS TV
-https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Radio Libertà" group-title="Uncategorized"
-Radio Libertà
-https://router.xdevel.com/video0s975360-67/stream/playlist_dvr.m3u8
 #EXTINF:-1 tvg-name="Radio Lola (720p) [Not 24/7]" group-title="Uncategorized"
 Radio Lola (720p) [Not 24/7]
 https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/0.m3u8
-#EXTINF:-1 tvg-name="Radio m2o Tv" group-title="Uncategorized"
-Radio m2o Tv
-https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 #EXTINF:-1 tvg-name="Radio Master (720p)" group-title="Uncategorized"
 Radio Master (720p)
 https://videoserver.tmcreativos.com:19360/radiomaster/radiomaster.m3u8
-#EXTINF:-1 tvg-name="Radio Monte Kronio Tv (R.M.K.)" group-title="Uncategorized"
-Radio Monte Kronio Tv (R.M.K.)
-https://648026e87a75e.streamlock.net/rmktv/rmktv/playlist.m3u8
-#EXTINF:-1 tvg-name="Radio Montecarlo TV Ⓖ" group-title="Uncategorized"
-Radio Montecarlo TV Ⓖ
-https://live02-seg.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="Radio Monumental TV (720p) [Not 24/7]" group-title="Uncategorized"
 Radio Monumental TV (720p) [Not 24/7]
 https://cloud37.ecuatel.com/monumentaltv/live/manifest.m3u8
-#EXTINF:-1 tvg-name="Radio Norba Tv" group-title="Uncategorized"
-Radio Norba Tv
-https://router.xdevel.com/video0s975885-462/stream/playlist_dvr.m3u8
 #EXTINF:-1 tvg-name="Radio Norba TV (1080p)" group-title="Uncategorized"
 Radio Norba TV (1080p)
 https://stream12.xdevel.com/video0s975885-2349/stream/playlist_dvr.m3u8
-#EXTINF:-1 tvg-name="Radio Nova" group-title="Uncategorized"
-Radio Nova
-https://stream.audioxi.com/NOVA
 #EXTINF:-1 tvg-name="Radio Number One (720p) [Not 24/7]" group-title="Uncategorized"
 Radio Number One (720p) [Not 24/7]
 https://56b50ada2d659.streamlock.net/RN1TV/livestream/playlist.m3u8
-#EXTINF:-1 tvg-name="Radio Piter Pan Tv" group-title="Uncategorized"
-Radio Piter Pan Tv
-https://tvd-piter.fluid.stream/RadioPiterpanTV/livestream/chunklist_w1866496033.m3u8
 #EXTINF:-1 tvg-name="Radio Piter Pan TV (720p) [Not 24/7]" group-title="Uncategorized"
 Radio Piter Pan TV (720p) [Not 24/7]
 https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="Radio Radicale TV (240p) [Not 24/7]" group-title="Uncategorized"
 Radio Radicale TV (240p) [Not 24/7]
 https://video-ar.radioradicale.it/diretta/padtv2/playlist.m3u8
-#EXTINF:-1 tvg-name="Radio Radio Tv" group-title="Uncategorized"
-Radio Radio Tv
-https://200912.global.ssl.fastly.net/646b335e2291a2022444bb7c/live_22f84390fe1411ed919df3da85a483cc/rewind-14400.m3u8
-#EXTINF:-1 tvg-name="Radio Radiosa Tv" group-title="Uncategorized"
-Radio Radiosa Tv
-https://stream7.zivoli.it/radiosatv/radiosatv/playlist.m3u8
 #EXTINF:-1 tvg-name="Radio RAM (1080p)" group-title="Uncategorized"
 Radio RAM (1080p)
 https://1888165924.rsc.cdn77.org/live/RadioRAM/playlist.m3u8
@@ -857,9 +740,6 @@ https://vivo.solumedia.com:19360/realpolitik/realpolitik.m3u8
 #EXTINF:-1 tvg-name="Radio Ritmo (1080p) [Not 24/7]" group-title="Uncategorized"
 Radio Ritmo (1080p) [Not 24/7]
 https://panel.tvstream.cl:1936/8046/8046/playlist.m3u8
-#EXTINF:-1 tvg-name="Radio Roma" group-title="Uncategorized"
-Radio Roma
-https://585b674743bbb.streamlock.net/9044/9044/playlist.m3u8
 #EXTINF:-1 tvg-name="Radio Roma News" group-title="Uncategorized"
 Radio Roma News
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/radioromanews.m3u8
@@ -950,9 +830,6 @@ https://media.neuquen.gov.ar/rtn/television/playlist.m3u8
 #EXTINF:-1 tvg-name="Radio TV Sal One (720p)" group-title="Uncategorized"
 Radio TV Sal One (720p)
 https://lon.rtsp.me/r3ZnG6WN2HIRxPARhAirIQ/1713628621/hls/9QdykDAy.m3u8
-#EXTINF:-1 tvg-name="Radio TV Serie A con RDS" group-title="Uncategorized"
-Radio TV Serie A con RDS
-https://stream.radioseriea.com/50773f0d0070476a8612d9984c6059d8/index.m3u8
 #EXTINF:-1 tvg-name="Radio TV Tendencias (1080p) [Not 24/7]" group-title="Uncategorized"
 Radio TV Tendencias (1080p) [Not 24/7]
 https://s1.tvdatta.com:3950/multi_web/play.m3u8
@@ -977,27 +854,15 @@ http://45.63.116.205/hls4/stream1.m3u8
 #EXTINF:-1 tvg-name="Radio Yguazú TV (480p)" group-title="Uncategorized"
 Radio Yguazú TV (480p)
 https://live.enhdtv.com:8081/radioiguazutv/index.m3u8
-#EXTINF:-1 tvg-name="Radio ZETA" group-title="Uncategorized"
-Radio ZETA
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist.m3u8
 #EXTINF:-1 tvg-name="Radio Zeta TV (1080p)" group-title="Uncategorized"
 Radio Zeta TV (1080p)
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
 #EXTINF:-1 tvg-name="Radio-Canada INFO (720p)" group-title="Uncategorized"
 Radio-Canada INFO (720p)
 https://jmp2.uk/plu-62cc1e1e0d0611000837dc1d.m3u8
-#EXTINF:-1 tvg-name="Radio24-IlSole24OreTV" group-title="Uncategorized"
-Radio24-IlSole24OreTV
-https://ilsole24ore-radiovisual.akamaized.net/hls/live/2035302/persidera/master.m3u8
 #EXTINF:-1 tvg-name="Radiocanal San Francisco (1080p)" group-title="Uncategorized"
 Radiocanal San Francisco (1080p)
 http://204.199.3.2/.m3u8
-#EXTINF:-1 tvg-name="RadioFreccia" group-title="Uncategorized"
-RadioFreccia
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist.m3u8
-#EXTINF:-1 tvg-name="RadioItaliaTV" group-title="Uncategorized"
-RadioItaliaTV
-https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
 #EXTINF:-1 tvg-name="RadioMensaje TV (720p)" group-title="Uncategorized"
 RadioMensaje TV (720p)
 https://eu1.servers10.com:8081/8230/index.m3u8
@@ -1013,9 +878,6 @@ https://server-67.stream-server.nl:1936/RadioToppers/RadioToppers/playlist.m3u8
 #EXTINF:-1 tvg-name="RadioTV Oriente (720p)" group-title="Uncategorized"
 RadioTV Oriente (720p)
 https://live.obslivestream.com/tvoriente/index.m3u8
-#EXTINF:-1 tvg-name="Rai Radio 2 Visual Radio" group-title="Uncategorized"
-Rai Radio 2 Visual Radio
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 tvg-name="Rararadio (720p)" group-title="Uncategorized"
 Rararadio (720p)
 https://58c04fb1d143f.streamlock.net/rararadio/rararadio/playlist.m3u8
@@ -1025,9 +887,6 @@ https://eu1.vectromdigital.com:1936/redmusic/redmusic/playlist.m3u8
 #EXTINF:-1 tvg-name="Retro Music Television (360p)" group-title="Uncategorized"
 Retro Music Television (360p)
 https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1 tvg-name="Retro Music Television Ⓢ" group-title="Uncategorized"
-Retro Music Television Ⓢ
-https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="RMTV (288p)" group-title="Uncategorized"
 RMTV (288p)
 https://transcoder1.bitcare.eu/streaming/rimextv/rmtv.m3u8
@@ -1091,27 +950,6 @@ https://livetv.tarangplus.in/tarangmusic-origin/live/playlist.m3u8
 #EXTINF:-1 tvg-name="TDI Radio TV" group-title="Uncategorized"
 TDI Radio TV
 https://peer2.tdiradio.com/static/streaming-playlists/hls/8f5d84ce-e8ac-4109-9975-9665f5605557/master.m3u8
-#EXTINF:-1 tvg-name="Tele Radio Ercolano" group-title="Uncategorized"
-Tele Radio Ercolano
-https://rst.saiuzwebnetwork.it:19360/teleradioercolano-1/teleradioercolano-1.m3u8
-#EXTINF:-1 tvg-name="Tele Radio Orte" group-title="Uncategorized"
-Tele Radio Orte
-https://flash2.xdevel.com/ortetv/ortetv/index.m3u8
-#EXTINF:-1 tvg-name="Tele Radio Pace 1" group-title="Uncategorized"
-Tele Radio Pace 1
-https://jk3lz2bwlw79-hls-live.mariatvcdn.it/teleradiopace1/efcc8fc46cab26315ce3f5845d76008f.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="Tele Radio Pace 2" group-title="Uncategorized"
-Tele Radio Pace 2
-https://zkpywrbgdbeg-hls-live.mariatvcdn.it/teleradiopace2/254c9b5c52a73a94ef0f6169cbd05dc2.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="Tele Radio Pace 3" group-title="Uncategorized"
-Tele Radio Pace 3
-https://932y4273djv8-hls-live.mariatvcdn.it/teleradiopace3/d2274c22e9ee09eb2eda01ed0496f8f5.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="Tele Radio Pace 4" group-title="Uncategorized"
-Tele Radio Pace 4
-https://j78dpr7nyq5r-hls-live.mariatvcdn.it/teleradiopace4/13d74f2cfe921bfbc262697203d47d8f.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="Tele Radio Sciacca" group-title="Uncategorized"
-Tele Radio Sciacca
-https://5db313b643fd8.streamlock.net/teleradiosciaccatv/teleradiosciaccatv/playlist.m3u8
 #EXTINF:-1 tvg-name="Tele Radio Sciacca (240p) [Not 24/7]" group-title="Uncategorized"
 Tele Radio Sciacca (240p) [Not 24/7]
 http://5cbd3bc28341f.streamlock.net:1935/trs_live/teleradiosciacca-tv/playlist.m3u8
@@ -1124,9 +962,6 @@ http://190.61.55.34:2401/play/a06t/index.m3u8
 #EXTINF:-1 tvg-name="TeleRadioNorte (720p)" group-title="Uncategorized"
 TeleRadioNorte (720p)
 https://angelistic.live:3785/live/tvoficiallive.m3u8
-#EXTINF:-1 tvg-name="TeleRadioStereo Ⓣ" group-title="Uncategorized"
-TeleRadioStereo Ⓣ
-https://www.twitch.tv/teleradiostereo
 #EXTINF:-1 tvg-name="The Breakfast Club on iHeartRadio (1080p)" group-title="Uncategorized"
 The Breakfast Club on iHeartRadio (1080p)
 https://aegis-cloudfront-1.tubi.video/94121431-038e-4a12-9634-3978765cde03/playlist.m3u8
@@ -1157,9 +992,6 @@ https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_en
 #EXTINF:-1 tvg-name="Totalmusic Dance (720p)" group-title="Uncategorized"
 Totalmusic Dance (720p)
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-name="TRL Tele Radio Leo" group-title="Uncategorized"
-TRL Tele Radio Leo
-https://5db313b643fd8.streamlock.net/TRL/TRL/playlist.m3u8
 #EXTINF:-1 tvg-name="Tropical Music TV (720p)" group-title="Uncategorized"
 Tropical Music TV (720p)
 https://59a564764e2b6.streamlock.net/vallenato/tropical/playlist.m3u8
@@ -1235,9 +1067,6 @@ https://jmp2.uk/plu-64d161c93c785e0008df575e.m3u8
 #EXTINF:-1 tvg-name="Vevo Latino (1080p)" group-title="Uncategorized"
 Vevo Latino (1080p)
 https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Vevo Pop" group-title="Uncategorized"
-Vevo Pop
-https://601820eb2b971a000104f40a-samsung.eu.ssai.zype.com/601820eb2b971a000104f40a_samsung_eu/manifest.m3u8
 #EXTINF:-1 tvg-name="Vevo Pop (1080p)" group-title="Uncategorized"
 Vevo Pop (1080p)
 https://d128y56w6v2kax.cloudfront.net/playlist/amg00056-vevotv-vevopopau-samsungau/playlist.m3u8
@@ -1274,36 +1103,12 @@ https://jmp2.uk/plu-61d4c2817a823d00070ba53e.m3u8
 #EXTINF:-1 tvg-name="VH1 Queens of Reality" group-title="Uncategorized"
 VH1 Queens of Reality
 https://jmp2.uk/plu-66abefe5d2d50d00082c7d12.m3u8
-#EXTINF:-1 tvg-name="VH1+ Back to 90's – Pluto TV" group-title="Uncategorized"
-VH1+ Back to 90's – Pluto TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6552085aab05240008b05f6c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="VH1+ Canzoni Italiane – Pluto TV" group-title="Uncategorized"
-VH1+ Canzoni Italiane – Pluto TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63724270c7c2360007b170e8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="VH1+ Girl Power! – Pluto TV" group-title="Uncategorized"
-VH1+ Girl Power! – Pluto TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/655208ff53fc9700084a834e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="VH1+ Hip Hop & Rap – Pluto TV" group-title="Uncategorized"
-VH1+ Hip Hop & Rap – Pluto TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6465fef47cb4b100086ee7bd/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="VH1+ Music Legends – Pluto TV" group-title="Uncategorized"
-VH1+ Music Legends – Pluto TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62e8cc10ca869f00078efca8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="VH1+ Rock! – Pluto TV" group-title="Uncategorized"
-VH1+ Rock! – Pluto TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/636a4173e34fd50007534542/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-name="Villa Elisa Radio TV (1080p)" group-title="Uncategorized"
 Villa Elisa Radio TV (1080p)
 https://copacogen.desdeparaguay.net/villaelisatv/villaelisatv/playlist.m3u8?admin=nacion
 #EXTINF:-1 tvg-name="Vintage Music (720p)" group-title="Uncategorized"
 Vintage Music (720p)
 https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
-#EXTINF:-1 tvg-name="Vintage Radio Tv" group-title="Uncategorized"
-Vintage Radio Tv
-https://5f22d76e220e1.streamlock.net/vintageradiotv/vintageradiotv/playlist.m3u8
-#EXTINF:-1 tvg-name="Virgin Radio TV Ⓖ" group-title="Uncategorized"
-Virgin Radio TV Ⓖ
-https://live02-seg.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="Visual Radio (576p) [Not 24/7]" group-title="Uncategorized"
 Visual Radio (576p) [Not 24/7]
 http://wms.shared.streamshow.it:1935/visualradio/visualradio/live.m3u8
@@ -1343,9 +1148,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/pl
 #EXTINF:-1 tvg-name="ZB Music (720p)" group-title="Uncategorized"
 ZB Music (720p)
 https://server.zillarbarta.com/zbmusic/index.m3u8
-#EXTINF:-1 tvg-name="Zerouno Tv Music" group-title="Uncategorized"
-Zerouno Tv Music
-https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8
 #EXTINF:-1 tvg-name="Zona Music TV (1080p)" group-title="Uncategorized"
 Zona Music TV (1080p)
 https://acceso.radiosportstv.online:3022/stream/play.m3u8

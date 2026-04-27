@@ -2,9 +2,6 @@
 #EXTINF:-1 tvg-name="Al Jazeera Documentary (1080p) [Geo-blocked]" group-title="Uncategorized"
 Al Jazeera Documentary (1080p) [Geo-blocked]
 https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8
-#EXTINF:-1 tvg-name="Al Jazeera Documentary Ⓖ" group-title="Uncategorized"
-Al Jazeera Documentary Ⓖ
-https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
 #EXTINF:-1 tvg-name="Alone By History (720p)" group-title="Uncategorized"
 Alone By History (720p)
 https://d3181anftsyl2u.cloudfront.net/v1/aenetworks_alone_1/samsungheadend_us/latest/main/hls/playlist.m3u8
@@ -38,18 +35,12 @@ http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_asian_network/bbc_asian
 #EXTINF:-1 tvg-name="BBC Comedy (720p)" group-title="Uncategorized"
 BBC Comedy (720p)
 https://d1em2hga7sgumq.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-name="BBC Doctor Who" group-title="Uncategorized"
-BBC Doctor Who
-https://bbceu-doctorwho-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="BBC Doctor Who Classic (1080p)" group-title="Uncategorized"
 BBC Doctor Who Classic (1080p)
 https://bbc-classicdrwho-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="BBC Drama" group-title="Uncategorized"
 BBC Drama
 https://jmp2.uk/plu-60d35a74c63c3c0008df6a90.m3u8
-#EXTINF:-1 tvg-name="BBC Drama – Pluto TV" group-title="Uncategorized"
-BBC Drama – Pluto TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62e7fa5ab5062e0007dcf97d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-name="BBC Drama (1080p)" group-title="Uncategorized"
 BBC Drama (1080p)
 https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
@@ -98,9 +89,6 @@ https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_c
 #EXTINF:-1 tvg-name="BBC News Europe (1080p)" group-title="Uncategorized"
 BBC News Europe (1080p)
 http://103.213.31.109:90/BBCNewsHD/playlist.m3u8
-#EXTINF:-1 tvg-name="BBC News Ⓖ" group-title="Uncategorized"
-BBC News Ⓖ
-https://vs-hls-push-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.m3u8
 #EXTINF:-1 tvg-name="BBC News Pashto (720p)" group-title="Uncategorized"
 BBC News Pashto (720p)
 https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_afghan_tv/pc_hd_abr_v2.mpd
@@ -380,12 +368,6 @@ https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
 #EXTINF:-1 tvg-name="CGTN Documentary (1080p)" group-title="Uncategorized"
 CGTN Documentary (1080p)
 https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
-#EXTINF:-1 tvg-name="CGTN Documentary English Ⓢ" group-title="Uncategorized"
-CGTN Documentary English Ⓢ
-https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
-#EXTINF:-1 tvg-name="Discovery Channel" group-title="Uncategorized"
-Discovery Channel
-https://d24aqelmrau4kx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l1oas691aj7p2/WBTV_IT.m3u8
 #EXTINF:-1 tvg-name="Documentary+ (1080p)" group-title="Uncategorized"
 Documentary+ (1080p)
 https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-859-DOCUMENTARYPLUS-DOCUMENTARYPLUS/mt/documentaryplus/859/hls/master/playlist.m3u8
@@ -428,9 +410,6 @@ http://103.72.101.252:8080/live/1471.m3u8
 #EXTINF:-1 tvg-name="History TV18 HD (1080p)" group-title="Uncategorized"
 History TV18 HD (1080p)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/HistoryTV18HD.m3u8
-#EXTINF:-1 tvg-name="Macedonian Documentary Channel" group-title="Uncategorized"
-Macedonian Documentary Channel
-https://giganet.mk/hls/macdoc.m3u8
 #EXTINF:-1 tvg-name="Modern Marvels by HISTORY (720p)" group-title="Uncategorized"
 Modern Marvels by HISTORY (720p)
 https://jmp2.uk/plu-65775d29dfed030008cb3db2.m3u8
@@ -446,12 +425,6 @@ https://saran-live.ercdn.net/natgeohd/index.m3u8
 #EXTINF:-1 tvg-name="National Geographic (Finland) (720p) [Geo-blocked]" group-title="Uncategorized"
 National Geographic (Finland) (720p) [Geo-blocked]
 https://live-fi.tvkaista.net/national-geographic/live.m3u8?hd=true
-#EXTINF:-1 tvg-name="National Geographic Abu Dhabi" group-title="Uncategorized"
-National Geographic Abu Dhabi
-https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="National Geographic Finland Ⓖ" group-title="Uncategorized"
-National Geographic Finland Ⓖ
-https://live-fi.tvkaista.net/national-geographic/live.m3u8?src=freetv
 #EXTINF:-1 tvg-name="National Geographic HD (1080p)" group-title="Uncategorized"
 National Geographic HD (1080p)
 http://103.157.248.140:8000/play/a012/index.m3u8
@@ -479,9 +452,6 @@ https://amg02333-pbs-amg02333c1-samsung-au-1253.playouts.now.amagi.tv/playlist/a
 #EXTINF:-1 tvg-name="PBS Science (1080p)" group-title="Uncategorized"
 PBS Science (1080p)
 https://amg02333-pbs-amg02333c13-samsung-au-6858.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Pluto TV Documentaries" group-title="Uncategorized"
-Pluto TV Documentaries
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b85a7582921777994caea63/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=91&deviceId=5b85a7582921777994caea63&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-name="Pluto TV History" group-title="Uncategorized"
 Pluto TV History
 https://jmp2.uk/plu-5d767b1c126c65d0a307355f.m3u8
@@ -490,9 +460,6 @@ Pluto TV Science
 https://jmp2.uk/plu-5d767b4889bca2ce7b73ef2e.m3u8
 #EXTINF:-1 tvg-name="RT Documentary English (1080p) [Geo-blocked]" group-title="Uncategorized"
 RT Documentary English (1080p) [Geo-blocked]
-https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
-#EXTINF:-1 tvg-name="RT Documentary English Ⓖ" group-title="Uncategorized"
-RT Documentary English Ⓖ
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
 #EXTINF:-1 tvg-name="RT Documentary Russian (1080p)" group-title="Uncategorized"
 RT Documentary Russian (1080p)

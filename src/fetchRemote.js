@@ -10,8 +10,11 @@ const { URL } = require('url');
 // Remote IPTV sources
 const REMOTE_SOURCES = [
   'https://iptv-org.github.io/iptv/index.m3u',
-  'https://iptv-org.github.io/iptv/categories/sports.m3u',
-  'https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8'
+  'https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_uk.m3u8',
+  'https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_usa_vod.m3u8',
+  'https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_usa.m3u8',
+  'https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_korea.m3u8',
+  'https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_china.m3u8'
 ];
 
 /**

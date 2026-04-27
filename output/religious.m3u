@@ -122,15 +122,6 @@ http://43.252.18.195:5080/live/streams/ctv9_hd_playlist.m3u8
 #EXTINF:-1 tvg-name="CTV Barranquilla (1080p)" group-title="Uncategorized"
 CTV Barranquilla (1080p)
 https://live.ctvbarranquilla.com/live/ctv-4ad31c89f3764bf0980e642bc12fd00a.m3u8
-#EXTINF:-1 tvg-name="CTV News" group-title="Uncategorized"
-CTV News
-https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8
-#EXTINF:-1 tvg-name="CTV News Channel (中視新聞台) Ⓨ" group-title="Uncategorized"
-CTV News Channel (中視新聞台) Ⓨ
-https://www.youtube.com/watch?v=TCnaIE_SAtM
-#EXTINF:-1 tvg-name="CTV Toronto" group-title="Uncategorized"
-CTV Toronto
-https://bozztv.com/teleyupp1/teleup-zxsJFt6VvY/playlist.m3u8
 #EXTINF:-1 tvg-name="CTV3 (720p)" group-title="Uncategorized"
 CTV3 (720p)
 https://streamer2.nexgen.bz/03-CTVOW/index.m3u8
@@ -182,15 +173,6 @@ https://server.livelegitpro.in:9899/gospeltv/index.m3u8
 #EXTINF:-1 tvg-name="ICTV (480p) [Not 24/7]" group-title="Uncategorized"
 ICTV (480p) [Not 24/7]
 https://goliveafrica.media:9998/live/659a7f33bed3f/index.m3u8
-#EXTINF:-1 tvg-name="ICTV Serialy" group-title="Uncategorized"
-ICTV Serialy
-http://cdnua05.hls.tv/624/hls/f62d71219200da4130d13b21d23fb23c/4896/stream.m3u8
-#EXTINF:-1 tvg-name="ICTV2" group-title="Uncategorized"
-ICTV2
-http://cdnua05.hls.tv/919/hls/8743361621b245838bee193c9ec28322/4835/stream.m3u8
-#EXTINF:-1 tvg-name="KCTV" group-title="Uncategorized"
-KCTV
-https://tv.nknews.org/tvdash/stream.mpd
 #EXTINF:-1 tvg-name="KCTV 광주 CH05 (720p) [Not 24/7]" group-title="Uncategorized"
 KCTV 광주 CH05 (720p) [Not 24/7]
 http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
@@ -272,9 +254,6 @@ https://channels.trace.plus/Traceprod/GOSPEL_FR/.m3u8
 #EXTINF:-1 tvg-name="Trinity Channel" group-title="Uncategorized"
 Trinity Channel
 https://edge66.magictvbox.com/liveApple/trinity/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Trinity TV" group-title="Uncategorized"
-Trinity TV
-https://sktv-forwarders.7m.pl/get.php?x=Trinity_TV
 #EXTINF:-1 tvg-name="Trinity TV (480p) [Not 24/7]" group-title="Uncategorized"
 Trinity TV (480p) [Not 24/7]
 https://5d00db0e0fcd5.streamlock.net/7410/7410/playlist.m3u8
@@ -287,12 +266,6 @@ http://217.26.190.76:8888/play/a0m6/index.m3u8
 #EXTINF:-1 tvg-name="TVN (720p)" group-title="Uncategorized"
 TVN (720p)
 https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/playlist_dvr.m3u8
-#EXTINF:-1 tvg-name="TVN 3" group-title="Uncategorized"
-TVN 3
-https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
-#EXTINF:-1 tvg-name="TVN Ⓖ" group-title="Uncategorized"
-TVN Ⓖ
-https://sktv-forwarders.7m.pl/get.php?x=TVN
 #EXTINF:-1 tvg-name="TVN24 (720p)" group-title="Uncategorized"
 TVN24 (720p)
 https://ss2.tvrdomi.com:1936/vozzmedianetwork/vozzmedianetwork/playlist.m3u8

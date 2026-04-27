@@ -113,9 +113,6 @@ https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg
 #EXTINF:-1 tvg-name="Disney Channel Japan (544p)" group-title="Uncategorized"
 Disney Channel Japan (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
-#EXTINF:-1 tvg-name="FTV Taiwan (民視台灣台)" group-title="Uncategorized"
-FTV Taiwan (民視台灣台)
-http://seb.sason.top/ptv/ftv.php?id=tw
 #EXTINF:-1 tvg-name="FTV Taiwan (民視台灣台) (720p) [Not 24/7]" group-title="Uncategorized"
 FTV Taiwan (民視台灣台) (720p) [Not 24/7]
 http://seb.sason.top/ptv/ftv.php?id=tw
@@ -152,33 +149,24 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10
 #EXTINF:-1 tvg-name="NHK BS" group-title="Uncategorized"
 NHK BS
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11
-#EXTINF:-1 tvg-name="NHK BSP4K" group-title="Uncategorized"
-NHK BSP4K
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS103&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-name="NHK BSP4K (1080p)" group-title="Uncategorized"
 NHK BSP4K (1080p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
-#EXTINF:-1 tvg-name="NHK Eテレ（東京）" group-title="Uncategorized"
-NHK Eテレ（東京）
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-name="NHK G (Osaka) (544p)" group-title="Uncategorized"
 NHK G (Osaka) (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
 #EXTINF:-1 tvg-name="NHK Kishou Saigai (360p) [Not 24/7]" group-title="Uncategorized"
 NHK Kishou Saigai (360p) [Not 24/7]
 https://newssimul-stream.nhk.jp/hls/live/2010561/nhknewssimul/master.m3u8
-#EXTINF:-1 tvg-name="NHK WORLD JAPAN" group-title="Uncategorized"
-NHK WORLD JAPAN
-https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
+#EXTINF:-1 tvg-name="NHK World Japan" group-title="Uncategorized"
+NHK World Japan
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1 tvg-name="NHK World-Japan (1080p)" group-title="Uncategorized"
 NHK World-Japan (1080p)
 https://livehub-voidnet.onrender.com/cluster/streamcore/jp/NHK_StreamOrchestrator.m3u8
 #EXTINF:-1 tvg-name="NHK World-Japan HD (1080p) [Geo-blocked]" group-title="Uncategorized"
 NHK World-Japan HD (1080p) [Geo-blocked]
 https://nhk.lls.pbs.org/index.m3u8
-#EXTINF:-1 tvg-name="NHK総合 (東京)" group-title="Uncategorized"
-NHK総合 (東京)
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS291&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-name="NTD TV China" group-title="Uncategorized"
 NTD TV China
 https://live.ntdtv.com/cnlive900/playlist.m3u8
@@ -197,12 +185,6 @@ http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 #EXTINF:-1 tvg-name="Taiwan Plus TV (1080p)" group-title="Uncategorized"
 Taiwan Plus TV (1080p)
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-#EXTINF:-1 tvg-name="Taiwan+" group-title="Uncategorized"
-Taiwan+
-https://ythls.armelin.one/channel/UC7c6rvyAZLpKGk8ttVnpnLA.m3u8
-#EXTINF:-1 tvg-name="TaiwanPlus Ⓨ" group-title="Uncategorized"
-TaiwanPlus Ⓨ
-https://www.youtube.com/watch?v=dZp87qnWelE
 #EXTINF:-1 tvg-name="Thai Parliament TV (1080p) [Not 24/7]" group-title="Uncategorized"
 Thai Parliament TV (1080p) [Not 24/7]
 https://tv-live.tpchannel.org/live/tv.m3u8
