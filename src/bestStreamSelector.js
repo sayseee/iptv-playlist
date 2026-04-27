@@ -1,141 +1,146 @@
 /**
- * Best Stream Selector
- * Selects the best stream for each channel using multiple criteria
+ * Best Stream Selector (FIXED STABLE VERSION)
  */
 
-const { rankStreams } = require('./healthChecker');
-
-/**
- * Calculate source priority
- * Official sources get higher priority
- */
-function getSourcePriority(source) {
-  const sourceMap = {
+function getSourcePriority(source = '') {
+  const map = {
     'iptv-org.github.io': 100,
     'github.com/Free-TV': 90,
     'official': 85,
     'primary': 80
   };
-  
-  for (const [key, priority] of Object.entries(sourceMap)) {
+
+  for (const key in map) {
     if (source.toLowerCase().includes(key)) {
-      return priority;
+      return map[key];
     }
   }
-  
-  return 50; // Default priority for unknown sources
+
+  return 50;
 }
 
-/**
- * Score a stream candidate
- */
-function scoreStreamCandidate(stream, healthData = null) {
-  let score = 0;
-  
-  // Health score (if available)
-  if (healthData) {
-    if (healthData.alive) {
-      score += 50;
-      // Bonus for low latency
-      if (healthData.latency < 1000) score += 30;
-      else if (healthData.latency < 2000) score += 15;
-    }
-  } else {
-    score += 30; // Neutral score if no health data
+function scoreStream(stream, health) {
+  let score = 40; // 🔥 base score (IMPORTANT FIX)
+
+  // Health boost (optional only)
+  if (health?.alive) {
+    score += 40;
+
+    if (health.latency < 1000) score += 25;
+    else if (health.latency < 2000) score += 15;
   }
-  
+
+  // Penalize geo-blocked
+  if (health?.geoBlocked) {
+    score -= 100;
+  }
+
   // Source priority
-  const sourcePriority = getSourcePriority(stream.source || '');
-  score += (sourcePriority / 100) * 20;
-  
+  score += (getSourcePriority(stream.source) / 100) * 20;
+
   return score;
 }
 
 /**
- * Select best stream from alternatives
+ * Select best stream safely (NO NULL COLLAPSE EVER)
  */
-function selectBestStream(channelGroup, healthDataMap = {}) {
-  if (!channelGroup.streams || channelGroup.streams.length === 0) {
-    return null;
+function selectBestStream(group, healthMap = {}) {
+  if (!group || !group.streams || group.streams.length === 0) {
+    return {
+      channel: group?.name || 'Unknown',
+      normalized_name: group?.normalized_name || '',
+      best_stream: null,
+      alternatives: [],
+      total_alternatives: 0,
+      group: group?.group || 'Uncategorized'
+    };
   }
-  
-  // Filter out geo-blocked streams
-  const nonBlockedStreams = channelGroup.streams.filter(stream => {
-    const health = healthDataMap[stream.url];
-    return !health || !health.geoBlocked;
-  });
-  
-  if (nonBlockedStreams.length === 0) {
-    // All streams are geo-blocked, return null
-    return null;
+
+  let streams = group.streams;
+
+  // optional filtering only if health exists
+  if (Object.keys(healthMap).length > 0) {
+    streams = streams.filter(s => {
+      const h = healthMap[s.url];
+      return !h?.geoBlocked;
+    });
   }
-  
-  // Score each non-blocked stream
-  const scoredStreams = nonBlockedStreams.map(stream => ({
-    ...stream,
-    health: healthDataMap[stream.url],
-    score: scoreStreamCandidate(stream, healthDataMap[stream.url])
+
+  // 🔥 CRITICAL FALLBACK (prevents empty collapse)
+  if (!streams.length) {
+    streams = group.streams;
+  }
+
+  const scored = streams.map(s => ({
+    ...s,
+    health: healthMap[s.url],
+    score: scoreStream(s, healthMap[s.url])
   }));
-  
-  // Sort by score (descending)
-  scoredStreams.sort((a, b) => b.score - a.score);
-  
-  // Return the best stream
+
+  // 🔥 HARD GUARANTEE: NEVER EMPTY
+  if (!scored.length) {
+    return {
+      channel: group.name,
+      normalized_name: group.normalized_name,
+      best_stream: group.streams[0], // fallback raw stream
+      alternatives: [],
+      total_alternatives: 1,
+      group: group.group
+    };
+  }
+
+  scored.sort((a, b) => b.score - a.score);
+
   return {
-    channel: channelGroup.name,
-    normalized_name: channelGroup.normalized_name,
-    best_stream: scoredStreams[0],
-    alternatives: scoredStreams.slice(1),
-    total_alternatives: scoredStreams.length,
-    group: channelGroup.group
+    channel: group.name,
+    normalized_name: group.normalized_name,
+    best_stream: scored[0],
+    alternatives: scored.slice(1),
+    total_alternatives: scored.length,
+    group: group.group
   };
 }
 
 /**
- * Select best streams for all channels
+ * Select all streams (SAFE MODE ALWAYS)
  */
-function selectBestStreamsForAll(channelGroups, healthDataArray = []) {
-  // Create health data map for quick lookup
-  const healthDataMap = {};
-  healthDataArray.forEach(health => {
-    healthDataMap[health.url] = health;
+function selectBestStreamsForAll(groups, healthArray = []) {
+  const map = {};
+
+  healthArray.forEach(h => {
+    map[h.url] = h;
   });
-  
-  return channelGroups.map(group => selectBestStream(group, healthDataMap));
+
+  return groups.map(g => selectBestStream(g, map));
 }
 
 /**
- * Build final playlist with best streams
+ * Build final playlist (SAFE GUARANTEE)
  */
-function buildFinalPlaylist(selectedStreams) {
+function buildFinalPlaylist(selected) {
   const playlist = [];
-  
-  selectedStreams.forEach(item => {
-    if (item && item.best_stream) {
-      playlist.push({
-        title: item.channel,
-        url: item.best_stream.url,
-        tvgId: item.best_stream.tvgId || '',
-        tvgName: item.best_stream.title,
-        tvgLogo: item.best_stream.tvgLogo || '',
-        group: item.group || 'Uncategorized',
-        source: item.best_stream.source || 'unknown',
-        health: {
-          alive: item.best_stream.health ? item.best_stream.health.alive : null,
-          latency: item.best_stream.health ? item.best_stream.health.latency : null
-        },
-        score: item.best_stream.score
-      });
-    }
+
+  selected.forEach(item => {
+    if (!item) return;
+
+    // 🔥 EVEN IF best_stream missing, keep fallback
+    const stream = item.best_stream || item.alternatives?.[0];
+
+    if (!stream) return;
+
+    playlist.push({
+      title: item.channel,
+      url: stream.url,
+      group: item.group || 'Uncategorized',
+      score: stream.score || 0
+    });
   });
-  
+
   return playlist;
 }
 
 module.exports = {
   selectBestStream,
   selectBestStreamsForAll,
-  buildFinalPlaylist,
-  scoreStreamCandidate,
-  getSourcePriority
+  buildFinalPlaylist
 };

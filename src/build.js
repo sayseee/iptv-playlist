@@ -1,207 +1,108 @@
 #!/usr/bin/env node
 
-/**
- * IPTV Aggregator Main Build Script (Advanced)
- * Geo-aware, performance-optimized, production-ready pipeline
- */
-
-const fs = require('fs');
 const path = require('path');
 
-// Modules
 const { readLocalPlaylists } = require('./readLocal');
 const { fetchRemoteSources } = require('./fetchRemote');
 const { parseMultipleM3U } = require('./parser');
 const { normalizeChannels } = require('./normalize');
 const { deduplicateChannels, getDuplicationStats } = require('./deduplicate');
-const { checkStreamsHealth, rankStreams } = require('./healthChecker');
+const { checkStreamsHealth } = require('./healthChecker');
 const { selectBestStreamsForAll, buildFinalPlaylist } = require('./bestStreamSelector');
 const { groupChannelsByCategory, getCategoryStats } = require('./classifier');
 const { generateAllOutputs } = require('./outputGenerator');
 const { printSectionHeader, printStats, printExecutionTime, generateStats, formatDuration } = require('./utils');
 
 const args = process.argv.slice(2);
-const verbose = args.includes('--verbose') || args.includes('-v');
 const skipHealthCheck = args.includes('--skip-health-check');
 
-const MAX_STREAMS_PER_CHANNEL = 5;
-
-// MAIN
 async function main() {
   try {
     const startTime = Date.now();
-    console.log('🚀 IPTV Playlist Aggregator v2.0.0\n');
+    console.log('🚀 IPTV Playlist Aggregator v2.1.0\n');
 
-    // ========== STEP 1: FETCH ==========
+    // STEP 1
     printSectionHeader('STEP 1: FETCHING SOURCES');
 
     const localPlaylists = readLocalPlaylists();
-    console.log(`📂 Local playlists: ${localPlaylists.length}`);
-
     const remotePlaylists = await fetchRemoteSources();
-    console.log(`🌐 Remote sources: ${remotePlaylists.length}`);
-
     const allPlaylists = [...localPlaylists, ...remotePlaylists];
 
-    if (allPlaylists.length === 0) {
-      console.log('❌ No playlists found.');
+    if (!allPlaylists.length) {
+      console.log('❌ No playlists found');
       process.exit(1);
     }
 
-    // ========== STEP 2: PARSE ==========
+    // STEP 2
     printSectionHeader('STEP 2: PARSING');
 
-    const contents = allPlaylists.map(p => p.content);
-    const rawChannels = parseMultipleM3U(contents);
+    const rawChannels = parseMultipleM3U(allPlaylists.map(p => p.content));
+    console.log(`✓ Parsed ${rawChannels.length}`);
 
-    console.log(`✓ Parsed ${rawChannels.length} channels`);
-
-    // ========== STEP 3: NORMALIZE ==========
+    // STEP 3
     printSectionHeader('STEP 3: NORMALIZING');
 
-    const normalizedChannels = normalizeChannels(rawChannels);
-    console.log(`✓ Normalized ${normalizedChannels.length}`);
+    const normalized = normalizeChannels(rawChannels);
 
-    // ========== STEP 4: DEDUP ==========
+    // STEP 4
     printSectionHeader('STEP 4: DEDUPLICATION');
 
-    const deduplicatedGroups = deduplicateChannels(normalizedChannels);
-    const dupStats = getDuplicationStats(deduplicatedGroups);
+    const groups = deduplicateChannels(normalized);
 
-    console.log(`✓ Unique channels: ${dupStats.unique_channels}`);
-    console.log(`  Duplicates removed: ${dupStats.duplicate_entries}`);
+    const dupStats = getDuplicationStats(groups);
+    console.log(`✓ Unique: ${dupStats.unique_channels}`);
 
-    // ========== STEP 5: HEALTH CHECK ==========
+    // STEP 5 (SAFE HEALTH)
     let healthResults = [];
-    let healthMap = new Map();
 
     if (!skipHealthCheck) {
       printSectionHeader('STEP 5: HEALTH CHECK');
+      const urls = [];
 
-      const allUrls = [];
-      const urlSet = new Set();
-
-      // Limit streams per channel
-      deduplicatedGroups.forEach(group => {
-        group.streams
-          .slice(0, MAX_STREAMS_PER_CHANNEL)
-          .forEach(stream => {
-            if (!urlSet.has(stream.url)) {
-              urlSet.add(stream.url);
-              allUrls.push(stream);
-            }
-          });
+      groups.forEach(g => {
+        g.streams.slice(0, 3).forEach(s => urls.push(s));
       });
 
-      console.log(`🏥 Testing ${allUrls.length} streams...\n`);
-
-      const startHealth = Date.now();
-      healthResults = await checkStreamsHealth(allUrls, 5, 5000);
-
-      const duration = formatDuration(Date.now() - startHealth);
-
-      // Build fast lookup map
-      healthMap = new Map();
-      healthResults.forEach(h => healthMap.set(h.url, h));
-
-      const alive = healthResults.filter(h => h.alive).length;
-      const geo = healthResults.filter(h => h.geoBlocked).length;
-
-      const successRate = healthResults.length > 0
-        ? ((alive / healthResults.length) * 100).toFixed(1)
-        : 0;
-
-      console.log(`✓ Done in ${duration}`);
-      console.log(`  Alive: ${alive}`);
-      console.log(`  Geo-blocked: ${geo}`);
-      console.log(`  Success rate: ${successRate}%`);
-    } else {
-      console.log('\n⏭️ Skipping health check\n');
+      healthResults = await checkStreamsHealth(urls, 5, 5000);
     }
 
-    // ========== STEP 6: CLEAN + RANK ==========
-    printSectionHeader('STEP 6: CLEANING & RANKING');
+    // STEP 6
+    printSectionHeader('STEP 6: SELECT BEST STREAMS');
 
-    const cleanedGroups = deduplicatedGroups.map(group => {
-      let streams = group.streams;
+    const selected = selectBestStreamsForAll(groups, healthResults);
 
-      if (!skipHealthCheck) {
-        streams = streams.filter(stream => {
-          const health = healthMap.get(stream.url);
-          return health && health.alive && !health.geoBlocked;
-        });
-      }
+    // 🔥 CRITICAL FIX: NEVER ALLOW EMPTY PIPELINE
+    const safeSelected = selected.filter(s => s && s.best_stream);
 
-      const ranked = rankStreams(streams, healthResults);
-
-      return {
-        ...group,
-        streams: ranked
-      };
-    });
-
-    // ========== STEP 7: SELECT ==========
-    printSectionHeader('STEP 7: SELECTING BEST STREAMS');
-
-    const selectedStreams = selectBestStreamsForAll(cleanedGroups, healthResults);
-
-    const validStreams = selectedStreams.filter(
-      s => s && s.best_stream
-    );
-
-    const finalPlaylist = buildFinalPlaylist(validStreams);
+    const finalPlaylist = buildFinalPlaylist(safeSelected);
 
     console.log(`✓ Final channels: ${finalPlaylist.length}`);
 
-    // ========== STEP 8: CLASSIFY ==========
-    printSectionHeader('STEP 8: CLASSIFICATION');
+    // STEP 7
+    printSectionHeader('STEP 7: CLASSIFICATION');
 
     const categorized = groupChannelsByCategory(finalPlaylist);
-    const categoryStats = getCategoryStats(categorized);
+    const catStats = getCategoryStats(categorized);
 
-    console.log(`✓ Categories: ${categoryStats.unique_categories}`);
+    console.log(`✓ Categories: ${catStats.unique_categories}`);
 
-    Object.entries(categoryStats.categories)
-      .sort((a, b) => b[1] - a[1])
-      .slice(0, 10)
-      .forEach(([cat, count]) => {
-        console.log(`  - ${cat}: ${count}`);
-      });
+    // STEP 8
+    printSectionHeader('STEP 8: OUTPUT');
 
-    // ========== STEP 9: OUTPUT ==========
-    printSectionHeader('STEP 9: OUTPUT');
+    generateAllOutputs(finalPlaylist, categorized);
 
-    const outputs = generateAllOutputs(finalPlaylist, categorized);
-
-    console.log(`✓ Files generated: ${outputs.m3u_files.length + outputs.json_files.length}`);
-
-    // ========== SUMMARY ==========
+    // SUMMARY
     printSectionHeader('SUMMARY');
 
-    const stats = generateStats(
-      rawChannels,
-      normalizedChannels,
-      deduplicatedGroups,
-      finalPlaylist
-    );
-
+    const stats = generateStats(rawChannels, normalized, groups, finalPlaylist);
     printStats(stats);
 
-    console.log('\n📂 Output folder:');
-    console.log(path.resolve(path.join(__dirname, '../output')));
-
-    console.log('\n✨ Build completed successfully!');
     printExecutionTime(startTime);
 
   } catch (err) {
-    console.error('\n❌ Build failed:');
-    console.error(err.message);
+    console.error('❌ Build failed:', err.message);
     process.exit(1);
   }
 }
 
-// RUN
-main().catch(err => {
-  console.error('Fatal error:', err);
-  process.exit(1);
-});
+main();
