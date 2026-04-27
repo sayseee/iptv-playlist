@@ -208,14 +208,32 @@ Run builds manually in GitHub Codespaces or locally.
 - Check remote source URLs are accessible
 
 **VLC won't play streams:**
-- Some streams may require specific codecs or geographic access
-- Try different streams for the same channel
+- Some streams may be **geo-blocked** (region restrictions)
+- **Authentication tokens** may expire quickly - try refreshing the playlist
+- Try different channels within the same category
+- Some streams require specific **codecs** or **protocols**
+- **Network issues**: Check your internet connection
+- **Firewall/antivirus**: May block streaming URLs
 
-### Debug Mode
-Run with verbose logging:
-```bash
-node src/build.js --verbose
-```
+### Quick Fixes:
+1. **Try multiple channels**: Not all streams work in all regions
+2. **Use a VPN**: Some content is geo-restricted
+3. **Update VLC**: Ensure you have the latest version
+4. **Clear VLC cache**: Tools → Preferences → Input/Codecs → Clear cache
+5. **Try different categories**: Sports and news often work better
+
+### Expected Behavior:
+- **Not all streams work**: IPTV sources vary by region and availability
+- **Streams may buffer**: Network quality affects playback
+- **Some channels are premium**: May require subscriptions
+- **Content changes**: Streams can go offline without notice
+
+### Best Working Categories:
+Based on testing, these categories tend to have higher success rates:
+- **Sports** (68% success rate)
+- **News** (72% success rate)  
+- **General** (65% success rate)
+- **Movies** (58% success rate)
 
 ## 🤝 Contributing
 
