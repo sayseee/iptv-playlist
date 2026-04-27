@@ -1,0 +1,514 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Al Jazeera Documentary (1080p) [Geo-blocked]" group-title="Uncategorized"
+Al Jazeera Documentary (1080p) [Geo-blocked]
+https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8
+#EXTINF:-1 tvg-name="Al Jazeera Documentary Ⓖ" group-title="Uncategorized"
+Al Jazeera Documentary Ⓖ
+https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
+#EXTINF:-1 tvg-name="Alone By History (720p)" group-title="Uncategorized"
+Alone By History (720p)
+https://d3181anftsyl2u.cloudfront.net/v1/aenetworks_alone_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-name="American Pickers by History (1080p) [Geo-blocked]" group-title="Uncategorized"
+American Pickers by History (1080p) [Geo-blocked]
+https://pb-k9ikw6ov8z4qi.akamaized.net/American_Pickers_by_History.m3u8
+#EXTINF:-1 tvg-name="Asharq Discovery (1080p)" group-title="Uncategorized"
+Asharq Discovery (1080p)
+https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-name="Asharq Documentary (1080p)" group-title="Uncategorized"
+Asharq Documentary (1080p)
+https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-name="Autentic History (1080p)" group-title="Uncategorized"
+Autentic History (1080p)
+https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8
+#EXTINF:-1 tvg-name="BBC Alba (1080p) [Geo-blocked]" group-title="Uncategorized"
+BBC Alba (1080p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_alba/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-name="BBC Alba Ⓖ" group-title="Uncategorized"
+BBC Alba Ⓖ
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_alba/iptv_hd_abr_v1.m3u8
+#EXTINF:-1 tvg-name="BBC America" group-title="Uncategorized"
+BBC America
+https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:-1 tvg-name="BBC Arabic (720p)" group-title="Uncategorized"
+BBC Arabic (720p)
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
+#EXTINF:-1 tvg-name="BBC Asian Network" group-title="Uncategorized"
+BBC Asian Network
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_asian_network/bbc_asian_network.isml/bbc_asian_network-audio%3d96000.norewind.m3u8
+#EXTINF:-1 tvg-name="BBC Comedy (720p)" group-title="Uncategorized"
+BBC Comedy (720p)
+https://d1em2hga7sgumq.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-name="BBC Doctor Who" group-title="Uncategorized"
+BBC Doctor Who
+https://bbceu-doctorwho-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="BBC Doctor Who Classic (1080p)" group-title="Uncategorized"
+BBC Doctor Who Classic (1080p)
+https://bbc-classicdrwho-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="BBC Drama" group-title="Uncategorized"
+BBC Drama
+https://jmp2.uk/plu-60d35a74c63c3c0008df6a90.m3u8
+#EXTINF:-1 tvg-name="BBC Drama – Pluto TV" group-title="Uncategorized"
+BBC Drama – Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62e7fa5ab5062e0007dcf97d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-name="BBC Drama (1080p)" group-title="Uncategorized"
+BBC Drama (1080p)
+https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="BBC Drama (1080p) [Geo-blocked]" group-title="Uncategorized"
+BBC Drama (1080p) [Geo-blocked]
+https://pb-0ix3l1oxmg1fj.akamaized.net/playlist.m3u8
+#EXTINF:-1 tvg-name="BBC Drama Italy (1080p)" group-title="Uncategorized"
+BBC Drama Italy (1080p)
+https://amg00793-amg00793c41-rakuten-it-5445.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="BBC Earth (1080p)" group-title="Uncategorized"
+BBC Earth (1080p)
+https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
+#EXTINF:-1 tvg-name="BBC Food" group-title="Uncategorized"
+BBC Food
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-name="BBC Food (1080p)" group-title="Uncategorized"
+BBC Food (1080p)
+https://d1e9r0b71zfwk7.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-name="BBC Four Ⓖ" group-title="Uncategorized"
+BBC Four Ⓖ
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_hd_abr_v1.m3u8
+#EXTINF:-1 tvg-name="BBC Four HD (1080p) [Geo-blocked]" group-title="Uncategorized"
+BBC Four HD (1080p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-name="BBC Four UK HD" group-title="Uncategorized"
+BBC Four UK HD
+https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8
+#EXTINF:-1 tvg-name="BBC Four/CBeebies (1080p) [Geo-Blocked]" group-title="Uncategorized"
+BBC Four/CBeebies (1080p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-HLS8/bbc4cbeebies.m3u8
+#EXTINF:-1 tvg-name="BBC Home" group-title="Uncategorized"
+BBC Home
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe745b600070fc743/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-name="BBC Home & Garden (1080p)" group-title="Uncategorized"
+BBC Home & Garden (1080p)
+https://d11r33s5i066xh.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-name="BBC Impossible" group-title="Uncategorized"
+BBC Impossible
+https://bbc-impossible-1-us.xumo.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="BBC Kids (720p)" group-title="Uncategorized"
+BBC Kids (720p)
+https://dmr1h4skdal9h.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-name="BBC News (1080p)" group-title="Uncategorized"
+BBC News (1080p)
+https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-name="BBC News Europe (1080p)" group-title="Uncategorized"
+BBC News Europe (1080p)
+http://103.213.31.109:90/BBCNewsHD/playlist.m3u8
+#EXTINF:-1 tvg-name="BBC News Ⓖ" group-title="Uncategorized"
+BBC News Ⓖ
+https://vs-hls-push-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.m3u8
+#EXTINF:-1 tvg-name="BBC News Pashto (720p)" group-title="Uncategorized"
+BBC News Pashto (720p)
+https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_afghan_tv/pc_hd_abr_v2.mpd
+#EXTINF:-1 tvg-name="BBC One Channel Islands (1080p) [Geo-blocked]" group-title="Uncategorized"
+BBC One Channel Islands (1080p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_channel_islands/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-name="BBC One East (1080p) [Geo-blocked]" group-title="Uncategorized"
+BBC One East (1080p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-name="BBC One East Midlands (1080p) [Geo-blocked]" group-title="Uncategorized"
+BBC One East Midlands (1080p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_midlands/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-name="BBC One East Midlands (720p) [Geo-blocked]" group-title="Uncategorized"
+BBC One East Midlands (720p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_midlands/pc_hd_abr_v2.mpd
+#EXTINF:-1 tvg-name="BBC One East Yorkshire (1080p) [Geo-blocked]" group-title="Uncategorized"
+BBC One East Yorkshire (1080p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_yorkshire/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-name="BBC One Ⓖ" group-title="Uncategorized"
+BBC One Ⓖ
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_yorks/iptv_hd_abr_v1.m3u8
+#EXTINF:-1 tvg-name="BBC One London (1080p) [Geo-blocked]" group-title="Uncategorized"
+BBC One London (1080p) [Geo-blocked]
+https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-name="BBC One North East (1080p) [Geo-blocked]" group-title="Uncategorized"
+BBC One North East (1080p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_north_east/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-name="BBC One North East (720p) [Geo-blocked]" group-title="Uncategorized"
+BBC One North East (720p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_north_east/pc_hd_abr_v2.mpd
+#EXTINF:-1 tvg-name="BBC One North West (1080p) [Geo-blocked]" group-title="Uncategorized"
+BBC One North West (1080p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_north_west/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-name="BBC One North West (720p) [Geo-blocked]" group-title="Uncategorized"
+BBC One North West (720p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_north_west/pc_hd_abr_v2.mpd
+#EXTINF:-1 tvg-name="BBC One Northern Ireland HD (1080p) [Geo-blocked]" group-title="Uncategorized"
+BBC One Northern Ireland HD (1080p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_northern_ireland_hd/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-name="BBC One Northern Ireland HD (720p) [Geo-blocked]" group-title="Uncategorized"
+BBC One Northern Ireland HD (720p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_northern_ireland_hd/pc_hd_abr_v2.mpd
+#EXTINF:-1 tvg-name="BBC One Scotland (540p) [Geo-blocked]" group-title="Uncategorized"
+BBC One Scotland (540p) [Geo-blocked]
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_scotland_hd/pc_hd_abr_v2.m3u8
+#EXTINF:-1 tvg-name="BBC One Scotland HD (1080p) [Geo-blocked]" group-title="Uncategorized"
+BBC One Scotland HD (1080p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_scotland_hd/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-name="BBC One South (1080p) [Geo-blocked]" group-title="Uncategorized"
+BBC One South (1080p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-name="BBC One South East (1080p) [Geo-blocked]" group-title="Uncategorized"
+BBC One South East (1080p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south_east/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-name="BBC One South West (1080p) [Geo-blocked]" group-title="Uncategorized"
+BBC One South West (1080p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south_west/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-name="BBC One Wales (1080p) [Geo-blocked]" group-title="Uncategorized"
+BBC One Wales (1080p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_wales_hd/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-name="BBC One West (1080p) [Geo-blocked]" group-title="Uncategorized"
+BBC One West (1080p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_west/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-name="BBC One West Midlands (1080p) [Geo-blocked]" group-title="Uncategorized"
+BBC One West Midlands (1080p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_west_midlands/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-name="BBC One Yorks (720p) [Geo-blocked]" group-title="Uncategorized"
+BBC One Yorks (720p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_yorks/pc_hd_abr_v2.mpd
+#EXTINF:-1 tvg-name="BBC One Yorkshire & Lincolnshire (1080p)" group-title="Uncategorized"
+BBC One Yorkshire & Lincolnshire (1080p)
+http://92.114.85.72:8000/play/a0mp
+#EXTINF:-1 tvg-name="BBC Parliament (1080p) [Geo-blocked]" group-title="Uncategorized"
+BBC Parliament (1080p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-name="BBC Parliament Ⓢ Ⓖ" group-title="Uncategorized"
+BBC Parliament Ⓢ Ⓖ
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/pc_hd_abr_v2.m3u8
+#EXTINF:-1 tvg-name="BBC Persian (720p)" group-title="Uncategorized"
+BBC Persian (720p)
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.mpd
+#EXTINF:-1 tvg-name="BBC Radio 1" group-title="Uncategorized"
+BBC Radio 1
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d96000.norewind.m3u8
+#EXTINF:-1 tvg-name="BBC Radio 1Xtra" group-title="Uncategorized"
+BBC Radio 1Xtra
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio%3d96000.norewind.m3u8
+#EXTINF:-1 tvg-name="BBC Radio 2" group-title="Uncategorized"
+BBC Radio 2
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d96000.norewind.m3u8
+#EXTINF:-1 tvg-name="BBC Radio 3" group-title="Uncategorized"
+BBC Radio 3
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d96000.norewind.m3u8
+#EXTINF:-1 tvg-name="BBC Radio 4" group-title="Uncategorized"
+BBC Radio 4
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d96000.norewind.m3u8
+#EXTINF:-1 tvg-name="BBC Radio 4 Extra" group-title="Uncategorized"
+BBC Radio 4 Extra
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio%3d96000.norewind.m3u8
+#EXTINF:-1 tvg-name="BBC Radio 5 Live" group-title="Uncategorized"
+BBC Radio 5 Live
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d96000.norewind.m3u8
+#EXTINF:-1 tvg-name="BBC Radio 5 Sports Extra" group-title="Uncategorized"
+BBC Radio 5 Sports Extra
+http://as-hls-uk-live.akamaized.net/pool_904/live/uk/bbc_radio_five_live_sports_extra/bbc_radio_five_live_sports_extra.isml/bbc_radio_five_live_sports_extra-audio%3d96000.norewind.m3u8
+#EXTINF:-1 tvg-name="BBC Radio 6 Music" group-title="Uncategorized"
+BBC Radio 6 Music
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d96000.norewind.m3u8
+#EXTINF:-1 tvg-name="BBC RB 1 (1080p) [Geo-blocked]" group-title="Uncategorized"
+BBC RB 1 (1080p) [Geo-blocked]
+https://vs-cmaf-pushb-uk.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:red_button_one/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-name="BBC Red Button 10 (1080p) [Geo-blocked]" group-title="Uncategorized"
+BBC Red Button 10 (1080p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_010/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-name="BBC Red Button 11 (1080p) [Geo-blocked]" group-title="Uncategorized"
+BBC Red Button 11 (1080p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_011/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-name="BBC Red Button 12 (1080p) [Geo-blocked]" group-title="Uncategorized"
+BBC Red Button 12 (1080p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_012/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-name="BBC Red Button 13 (1080p) [Geo-blocked]" group-title="Uncategorized"
+BBC Red Button 13 (1080p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_013/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-name="BBC Red Button 14 (1080p) [Geo-blocked]" group-title="Uncategorized"
+BBC Red Button 14 (1080p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_014/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-name="BBC Red Button 15 (1080p) [Geo-blocked]" group-title="Uncategorized"
+BBC Red Button 15 (1080p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_015/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-name="BBC Red Button 16 (1080p) [Geo-blocked]" group-title="Uncategorized"
+BBC Red Button 16 (1080p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_016/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-name="BBC Red Button 17 (1080p) [Geo-blocked]" group-title="Uncategorized"
+BBC Red Button 17 (1080p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_017/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-name="BBC Red Button 18 (1080p) [Geo-blocked]" group-title="Uncategorized"
+BBC Red Button 18 (1080p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_018/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-name="BBC Red Button 19 (1080p) [Geo-blocked]" group-title="Uncategorized"
+BBC Red Button 19 (1080p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_019/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-name="BBC Red Button 2 (1080p) [Geo-blocked]" group-title="Uncategorized"
+BBC Red Button 2 (1080p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_002/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-name="BBC Red Button 20 (1080p) [Geo-blocked]" group-title="Uncategorized"
+BBC Red Button 20 (1080p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_020/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-name="BBC Red Button 21 (1080p) [Geo-blocked]" group-title="Uncategorized"
+BBC Red Button 21 (1080p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_021/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-name="BBC Red Button 22 (1080p) [Geo-blocked]" group-title="Uncategorized"
+BBC Red Button 22 (1080p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_022/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-name="BBC Red Button 23 (1080p) [Geo-blocked]" group-title="Uncategorized"
+BBC Red Button 23 (1080p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_023/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-name="BBC Red Button 24 (1080p) [Geo-blocked]" group-title="Uncategorized"
+BBC Red Button 24 (1080p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_024/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-name="BBC Red Button 3 (1080p) [Geo-blocked]" group-title="Uncategorized"
+BBC Red Button 3 (1080p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_003/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-name="BBC Red Button 4 (1080p) [Geo-blocked]" group-title="Uncategorized"
+BBC Red Button 4 (1080p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_004/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-name="BBC Red Button 5 (1080p) [Geo-blocked]" group-title="Uncategorized"
+BBC Red Button 5 (1080p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_005/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-name="BBC Red Button 6 (1080p) [Geo-blocked]" group-title="Uncategorized"
+BBC Red Button 6 (1080p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_006/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-name="BBC Red Button 7 (1080p) [Geo-blocked]" group-title="Uncategorized"
+BBC Red Button 7 (1080p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_007/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-name="BBC Red Button 8 (1080p) [Geo-blocked]" group-title="Uncategorized"
+BBC Red Button 8 (1080p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_008/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-name="BBC Red Button 9 (1080p) [Geo-blocked]" group-title="Uncategorized"
+BBC Red Button 9 (1080p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_009/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-name="BBC Scotland (1080p)" group-title="Uncategorized"
+BBC Scotland (1080p)
+http://92.114.85.72:8000/play/a0mf
+#EXTINF:-1 tvg-name="BBC Scotland Ⓢ Ⓖ" group-title="Uncategorized"
+BBC Scotland Ⓢ Ⓖ
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_scotland_hd/pc_hd_abr_v2.m3u8
+#EXTINF:-1 tvg-name="BBC Series" group-title="Uncategorized"
+BBC Series
+https://jmp2.uk/plu-60dafb9a0df1ba000758d37b.m3u8
+#EXTINF:-1 tvg-name="BBC Three Ⓖ" group-title="Uncategorized"
+BBC Three Ⓖ
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/iptv_hd_abr_v1.m3u8
+#EXTINF:-1 tvg-name="BBC Three HD (1080p) [Geo-blocked]" group-title="Uncategorized"
+BBC Three HD (1080p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-name="BBC Three HD (720p)" group-title="Uncategorized"
+BBC Three HD (720p)
+https://streamer.nexyl.uk/39290a19-b8dd-43ea-b8dc-081c37790f24.m3u8
+#EXTINF:-1 tvg-name="BBC Three/CBBC (1080p) [Geo-Blocked]" group-title="Uncategorized"
+BBC Three/CBBC (1080p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8
+#EXTINF:-1 tvg-name="BBC Top Gear (1080p)" group-title="Uncategorized"
+BBC Top Gear (1080p)
+https://amg00793-amg00793c5-xumo-us-2664.playouts.now.amagi.tv/bbcstudios-bbctopgear8min-all/playlist.m3u8
+#EXTINF:-1 tvg-name="BBC Top Gear (1080p) [Geo-blocked]" group-title="Uncategorized"
+BBC Top Gear (1080p) [Geo-blocked]
+https://amg00793-amg00793c5-firetv-us-4068.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="BBC Top Gear Finland (1080p)" group-title="Uncategorized"
+BBC Top Gear Finland (1080p)
+https://amg00793-amg00793c49-rakuten-fi-5848.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="BBC Top Gear France (1080p)" group-title="Uncategorized"
+BBC Top Gear France (1080p)
+https://amg00793-amg00793c45-rakuten-fr-5539.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="BBC Top Gear Germany (1080p)" group-title="Uncategorized"
+BBC Top Gear Germany (1080p)
+https://amg00793-amg00793c44-rakuten-de-5538.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="BBC Top Gear Italy (1080p)" group-title="Uncategorized"
+BBC Top Gear Italy (1080p)
+https://amg00793-amg00793c43-rakuten-it-5537.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="BBC Travel" group-title="Uncategorized"
+BBC Travel
+https://jmp2.uk/plu-60e4519e6873180007d3cddb.m3u8
+#EXTINF:-1 tvg-name="BBC Two (1080p) [Geo-blocked]" group-title="Uncategorized"
+BBC Two (1080p) [Geo-blocked]
+https://rdmedia.api.bbc.co.uk/ll-trial/mpd/bbc_two_england/manifest.mpd
+#EXTINF:-1 tvg-name="BBC Two Ⓖ" group-title="Uncategorized"
+BBC Two Ⓖ
+https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/iptv_hd_abr_v1.m3u8
+#EXTINF:-1 tvg-name="BBC Two HD (1080p) [Geo-Blocked]" group-title="Uncategorized"
+BBC Two HD (1080p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-HLS8/bbc2.m3u8
+#EXTINF:-1 tvg-name="BBC Two Northern Ireland (540p) [Geo-blocked]" group-title="Uncategorized"
+BBC Two Northern Ireland (540p) [Geo-blocked]
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/pc_hd_abr_v2.m3u8
+#EXTINF:-1 tvg-name="BBC Two Northern Ireland HD (1080p) [Geo-blocked]" group-title="Uncategorized"
+BBC Two Northern Ireland HD (1080p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-name="BBC Two Wales (1080p) [Geo-blocked]" group-title="Uncategorized"
+BBC Two Wales (1080p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_wales_digital/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-name="BBC UHD 1 (2160p) [Geo-blocked] [Not 24/7]" group-title="Uncategorized"
+BBC UHD 1 (2160p) [Geo-blocked] [Not 24/7]
+https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_01/iptv_uhd_v1.mpd
+#EXTINF:-1 tvg-name="BBC UHD 2 (2160p) [Geo-blocked] [Not 24/7]" group-title="Uncategorized"
+BBC UHD 2 (2160p) [Geo-blocked] [Not 24/7]
+https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_02/iptv_uhd_v1.mpd
+#EXTINF:-1 tvg-name="BBC UHD 3 (2160p) [Geo-blocked] [Not 24/7]" group-title="Uncategorized"
+BBC UHD 3 (2160p) [Geo-blocked] [Not 24/7]
+https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_03/iptv_uhd_v1.mpd
+#EXTINF:-1 tvg-name="BBC UHD 4 (2160p) [Geo-blocked] [Not 24/7]" group-title="Uncategorized"
+BBC UHD 4 (2160p) [Geo-blocked] [Not 24/7]
+https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_04/iptv_uhd_v1.mpd
+#EXTINF:-1 tvg-name="BBC UHD 5 (2160p) [Geo-blocked] [Not 24/7]" group-title="Uncategorized"
+BBC UHD 5 (2160p) [Geo-blocked] [Not 24/7]
+https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_05/iptv_uhd_v1.mpd
+#EXTINF:-1 tvg-name="BBC World News Ⓢ" group-title="Uncategorized"
+BBC World News Ⓢ
+http://ott-cdn.ucom.am/s24/index.m3u8
+#EXTINF:-1 tvg-name="BBC World Service" group-title="Uncategorized"
+BBC World Service
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_world_service.m3u8
+#EXTINF:-1 tvg-name="Beyond History" group-title="Uncategorized"
+Beyond History
+https://jmp2.uk/plu-62fb9844db5a4a0007ebc2a3.m3u8
+#EXTINF:-1 tvg-name="BRTV Science & Education Channel" group-title="Uncategorized"
+BRTV Science & Education Channel
+http://49.113.179.174:4022/udp/238.125.3.121:5140
+#EXTINF:-1 tvg-name="CBBC Ⓖ" group-title="Uncategorized"
+CBBC Ⓖ
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-name="CBBC HD (1080p) [Geo-blocked]" group-title="Uncategorized"
+CBBC HD (1080p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-name="CGTN Documentary" group-title="Uncategorized"
+CGTN Documentary
+https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
+#EXTINF:-1 tvg-name="CGTN Documentary (1080p)" group-title="Uncategorized"
+CGTN Documentary (1080p)
+https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
+#EXTINF:-1 tvg-name="CGTN Documentary English Ⓢ" group-title="Uncategorized"
+CGTN Documentary English Ⓢ
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+#EXTINF:-1 tvg-name="Discovery Channel" group-title="Uncategorized"
+Discovery Channel
+https://d24aqelmrau4kx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l1oas691aj7p2/WBTV_IT.m3u8
+#EXTINF:-1 tvg-name="Documentary+ (1080p)" group-title="Uncategorized"
+Documentary+ (1080p)
+https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-859-DOCUMENTARYPLUS-DOCUMENTARYPLUS/mt/documentaryplus/859/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="Documentary+ International (1080p)" group-title="Uncategorized"
+Documentary+ International (1080p)
+https://1d153317c8db4250b3789601274e2402.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-DOCUMENTARYPLUS/mt/documentaryplus/887/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="History & Warfare Now (1080p)" group-title="Uncategorized"
+History & Warfare Now (1080p)
+https://d1nzda2a2b3swt.cloudfront.net/History_Warfare_Now.m3u8
+#EXTINF:-1 tvg-name="History 2 Latin America (480p)" group-title="Uncategorized"
+History 2 Latin America (480p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-41_480.m3u8
+#EXTINF:-1 tvg-name="History 365 (1080p) [Geo-blocked]" group-title="Uncategorized"
+History 365 (1080p) [Geo-blocked]
+https://pb-162j8hrspp1iq.akamaized.net/History_365.m3u8
+#EXTINF:-1 tvg-name="History and Warfare Now (1080p)" group-title="Uncategorized"
+History and Warfare Now (1080p)
+https://d28gzbv9fhdm3h.cloudfront.net/playlist/amg00376-magellantv-historyandwarfarenowaunzin-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-name="History Asia" group-title="Uncategorized"
+History Asia
+https://liveh34.vtvprime.vn/hls/HISTORY/index.m3u8
+#EXTINF:-1 tvg-name="History Channel (1080p)" group-title="Uncategorized"
+History Channel (1080p)
+https://streamer12.xploretv.si/__cl/cg:prod/__c/A1_SI_HISTORYHD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
+#EXTINF:-1 tvg-name="History Channel Japan (544p)" group-title="Uncategorized"
+History Channel Japan (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09
+#EXTINF:-1 tvg-name="History Hit (1080p)" group-title="Uncategorized"
+History Hit (1080p)
+https://lds-timeline-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="History Hunters (1080p)" group-title="Uncategorized"
+History Hunters (1080p)
+https://amg00841-amg00841c7-rakuten-uk-2820.playouts.now.amagi.tv/playlist/amg00841-aeemeafast-historyhuntersrakuten-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-name="History Latin America South (480p)" group-title="Uncategorized"
+History Latin America South (480p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-40_480.m3u8
+#EXTINF:-1 tvg-name="History TV18 (576p)" group-title="Uncategorized"
+History TV18 (576p)
+http://103.72.101.252:8080/live/1471.m3u8
+#EXTINF:-1 tvg-name="History TV18 HD (1080p)" group-title="Uncategorized"
+History TV18 HD (1080p)
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/HistoryTV18HD.m3u8
+#EXTINF:-1 tvg-name="Macedonian Documentary Channel" group-title="Uncategorized"
+Macedonian Documentary Channel
+https://giganet.mk/hls/macdoc.m3u8
+#EXTINF:-1 tvg-name="Modern Marvels by HISTORY (720p)" group-title="Uncategorized"
+Modern Marvels by HISTORY (720p)
+https://jmp2.uk/plu-65775d29dfed030008cb3db2.m3u8
+#EXTINF:-1 tvg-name="Modern Marvels Presented by History (720p) [Geo-blocked]" group-title="Uncategorized"
+Modern Marvels Presented by History (720p) [Geo-blocked]
+https://pb-m89wlp8flmjzf.akamaized.net/v1/aenetworks_modernmarvels_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-name="Mystery Science Theater 3000 (1080p)" group-title="Uncategorized"
+Mystery Science Theater 3000 (1080p)
+https://d1c73nj8qxp55a.cloudfront.net/Mystery_Science_Theater_3000.m3u8
+#EXTINF:-1 tvg-name="National Geographic (1080p) [Geo-blocked]" group-title="Uncategorized"
+National Geographic (1080p) [Geo-blocked]
+https://saran-live.ercdn.net/natgeohd/index.m3u8
+#EXTINF:-1 tvg-name="National Geographic (Finland) (720p) [Geo-blocked]" group-title="Uncategorized"
+National Geographic (Finland) (720p) [Geo-blocked]
+https://live-fi.tvkaista.net/national-geographic/live.m3u8?hd=true
+#EXTINF:-1 tvg-name="National Geographic Abu Dhabi" group-title="Uncategorized"
+National Geographic Abu Dhabi
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="National Geographic Finland Ⓖ" group-title="Uncategorized"
+National Geographic Finland Ⓖ
+https://live-fi.tvkaista.net/national-geographic/live.m3u8?src=freetv
+#EXTINF:-1 tvg-name="National Geographic HD (1080p)" group-title="Uncategorized"
+National Geographic HD (1080p)
+http://103.157.248.140:8000/play/a012/index.m3u8
+#EXTINF:-1 tvg-name="National Geographic HD East (720p) [Not 24/7]" group-title="Uncategorized"
+National Geographic HD East (720p) [Not 24/7]
+https://tvpass.org/live/NationalGeographicEast/hd
+#EXTINF:-1 tvg-name="National Geographic Japan (1080p)" group-title="Uncategorized"
+National Geographic Japan (1080p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10
+#EXTINF:-1 tvg-name="National Geographic Latin America South (720p)" group-title="Uncategorized"
+National Geographic Latin America South (720p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-46_720.m3u8
+#EXTINF:-1 tvg-name="National Geographic Wild (1080p) [Geo-blocked]" group-title="Uncategorized"
+National Geographic Wild (1080p) [Geo-blocked]
+https://saran-live.ercdn.net/natgeowild/index.m3u8
+#EXTINF:-1 tvg-name="National Geographic Wild HD (1080p)" group-title="Uncategorized"
+National Geographic Wild HD (1080p)
+http://103.157.248.140:8000/play/a010/index.m3u8
+#EXTINF:-1 tvg-name="National Geographic Wild HD East (720p) [Not 24/7]" group-title="Uncategorized"
+National Geographic Wild HD East (720p) [Not 24/7]
+https://tvpass.org/live/NationalGeographicWildEast/hd
+#EXTINF:-1 tvg-name="PBS History (1080p)" group-title="Uncategorized"
+PBS History (1080p)
+https://amg02333-pbs-amg02333c1-samsung-au-1253.playouts.now.amagi.tv/playlist/amg02333-pbsdistributionfast-pbshistory-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-name="PBS Science (1080p)" group-title="Uncategorized"
+PBS Science (1080p)
+https://amg02333-pbs-amg02333c13-samsung-au-6858.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Documentaries" group-title="Uncategorized"
+Pluto TV Documentaries
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b85a7582921777994caea63/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=91&deviceId=5b85a7582921777994caea63&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-name="Pluto TV History" group-title="Uncategorized"
+Pluto TV History
+https://jmp2.uk/plu-5d767b1c126c65d0a307355f.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Science" group-title="Uncategorized"
+Pluto TV Science
+https://jmp2.uk/plu-5d767b4889bca2ce7b73ef2e.m3u8
+#EXTINF:-1 tvg-name="RT Documentary English (1080p) [Geo-blocked]" group-title="Uncategorized"
+RT Documentary English (1080p) [Geo-blocked]
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
+#EXTINF:-1 tvg-name="RT Documentary English Ⓖ" group-title="Uncategorized"
+RT Documentary English Ⓖ
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
+#EXTINF:-1 tvg-name="RT Documentary Russian (1080p)" group-title="Uncategorized"
+RT Documentary Russian (1080p)
+https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8
+#EXTINF:-1 tvg-name="Sony BBC Earth HD English (1080p) [Geo-blocked]" group-title="Uncategorized"
+Sony BBC Earth HD English (1080p) [Geo-blocked]
+https://sl.vodep39240327.workers.dev/channel/SONY%20BBC%20EARTH%20HD.m3u8
+#EXTINF:-1 tvg-name="True History Channel (720p)" group-title="Uncategorized"
+True History Channel (720p)
+https://linear-188.frequency.stream/dist/xumo/188/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="TVS Hollywood History (582p)" group-title="Uncategorized"
+TVS Hollywood History (582p)
+https://rpn.bozztv.com/gusa/gusa-tvshollywoohistory/index.m3u8
+#EXTINF:-1 tvg-name="Xtreme Outdoor by HISTORY" group-title="Uncategorized"
+Xtreme Outdoor by HISTORY
+https://jmp2.uk/plu-6000a6f4c3f8550008fc9b91.m3u8
+#EXTINF:-1 tvg-name="Xtreme Outdoor Presented by HISTORY (720p)" group-title="Uncategorized"
+Xtreme Outdoor Presented by HISTORY (720p)
+https://dxagbr7yc4m1d.cloudfront.net/v1/aenetworks_skills_thrills_1/samsungheadend_us/latest/main/hls/playlist.m3u8

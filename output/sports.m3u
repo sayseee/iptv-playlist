@@ -1,0 +1,808 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="100% Auto Moto TV (406p) [Not 24/7]" group-title="Uncategorized"
+100% Auto Moto TV (406p) [Not 24/7]
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+#EXTINF:-1 tvg-name="30A Golf Kingdom (720p)" group-title="Uncategorized"
+30A Golf Kingdom (720p)
+https://30a-tv.com/feeds/vidaa/golf.m3u8
+#EXTINF:-1 tvg-name="Abu Dhabi Sports 1" group-title="Uncategorized"
+Abu Dhabi Sports 1
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
+#EXTINF:-1 tvg-name="Abu Dhabi Sports 2" group-title="Uncategorized"
+Abu Dhabi Sports 2
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
+#EXTINF:-1 tvg-name="ACI Sport TV (1080p)" group-title="Uncategorized"
+ACI Sport TV (1080p)
+https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
+#EXTINF:-1 tvg-name="Adjarasport 1" group-title="Uncategorized"
+Adjarasport 1
+https://live20.bozztv.com/dvrfl05/gin-adjara/index.m3u8
+#EXTINF:-1 tvg-name="Africa 24 Sport (1080p)" group-title="Uncategorized"
+Africa 24 Sport (1080p)
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
+#EXTINF:-1 tvg-name="Al-Aimma TV (1080p)" group-title="Uncategorized"
+Al-Aimma TV (1080p)
+https://alaimma.tv/live/index.m3u8
+#EXTINF:-1 tvg-name="Alfa Sport (1080p) [Not 24/7]" group-title="Uncategorized"
+Alfa Sport (1080p) [Not 24/7]
+https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx
+#EXTINF:-1 tvg-name="Amman TV (720p)" group-title="Uncategorized"
+Amman TV (720p)
+https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
+#EXTINF:-1 tvg-name="AntenaSport (1280p) [Not 24/7]" group-title="Uncategorized"
+AntenaSport (1280p) [Not 24/7]
+https://hls.rundletv.eu.org/LIVE$AntenaSport/6.m3u8/Level/300720051?end=END&start=LIVE
+#EXTINF:-1 tvg-name="AS3 Sport TV (1080p)" group-title="Uncategorized"
+AS3 Sport TV (1080p)
+https://streamtv.as3sport.online:3394/hybrid/play.m3u8
+#EXTINF:-1 tvg-name="Auto Motor Sport" group-title="Uncategorized"
+Auto Motor Sport
+https://jmp2.uk/plu-5f760c3d41aa2d0007bfde19.m3u8
+#EXTINF:-1 tvg-name="Awapa Sports TV (1080p) [Not 24/7]" group-title="Uncategorized"
+Awapa Sports TV (1080p) [Not 24/7]
+https://mgv-awapa.akamaized.net/hls/live/2104282/MGV_CHANNEL15/master.m3u8
+#EXTINF:-1 tvg-name="Bahrain Sports 1 (720p) [Not 24/7]" group-title="Uncategorized"
+Bahrain Sports 1 (720p) [Not 24/7]
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+#EXTINF:-1 tvg-name="Bahrain Sports 2 (720p) [Not 24/7]" group-title="Uncategorized"
+Bahrain Sports 2 (720p) [Not 24/7]
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+#EXTINF:-1 tvg-name="BBC Radio 5 Sports Extra" group-title="Uncategorized"
+BBC Radio 5 Sports Extra
+http://as-hls-uk-live.akamaized.net/pool_904/live/uk/bbc_radio_five_live_sports_extra/bbc_radio_five_live_sports_extra.isml/bbc_radio_five_live_sports_extra-audio%3d96000.norewind.m3u8
+#EXTINF:-1 tvg-name="beIN Sports XTRA en Espanol (1080p)" group-title="Uncategorized"
+beIN Sports XTRA en Espanol (1080p)
+https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
+#EXTINF:-1 tvg-name="BEK TV Sports West (720p)" group-title="Uncategorized"
+BEK TV Sports West (720p)
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Bellator MMA" group-title="Uncategorized"
+Bellator MMA
+https://jmp2.uk/plu-62792f34f3aa05000728841e.m3u8
+#EXTINF:-1 tvg-name="Bleav Football (1080p)" group-title="Uncategorized"
+Bleav Football (1080p)
+https://linear-493.frequency.stream/dist/glewedtv/493/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="Bumblebee TV AutoMoto" group-title="Uncategorized"
+Bumblebee TV AutoMoto
+https://stitcheraws.unreel.me/wse-node01.powr.com/live/5bf220fad5eeee0f5a40941a/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 15 ILCE Summa Sabres (720p)" group-title="Uncategorized"
+Canal 15 ILCE Summa Sabres (720p)
+https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal Motor (720p)" group-title="Uncategorized"
+Canal Motor (720p)
+https://digicom.hls.iptvdc.com/canalmotor/index.m3u8
+#EXTINF:-1 tvg-name="CBC Sport Ⓖ" group-title="Uncategorized"
+CBC Sport Ⓖ
+https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
+#EXTINF:-1 tvg-name="CBC Sport HD [Geo-blocked]" group-title="Uncategorized"
+CBC Sport HD [Geo-blocked]
+https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
+#EXTINF:-1 tvg-name="CBS Sports Golazo Network (720p)" group-title="Uncategorized"
+CBS Sports Golazo Network (720p)
+https://proped3fhg87.airspace-cdn.cbsivideo.com/golazo-live-dai/master/golazo-live-dai.m3u8
+#EXTINF:-1 tvg-name="CBS Sports HQ (1080p) [Geo-blocked]" group-title="Uncategorized"
+CBS Sports HQ (1080p) [Geo-blocked]
+https://propee33f9c2.airspace-cdn.cbsivideo.com/index.m3u8
+#EXTINF:-1 tvg-name="Claro Sports Mexico" group-title="Uncategorized"
+Claro Sports Mexico
+https://jmp2.uk/plu-6320d2755e54db000783fd87.m3u8
+#EXTINF:-1 tvg-name="Cricket Gold (1080p)" group-title="Uncategorized"
+Cricket Gold (1080p)
+https://streams2.sofast.tv/scheduler/scheduleMaster/418.m3u8
+#EXTINF:-1 tvg-name="ČT Sport (720p)" group-title="Uncategorized"
+ČT Sport (720p)
+http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+#EXTINF:-1 tvg-name="ČT sport Ⓖ" group-title="Uncategorized"
+ČT sport Ⓖ
+https://sktv.plainrock127.xyz/get.php?x=CTsport
+#EXTINF:-1 tvg-name="ČT sport Plus Ⓖ" group-title="Uncategorized"
+ČT sport Plus Ⓖ
+https://sktv.plainrock127.xyz/get.php?x=CTsportPlus
+#EXTINF:-1 tvg-name="Curiosity Motores (1080p)" group-title="Uncategorized"
+Curiosity Motores (1080p)
+https://d5ts03kapml2e.cloudfront.net/CuriosityMotores.m3u8
+#EXTINF:-1 tvg-name="DAZN Darts x Pluto TV" group-title="Uncategorized"
+DAZN Darts x Pluto TV
+https://jmp2.uk/plu-64b67f0424ade50008a3be17.m3u8
+#EXTINF:-1 tvg-name="DD Sports SD (1080p)" group-title="Uncategorized"
+DD Sports SD (1080p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
+#EXTINF:-1 tvg-name="Dhamma TV (720p) [Not 24/7]" group-title="Uncategorized"
+Dhamma TV (720p) [Not 24/7]
+https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
+#EXTINF:-1 tvg-name="DirecTV Sports (1080p)" group-title="Uncategorized"
+DirecTV Sports (1080p)
+https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd
+#EXTINF:-1 tvg-name="Drammatico – Rakuten TV" group-title="Uncategorized"
+Drammatico – Rakuten TV
+https://rakuten-tvshows-6-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Dubai Sports 1" group-title="Uncategorized"
+Dubai Sports 1
+https://dmitnthfr.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-name="Dubai Sports 2" group-title="Uncategorized"
+Dubai Sports 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+#EXTINF:-1 tvg-name="Dubai Sports 3" group-title="Uncategorized"
+Dubai Sports 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+#EXTINF:-1 tvg-name="Duna World / M4+ Sport" group-title="Uncategorized"
+Duna World / M4+ Sport
+http://152.66.115.226:33391/bysid/103
+#EXTINF:-1 tvg-name="Dyn Sport Mix (720p)" group-title="Uncategorized"
+Dyn Sport Mix (720p)
+https://jmp2.uk/plu-6866525c8a412a0e95c438b4.m3u8
+#EXTINF:-1 tvg-name="Earth: Final Conflict" group-title="Uncategorized"
+Earth: Final Conflict
+https://jmp2.uk/plu-66f1331f9409630008077623.m3u8
+#EXTINF:-1 tvg-name="ERT Sports 1" group-title="Uncategorized"
+ERT Sports 1
+https://ertflix-ertsports1.siliconweb.com/cmaf/618618_3479292/index.mpd
+#EXTINF:-1 tvg-name="ERT Sports 1 (1080p)" group-title="Uncategorized"
+ERT Sports 1 (1080p)
+http://hbbtvapp.ert.gr/stream.php/v/vid_ertsports_mpeg.2ts
+#EXTINF:-1 tvg-name="ERT Sports 2 (1080p)" group-title="Uncategorized"
+ERT Sports 2 (1080p)
+http://hbbtvapp.ert.gr/stream.php/v/vid_ertplay2_mpeg.2ts
+#EXTINF:-1 tvg-name="ERT Sports 4" group-title="Uncategorized"
+ERT Sports 4
+https://ertflix.ascdn.broadpeak.io/ertlive/seasonal/default/index.mpd
+#EXTINF:-1 tvg-name="ESPN Deportes (360p)" group-title="Uncategorized"
+ESPN Deportes (360p)
+http://Tdo@origin.thetvapp.to/hls/espn-deportes/mono.m3u8
+#EXTINF:-1 tvg-name="ESPN8 The Ocho (1080p)" group-title="Uncategorized"
+ESPN8 The Ocho (1080p)
+https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
+#EXTINF:-1 tvg-name="Esport3 (1080p) [Geo-blocked]" group-title="Uncategorized"
+Esport3 (1080p) [Geo-blocked]
+https://directes-tv-cat.3catdirectes.cat/live-content/esport3-hls/master.m3u8
+#EXTINF:-1 tvg-name="Esport3 (1080p) [Not 24/7]" group-title="Uncategorized"
+Esport3 (1080p) [Not 24/7]
+https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8
+#EXTINF:-1 tvg-name="Esport3 Ⓖ" group-title="Uncategorized"
+Esport3 Ⓖ
+https://directes-tv-es.3catdirectes.cat/live-origin/esport3-hls/master.m3u8
+#EXTINF:-1 tvg-name="F1 Channel (1080p) [Geo-blocked]" group-title="Uncategorized"
+F1 Channel (1080p) [Geo-blocked]
+https://amg12058-c15studio-amg12058c1-lg-us-5787.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="F1 Channel (720p)" group-title="Uncategorized"
+F1 Channel (720p)
+https://jmp2.uk/plu-65c69ee3d77d450008c80438.m3u8
+#EXTINF:-1 tvg-name="F10 HD [Geo-blocked]" group-title="Uncategorized"
+F10 HD [Geo-blocked]
+https://tv2.bitstreaming.net:3235/multi_live/play.m3u8
+#EXTINF:-1 tvg-name="FOX Sports (1080p)" group-title="Uncategorized"
+FOX Sports (1080p)
+https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
+#EXTINF:-1 tvg-name="FOX Sports (1080p) [Geo-blocked]" group-title="Uncategorized"
+FOX Sports (1080p) [Geo-blocked]
+https://amg02855-foxsports-amg02855c1-xumo-us-1755.playouts.now.amagi.tv/Fox-Sports-AmazonNews/playlist.m3u8
+#EXTINF:-1 tvg-name="FOX Sports (720p)" group-title="Uncategorized"
+FOX Sports (720p)
+https://jmp2.uk/plu-5a74b8e1e22a61737979c6bf.m3u8
+#EXTINF:-1 tvg-name="Fox Sports 2 (720p) [Not 24/7]" group-title="Uncategorized"
+Fox Sports 2 (720p) [Not 24/7]
+https://tvpass.org/live/FoxSports2/hd
+#EXTINF:-1 tvg-name="Fox Sports 3 Latin America (1080p)" group-title="Uncategorized"
+Fox Sports 3 Latin America (1080p)
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-92.playlist.m3u8
+#EXTINF:-1 tvg-name="Fox Sports en Espanol (720p)" group-title="Uncategorized"
+Fox Sports en Espanol (720p)
+https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
+#EXTINF:-1 tvg-name="FTF Sports (720p)" group-title="Uncategorized"
+FTF Sports (720p)
+https://1657061170.rsc.cdn77.org/HLS/FTF-LINEAR.m3u8
+#EXTINF:-1 tvg-name="fubo Sports Network (1080p)" group-title="Uncategorized"
+fubo Sports Network (1080p)
+https://dnf08l6u6uxnz.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-name="Gaora Sports (544p)" group-title="Uncategorized"
+Gaora Sports (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
+#EXTINF:-1 tvg-name="GEM Sport" group-title="Uncategorized"
+GEM Sport
+https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=https://gg.hls2.xyz/live/IR+-+GEM+Sport/chunks.m3u8
+#EXTINF:-1 tvg-name="GFN Football (1080p)" group-title="Uncategorized"
+GFN Football (1080p)
+https://e562e489.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9HRk5Tb2NjZXJfSExT/manifest.m3u8
+#EXTINF:-1 tvg-name="Glory Kickboxing" group-title="Uncategorized"
+Glory Kickboxing
+https://jmp2.uk/plu-65e9b6498b24c8000806b982.m3u8
+#EXTINF:-1 tvg-name="GLORY Kickboxing (720p)" group-title="Uncategorized"
+GLORY Kickboxing (720p)
+https://6f972d29.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8
+#EXTINF:-1 tvg-name="Golf Channel (1080p) [Not 24/7]" group-title="Uncategorized"
+Golf Channel (1080p) [Not 24/7]
+https://tvpass.org/live/GolfChannel/hd
+#EXTINF:-1 tvg-name="Golf Channel Latin America" group-title="Uncategorized"
+Golf Channel Latin America
+http://181.114.57.246:4000/play/BHGDIhvdyuw/index.m3u8
+#EXTINF:-1 tvg-name="Golf Network (544p)" group-title="Uncategorized"
+Golf Network (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03
+#EXTINF:-1 tvg-name="GolfPass (1080p)" group-title="Uncategorized"
+GolfPass (1080p)
+https://d2icntm6fhxrry.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-name="GolfPass (720p)" group-title="Uncategorized"
+GolfPass (720p)
+https://jmp2.uk/plu-65493029ab052400089e9d2f.m3u8
+#EXTINF:-1 tvg-name="Immaculata TV (720p)" group-title="Uncategorized"
+Immaculata TV (720p)
+https://g5nl63z8lpq6-hls-live.5centscdn.com/tvistream/a5586d8ea3b7b021120a05c60dc59876.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="J SPORTS 1" group-title="Uncategorized"
+J SPORTS 1
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="J Sports 1 (544p)" group-title="Uncategorized"
+J Sports 1 (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
+#EXTINF:-1 tvg-name="J SPORTS 2" group-title="Uncategorized"
+J SPORTS 2
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="J Sports 2 (544p)" group-title="Uncategorized"
+J Sports 2 (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
+#EXTINF:-1 tvg-name="J SPORTS 3" group-title="Uncategorized"
+J SPORTS 3
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="J Sports 3 (544p)" group-title="Uncategorized"
+J Sports 3 (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
+#EXTINF:-1 tvg-name="J SPORTS 4" group-title="Uncategorized"
+J SPORTS 4
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="J Sports 4 (544p)" group-title="Uncategorized"
+J Sports 4 (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
+#EXTINF:-1 tvg-name="Jordan Sport (1080p)" group-title="Uncategorized"
+Jordan Sport (1080p)
+http://93.184.10.248/JordanSport/index.m3u8
+#EXTINF:-1 tvg-name="Jordan Sport 2 (1080p) [Geo-blocked]" group-title="Uncategorized"
+Jordan Sport 2 (1080p) [Geo-blocked]
+https://jrtv-live.ercdn.net/learning2/learning2.m3u8
+#EXTINF:-1 tvg-name="KTV Sport (1080p)" group-title="Uncategorized"
+KTV Sport (1080p)
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-name="KTV Sport Plus (1080p)" group-title="Uncategorized"
+KTV Sport Plus (1080p)
+https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-name="Leaderboard Sports News (1080p)" group-title="Uncategorized"
+Leaderboard Sports News (1080p)
+https://amg02703-amg02703c20-samsung-au-9093.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="M-Net Sport (720p)" group-title="Uncategorized"
+M-Net Sport (720p)
+http://ares.mnet.mk/hls/mnet-sport.m3u8
+#EXTINF:-1 tvg-name="M»Net Sport" group-title="Uncategorized"
+M»Net Sport
+http://ares.mnet.mk/hls/mnet-sport.m3u8
+#EXTINF:-1 tvg-name="M4 Sport" group-title="Uncategorized"
+M4 Sport
+http://88.212.15.19/live/m4_hun/index.m3u8
+#EXTINF:-1 tvg-name="Midpen Media Center Youth Education and Sports Channel 28 (720p)" group-title="Uncategorized"
+Midpen Media Center Youth Education and Sports Channel 28 (720p)
+https://5c2974786200d.streamlock.net/live-chan28/ngrp:ch28_all/playlist.m3u8
+#EXTINF:-1 tvg-name="MMA TV.com (1080p)" group-title="Uncategorized"
+MMA TV.com (1080p)
+https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
+#EXTINF:-1 tvg-name="MMA-TV (576p)" group-title="Uncategorized"
+MMA-TV (576p)
+http://31.148.48.15/M1_Global/index.m3u8
+#EXTINF:-1 tvg-name="MNB Sport (1080p)" group-title="Uncategorized"
+MNB Sport (1080p)
+https://live.mnb.mn/hls/mnb_sport.stream.m3u8
+#EXTINF:-1 tvg-name="MODUS Super Series Darts" group-title="Uncategorized"
+MODUS Super Series Darts
+https://jmp2.uk/plu-671656a37d5da50008de6514.m3u8
+#EXTINF:-1 tvg-name="MODUS Super Series Darts (720p)" group-title="Uncategorized"
+MODUS Super Series Darts (720p)
+https://jmp2.uk/plu-671645c4529ac900080c9a0b.m3u8
+#EXTINF:-1 tvg-name="More Than Sports TV (1080p)" group-title="Uncategorized"
+More Than Sports TV (1080p)
+https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
+#EXTINF:-1 tvg-name="MotoGP Channel (1080p)" group-title="Uncategorized"
+MotoGP Channel (1080p)
+https://d1kqz1q7knpsue.cloudfront.net/MotoGP.m3u8
+#EXTINF:-1 tvg-name="Motor Trend" group-title="Uncategorized"
+Motor Trend
+http://104.255.88.155/motortrend/index.m3u8
+#EXTINF:-1 tvg-name="Motor1TV" group-title="Uncategorized"
+Motor1TV
+https://motorsportnetwork-motor1tv-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Motori Tv" group-title="Uncategorized"
+Motori Tv
+https://5f22d76e220e1.streamlock.net/servizio01/servizio01/playlist.m3u8
+#EXTINF:-1 tvg-name="MotorRacing" group-title="Uncategorized"
+MotorRacing
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/db917aee-4061-4081-b5fc-d5786defb057/manifest.m3u8
+#EXTINF:-1 tvg-name="Motorracing France" group-title="Uncategorized"
+Motorracing France
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/7b971242-c5fe-11ec-967f-401ac48a6867/0/master.m3u8
+#EXTINF:-1 tvg-name="MotorTrend FAST TV (720p)" group-title="Uncategorized"
+MotorTrend FAST TV (720p)
+https://live-manifest.production-public.tubi.io/live/e7be5ad5-9044-4151-95d4-a9aae10ab0a5/playlist.m3u8
+#EXTINF:-1 tvg-name="Motorvision (1080p)" group-title="Uncategorized"
+Motorvision (1080p)
+https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
+#EXTINF:-1 tvg-name="Motorvision TV" group-title="Uncategorized"
+Motorvision TV
+https://jmp2.uk/plu-60e5ea9a9bb4200008376f76.m3u8
+#EXTINF:-1 tvg-name="Motorvision.tv (French)" group-title="Uncategorized"
+Motorvision.tv (French)
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883047
+#EXTINF:-1 tvg-name="MSG SportsZone (720p)" group-title="Uncategorized"
+MSG SportsZone (720p)
+https://d2a31kzot4f8t3.cloudfront.net/v1/amc_msgsportszone_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-name="Multivisión Sports (720p) [Not 24/7]" group-title="Uncategorized"
+Multivisión Sports (720p) [Not 24/7]
+https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8
+#EXTINF:-1 tvg-name="MyZen Wellbeing TV (1080p)" group-title="Uncategorized"
+MyZen Wellbeing TV (1080p)
+https://rakutenaa-myzen-en-rakuten-5sex7.amagi.tv/playlist/rakutenAA-myzen-en-rakuten/playlist.m3u8
+#EXTINF:-1 tvg-name="Nascar (1080p) [Geo-blocked]" group-title="Uncategorized"
+Nascar (1080p) [Geo-blocked]
+https://aegis-cloudfront-1.tubi.video/a8586229-0ea0-4eb4-bb23-09674c2a94d3/playlist.m3u8
+#EXTINF:-1 tvg-name="NASCAR Channel (1080p)" group-title="Uncategorized"
+NASCAR Channel (1080p)
+https://dzz957bqk62e8.cloudfront.net/NASCAR.m3u8
+#EXTINF:-1 tvg-name="NBA FAST Channel (720p)" group-title="Uncategorized"
+NBA FAST Channel (720p)
+https://live-manifest.production-public.tubi.io/live/553b8d5e-fd2a-4a61-bdfa-73b34c299d75/playlist.m3u8
+#EXTINF:-1 tvg-name="NBA TV (1080p) [Geo-blocked]" group-title="Uncategorized"
+NBA TV (1080p) [Geo-blocked]
+https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="NBA TV Canada (1080p)" group-title="Uncategorized"
+NBA TV Canada (1080p)
+http://user.scalecdn.co:8080/live/54706135/09221986/3092.m3u8
+#EXTINF:-1 tvg-name="NBC Sports Bay Area (720p) [Not 24/7]" group-title="Uncategorized"
+NBC Sports Bay Area (720p) [Not 24/7]
+https://tvpass.org/live/nbc-sports-bay-area/hd
+#EXTINF:-1 tvg-name="NBC Sports Boston (1080p) [Not 24/7]" group-title="Uncategorized"
+NBC Sports Boston (1080p) [Not 24/7]
+https://tvpass.org/live/nbc-sports-boston/hd
+#EXTINF:-1 tvg-name="NBC Sports NOW (1080p)" group-title="Uncategorized"
+NBC Sports NOW (1080p)
+https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008
+#EXTINF:-1 tvg-name="NBC Sports Philadelphia (720p) [Not 24/7]" group-title="Uncategorized"
+NBC Sports Philadelphia (720p) [Not 24/7]
+https://tvpass.org/live/nbc-sports-philadelphia/hd
+#EXTINF:-1 tvg-name="NFL Channel (1080p) [Geo-blocked]" group-title="Uncategorized"
+NFL Channel (1080p) [Geo-blocked]
+https://pb-we3ltka9xobj6.akamaized.net/master.m3u8
+#EXTINF:-1 tvg-name="NFL RedZone (720p) [Not 24/7]" group-title="Uncategorized"
+NFL RedZone (720p) [Not 24/7]
+https://tvpass.org/live/NFLRedZone/hd
+#EXTINF:-1 tvg-name="NHL (1080p)" group-title="Uncategorized"
+NHL (1080p)
+https://nhl-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Nudge Sports Channel (1080p)" group-title="Uncategorized"
+Nudge Sports Channel (1080p)
+https://streams.comclark.com/live_input/nudge_sports/playlist.m3u8
+#EXTINF:-1 tvg-name="OF-TV Offenbach (720p)" group-title="Uncategorized"
+OF-TV Offenbach (720p)
+https://5864df9ceac85.streamlock.net/germanpictures-live/_definst_/mp4:streamschedule/playlist.m3u8
+#EXTINF:-1 tvg-name="Oman Sports TV (1080p) [Not 24/7]" group-title="Uncategorized"
+Oman Sports TV (1080p) [Not 24/7]
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-name="One Golf (720p)" group-title="Uncategorized"
+One Golf (720p)
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+#EXTINF:-1 tvg-name="ORF Sport + Ⓖ" group-title="Uncategorized"
+ORF Sport + Ⓖ
+https://orfs.mdn.ors.at/out/u/orfs/q8c/manifest.m3u8
+#EXTINF:-1 tvg-name="PFL MMA" group-title="Uncategorized"
+PFL MMA
+https://jmp2.uk/plu-64f6180130ab3300083d896b.m3u8
+#EXTINF:-1 tvg-name="PFL MMA – Pluto TV" group-title="Uncategorized"
+PFL MMA – Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/654a299cab05240008a12639/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-name="PFL MMA (720p)" group-title="Uncategorized"
+PFL MMA (720p)
+https://jmp2.uk/plu-64f6163a30ab3300083d870e.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Darts" group-title="Uncategorized"
+Pluto TV Darts
+https://jmp2.uk/plu-67b481cc1a5ca760801c6c5e.m3u8
+#EXTINF:-1 tvg-name="Pluto TV E-Sports" group-title="Uncategorized"
+Pluto TV E-Sports
+https://jmp2.uk/plu-5ff3934600d4c7000733ff49.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Emmanuelle Filme" group-title="Uncategorized"
+Pluto TV Emmanuelle Filme
+https://jmp2.uk/plu-67ebc04855de98dc71428538.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Esportes" group-title="Uncategorized"
+Pluto TV Esportes
+https://jmp2.uk/plu-5f32d2db0af67400077f29c4.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Motor" group-title="Uncategorized"
+Pluto TV Motor
+https://jmp2.uk/plu-6080345ebb49b90007ce0baf.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Snooker 900" group-title="Uncategorized"
+Pluto TV Snooker 900
+https://jmp2.uk/plu-639b4f75d3d35c0007d37b30.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Snooker 900 (720p)" group-title="Uncategorized"
+Pluto TV Snooker 900 (720p)
+https://jmp2.uk/plu-68ac5543a1ac0c90f2c8943e.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Sport" group-title="Uncategorized"
+Pluto TV Sport
+https://jmp2.uk/plu-6357f3de3643ba0007bc0b50.m3u8
+#EXTINF:-1 tvg-name="Polsat Sport 1 (1080p) [Geo-blocked]" group-title="Uncategorized"
+Polsat Sport 1 (1080p) [Geo-blocked]
+http://cdn-s-lb2.pluscdn.pl/lv/1544303/939/dash/7f74b079/live.mpd
+#EXTINF:-1 tvg-name="Polsat Sport Premium 2 (1080p)" group-title="Uncategorized"
+Polsat Sport Premium 2 (1080p)
+http://78.130.250.2:8023/play/a05r/index.m3u8
+#EXTINF:-1 tvg-name="Premier Sports (1080p)" group-title="Uncategorized"
+Premier Sports (1080p)
+https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8
+#EXTINF:-1 tvg-name="Premier Sports 2 (1080p)" group-title="Uncategorized"
+Premier Sports 2 (1080p)
+https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8
+#EXTINF:-1 tvg-name="PRO Sport International" group-title="Uncategorized"
+PRO Sport International
+https://proshls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="PTV Sports (1080p)" group-title="Uncategorized"
+PTV Sports (1080p)
+http://103.250.28.74:8000/play/a019/index.m3u8
+#EXTINF:-1 tvg-name="QazSport (480p) [Geo-blocked]" group-title="Uncategorized"
+QazSport (480p) [Geo-blocked]
+https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8
+#EXTINF:-1 tvg-name="Radio Immagine Tv" group-title="Uncategorized"
+Radio Immagine Tv
+https://media.velcom.it:8081/RadioImmagineTV/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="Rai Sport 2" group-title="Uncategorized"
+Rai Sport 2
+http://originstream12.rai.it/italy/raisport2_1200/master.m3u8
+#EXTINF:-1 tvg-name="Rai Sport Ⓖ" group-title="Uncategorized"
+Rai Sport Ⓖ
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=rainet/4.0.5
+#EXTINF:-1 tvg-name="Rai Sport HD (720p) [Geo-Blocked]" group-title="Uncategorized"
+Rai Sport HD (720p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
+#EXTINF:-1 tvg-name="Realitatea Sportiva (720p)" group-title="Uncategorized"
+Realitatea Sportiva (720p)
+https://stream.realitatea.net/realitatea/sportiva_md/ts:playlist.m3u8
+#EXTINF:-1 tvg-name="Retake E-sport Live (720p)" group-title="Uncategorized"
+Retake E-sport Live (720p)
+https://jmp2.uk/plu-66fd1338ec9d6d00081e0443.m3u8
+#EXTINF:-1 tvg-name="Rete 8 Sport" group-title="Uncategorized"
+Rete 8 Sport
+https://64b16f23efbee.streamlock.net/rete8sport/rete8sport/playlist.m3u8
+#EXTINF:-1 tvg-name="Roku Sports Channel (1080p)" group-title="Uncategorized"
+Roku Sports Channel (1080p)
+https://d3ialx0k0mla2a.cloudfront.net/Roku_Sports_Channel.m3u8
+#EXTINF:-1 tvg-name="RTA Sport (1080p)" group-title="Uncategorized"
+RTA Sport (1080p)
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/index.m3u8
+#EXTINF:-1 tvg-name="RTSH Sport (1080p)" group-title="Uncategorized"
+RTSH Sport (1080p)
+http://178.33.11.6:8696/live/rtshsport/playlist.m3u8
+#EXTINF:-1 tvg-name="S Sport" group-title="Uncategorized"
+S Sport
+https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/6415845530001/profile_0/chunklist.m3u8
+#EXTINF:-1 tvg-name="S Sport 2" group-title="Uncategorized"
+S Sport 2
+https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8
+#EXTINF:-1 tvg-name="Sample Sports Channel" group-title="Uncategorized"
+Sample Sports Channel
+http://example.com/stream1.m3u8
+#EXTINF:-1 tvg-name="San Marino Rtv Sport" group-title="Uncategorized"
+San Marino Rtv Sport
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunklist_b1692000_slita.m3u8
+#EXTINF:-1 tvg-name="San Marino RTV Sport (720p)" group-title="Uncategorized"
+San Marino RTV Sport (720p)
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
+#EXTINF:-1 tvg-name="Sharjah Sports" group-title="Uncategorized"
+Sharjah Sports
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Sharjah Sports (1080p) [Geo-blocked]" group-title="Uncategorized"
+Sharjah Sports (1080p) [Geo-blocked]
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Shooting Sports Life (1080p)" group-title="Uncategorized"
+Shooting Sports Life (1080p)
+https://linear-1312.frequency.stream/dist/stirr/1312/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="SMG Football Channel" group-title="Uncategorized"
+SMG Football Channel
+http://49.113.179.174:4022/udp/238.125.2.142:5140
+#EXTINF:-1 tvg-name="Sony Sports Ten 1 (1080p) [Geo-blocked]" group-title="Uncategorized"
+Sony Sports Ten 1 (1080p) [Geo-blocked]
+https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%201.m3u8
+#EXTINF:-1 tvg-name="Sony Sports Ten 1 HD (1080p) [Geo-blocked]" group-title="Uncategorized"
+Sony Sports Ten 1 HD (1080p) [Geo-blocked]
+https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%201%20HD.m3u8
+#EXTINF:-1 tvg-name="Sony Sports Ten 2 (1080p) [Geo-blocked]" group-title="Uncategorized"
+Sony Sports Ten 2 (1080p) [Geo-blocked]
+https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%202.m3u8
+#EXTINF:-1 tvg-name="Sony Sports Ten 2 HD (1080p) [Geo-blocked]" group-title="Uncategorized"
+Sony Sports Ten 2 HD (1080p) [Geo-blocked]
+https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%202%20HD.m3u8
+#EXTINF:-1 tvg-name="Sony Sports Ten 3 Hindi (1080p) [Geo-blocked]" group-title="Uncategorized"
+Sony Sports Ten 3 Hindi (1080p) [Geo-blocked]
+https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%203.m3u8
+#EXTINF:-1 tvg-name="Sony Sports Ten 3 Hindi HD (1080p) [Geo-blocked]" group-title="Uncategorized"
+Sony Sports Ten 3 Hindi HD (1080p) [Geo-blocked]
+https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%203%20HD.m3u8
+#EXTINF:-1 tvg-name="Sony Sports Ten 4 (1080p) [Geo-blocked]" group-title="Uncategorized"
+Sony Sports Ten 4 (1080p) [Geo-blocked]
+https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%204.m3u8
+#EXTINF:-1 tvg-name="Sony Sports Ten 4 Telugu (1080p)" group-title="Uncategorized"
+Sony Sports Ten 4 Telugu (1080p)
+https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%204%20HD.m3u8
+#EXTINF:-1 tvg-name="Sony Sports Ten 5 (1080p) [Geo-blocked]" group-title="Uncategorized"
+Sony Sports Ten 5 (1080p) [Geo-blocked]
+https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%205.m3u8
+#EXTINF:-1 tvg-name="Sony Sports Ten 5 HD (1080p) [Geo-blocked]" group-title="Uncategorized"
+Sony Sports Ten 5 HD (1080p) [Geo-blocked]
+https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%205%20HD.m3u8
+#EXTINF:-1 tvg-name="Speed Sport 1 (1080p)" group-title="Uncategorized"
+Speed Sport 1 (1080p)
+https://linear-599.frequency.stream/dist/stirr/599/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="SPIEGEL TV Konflikte" group-title="Uncategorized"
+SPIEGEL TV Konflikte
+https://jmp2.uk/plu-65b9268fc798e800085add89.m3u8
+#EXTINF:-1 tvg-name="Sport – Pluto TV" group-title="Uncategorized"
+Sport – Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608030eff4b6f70007e1684c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-name="Sport 1 (1280p)" group-title="Uncategorized"
+Sport 1 (1280p)
+http://46.149.191.217:9005/play/a017
+#EXTINF:-1 tvg-name="Sport Fishing TV (1080p)" group-title="Uncategorized"
+Sport Fishing TV (1080p)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/eea68b79-bfe2-451e-a227-d637a5b9548a/manifest.m3u8
+#EXTINF:-1 tvg-name="Sport Italia (1080p)" group-title="Uncategorized"
+Sport Italia (1080p)
+https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8
+#EXTINF:-1 tvg-name="Sport2U" group-title="Uncategorized"
+Sport2U
+https://stream9.xdevel.com/video0s976916-1685/stream/playlist_dvr.m3u8
+#EXTINF:-1 tvg-name="Sportdigital FUSSBALL HD (1080p)" group-title="Uncategorized"
+Sportdigital FUSSBALL HD (1080p)
+https://live20.bozztv.com/akamaissh101/ssh101/sddd1hdde/playlist.m3u8
+#EXTINF:-1 tvg-name="Sportitalia 24 (720p) [Geo-blocked]" group-title="Uncategorized"
+Sportitalia 24 (720p) [Geo-blocked]
+https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Sportitalia Live 24" group-title="Uncategorized"
+Sportitalia Live 24
+https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/silive24.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Sportitalia LIVE24" group-title="Uncategorized"
+Sportitalia LIVE24
+https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/silive24.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Sportitalia Motori (720p) [Geo-blocked]" group-title="Uncategorized"
+Sportitalia Motori (720p) [Geo-blocked]
+https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Sportitalia Plus" group-title="Uncategorized"
+Sportitalia Plus
+https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Sportitalia SOLOCALCIO" group-title="Uncategorized"
+Sportitalia SOLOCALCIO
+https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Sportitalia Solocalcio (1080p)" group-title="Uncategorized"
+Sportitalia Solocalcio (1080p)
+https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8
+#EXTINF:-1 tvg-name="Sportoutdoor.tv" group-title="Uncategorized"
+Sportoutdoor.tv
+https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Sports Connect (720p)" group-title="Uncategorized"
+Sports Connect (720p)
+https://streamdot.broadpeak.io/cff02a74da64d1459391ce1f72d58f1a/afxpstr/SportsConnect/index.m3u8
+#EXTINF:-1 tvg-name="Sports First (1080p)" group-title="Uncategorized"
+Sports First (1080p)
+https://d4ddgdmj1cvnm.cloudfront.net/scheduler/scheduleMaster/409.m3u8
+#EXTINF:-1 tvg-name="Sports TV (720p) [Geo-blocked]" group-title="Uncategorized"
+Sports TV (720p) [Geo-blocked]
+https://live.sportstv.com.tr/hls/low/sportstv.m3u8
+#EXTINF:-1 tvg-name="Sportska televizija Ⓖ" group-title="Uncategorized"
+Sportska televizija Ⓖ
+https://stream.agatin.hr:3087/live/sptvlive.m3u8
+#EXTINF:-1 tvg-name="SporTV (1280p)" group-title="Uncategorized"
+SporTV (1280p)
+https://stm.sinalmycn.com/21000/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0
+#EXTINF:-1 tvg-name="SporTV 2 (1280p)" group-title="Uncategorized"
+SporTV 2 (1280p)
+https://stm.sinalmycn.com/21003/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0
+#EXTINF:-1 tvg-name="SporTV 2 Alternativo (720p)" group-title="Uncategorized"
+SporTV 2 Alternativo (720p)
+https://stm.sinalmycn.com/19025/video.m3u8
+#EXTINF:-1 tvg-name="SporTV 3 (1080p)" group-title="Uncategorized"
+SporTV 3 (1080p)
+https://stm.sinalmycn.com/21006/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0
+#EXTINF:-1 tvg-name="SporTV Alternativo (720p)" group-title="Uncategorized"
+SporTV Alternativo (720p)
+https://stm.sinalmycn.com/19024/video.m3u8
+#EXTINF:-1 tvg-name="SportyStuff TV" group-title="Uncategorized"
+SportyStuff TV
+https://cdn.rtmp1.vodhosting.com/hls/SportyStuffTV.m3u8
+#EXTINF:-1 tvg-name="Star Sports 1 HD (1080p)" group-title="Uncategorized"
+Star Sports 1 HD (1080p)
+http://103.253.18.58:8000/play/a00m
+#EXTINF:-1 tvg-name="Star Sports 1 Hindi (576p)" group-title="Uncategorized"
+Star Sports 1 Hindi (576p)
+http://103.253.18.58:8000/play/a03o
+#EXTINF:-1 tvg-name="Star Sports 2 HD (1080p)" group-title="Uncategorized"
+Star Sports 2 HD (1080p)
+https://mini.allinonereborn.fun/tata.php?id=11819
+#EXTINF:-1 tvg-name="Star Sports 2 Hindi HD (1080p)" group-title="Uncategorized"
+Star Sports 2 Hindi HD (1080p)
+http://103.157.248.140:8000/play/a01m/index.m3u8
+#EXTINF:-1 tvg-name="SuperTennis" group-title="Uncategorized"
+SuperTennis
+https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
+#EXTINF:-1 tvg-name="Suspilne Sport" group-title="Uncategorized"
+Suspilne Sport
+http://cdnua05.hls.tv/934/hls/8743361621b245838bee193c9ec28322/4856/stream.m3u8
+#EXTINF:-1 tvg-name="Suspilne. Sport (1080p) [Geo-blocked]" group-title="Uncategorized"
+Suspilne. Sport (1080p) [Geo-blocked]
+https://cdnua05.hls.tv/934/hls/8743361621b245838bee193c9ec28322/4856/stream.m3u8
+#EXTINF:-1 tvg-name="T Sports (720p)" group-title="Uncategorized"
+T Sports (720p)
+https://tvsen7.aynaott.com/tsportshd/index.m3u8
+#EXTINF:-1 tvg-name="T2 Tennis Channel (1080p)" group-title="Uncategorized"
+T2 Tennis Channel (1080p)
+https://ttc-tennischannelus-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="talkSPORT (1080p)" group-title="Uncategorized"
+talkSPORT (1080p)
+https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-name="TDM Sport" group-title="Uncategorized"
+TDM Sport
+https://live4.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
+#EXTINF:-1 tvg-name="TDM Sports Ch. 93 (720p)" group-title="Uncategorized"
+TDM Sports Ch. 93 (720p)
+https://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
+#EXTINF:-1 tvg-name="Ten Sports Pakistan" group-title="Uncategorized"
+Ten Sports Pakistan
+http://121.91.61.106:8000/play/a04h/index.m3u8
+#EXTINF:-1 tvg-name="Tennis Channel (1080p)" group-title="Uncategorized"
+Tennis Channel (1080p)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-name="Tennis Channel (720p)" group-title="Uncategorized"
+Tennis Channel (720p)
+https://jmp2.uk/plu-6870c97b759366af055fe371.m3u8
+#EXTINF:-1 tvg-name="Tennis Channel 2 (1080p) [Geo-blocked]" group-title="Uncategorized"
+Tennis Channel 2 (1080p) [Geo-blocked]
+https://pb-vuh0zokcxo4al.akamaized.net/T2.m3u8
+#EXTINF:-1 tvg-name="Tennis Channel Germany (720p)" group-title="Uncategorized"
+Tennis Channel Germany (720p)
+https://tennischanneldeu-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Tennis+ (1080p)" group-title="Uncategorized"
+Tennis+ (1080p)
+https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Tennis+ (720p) [Geo-blocked]" group-title="Uncategorized"
+Tennis+ (720p) [Geo-blocked]
+https://amg01935-amg01935c1-amgplt0002.playout.now3.amagi.tv/playlist/amg01935-amg01935c1-amgplt0002/playlist.m3u8
+#EXTINF:-1 tvg-name="TennisChannel 2 (720p)" group-title="Uncategorized"
+TennisChannel 2 (720p)
+https://jmp2.uk/plu-681109b688b9d85d0938c6ba.m3u8
+#EXTINF:-1 tvg-name="TF1 HD (720p) [Geo-Blocked]" group-title="Uncategorized"
+TF1 HD (720p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-dash/tf1hd.mpd
+#EXTINF:-1 tvg-name="TF1 Series Films (1080p) [Geo-Blocked]" group-title="Uncategorized"
+TF1 Series Films (1080p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/hd1/browser-HLS8/hd1.m3u8
+#EXTINF:-1 tvg-name="The NBA Channel (720p)" group-title="Uncategorized"
+The NBA Channel (720p)
+https://jmp2.uk/plu-6792c30abc03978b9b8bb832.m3u8
+#EXTINF:-1 tvg-name="Tigo Sports (1080p)" group-title="Uncategorized"
+Tigo Sports (1080p)
+http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTf_5weWAERKDgrt9JpvlAiI/m3u8
+#EXTINF:-1 tvg-name="Tigo Sports (720p)" group-title="Uncategorized"
+Tigo Sports (720p)
+https://live.enhdtv.com:8081/8160/index.m3u8
+#EXTINF:-1 tvg-name="Tigo Sports (720p) [Geo-blocked]" group-title="Uncategorized"
+Tigo Sports (720p) [Geo-blocked]
+https://live20.bozztv.com/akamaissh101/ssh101/livetigocr/playlist.m3u8
+#EXTINF:-1 tvg-name="Tigo Sports TV El Salvador (720p) [Geo-blocked]" group-title="Uncategorized"
+Tigo Sports TV El Salvador (720p) [Geo-blocked]
+https://channel03.tigosports.com.sv/out/v1/31f36d52d558475ca18799d8ca5e4b40/index.m3u8
+#EXTINF:-1 tvg-name="Tigo Sports+" group-title="Uncategorized"
+Tigo Sports+
+http://45.170.130.224:8000/play/a04i/index.m3u8
+#EXTINF:-1 tvg-name="TNC Sports (1080p)" group-title="Uncategorized"
+TNC Sports (1080p)
+https://streamer1.nexgen.bz/TNC_SPORTS/index.m3u8
+#EXTINF:-1 tvg-name="TR Sport (480p)" group-title="Uncategorized"
+TR Sport (480p)
+https://livetr.teleromagna.it/mia/live/playlist.m3u8
+#EXTINF:-1 tvg-name="Trace Sport Stars (Australia) (1080p)" group-title="Uncategorized"
+Trace Sport Stars (Australia) (1080p)
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Türkmenistan Sport (406p) [Not 24/7]" group-title="Uncategorized"
+Türkmenistan Sport (406p) [Not 24/7]
+https://alpha.tv.online.tm/hls/ch004.m3u8
+#EXTINF:-1 tvg-name="TV 2 Sport 1" group-title="Uncategorized"
+TV 2 Sport 1
+https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
+#EXTINF:-1 tvg-name="tv9 Telemaremma (576p)" group-title="Uncategorized"
+tv9 Telemaremma (576p)
+https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/2095a288-1384-ed2e-5da0-278ccbb72295.m3u8
+#EXTINF:-1 tvg-name="TVB Finance (Sports & Information Channel)" group-title="Uncategorized"
+TVB Finance (Sports & Information Channel)
+https://tvp22.sky4k.top/index2.php
+#EXTINF:-1 tvg-name="TVMsport+ (1080p)" group-title="Uncategorized"
+TVMsport+ (1080p)
+https://stream.smashmalta.com:25463/live/webplayer/livestream/29.m3u8
+#EXTINF:-1 tvg-name="TVP Sport (1080p)" group-title="Uncategorized"
+TVP Sport (1080p)
+https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
+#EXTINF:-1 tvg-name="TVR Sport" group-title="Uncategorized"
+TVR Sport
+https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/chunklist_b5160000.m3u8
+#EXTINF:-1 tvg-name="TVRI Sport (720p)" group-title="Uncategorized"
+TVRI Sport (720p)
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+#EXTINF:-1 tvg-name="TVS Boxing (360p)" group-title="Uncategorized"
+TVS Boxing (360p)
+https://rpn.bozztv.com/gusa/gusa-tvsboxing/index.m3u8
+#EXTINF:-1 tvg-name="TVS Classic Sports (360p)" group-title="Uncategorized"
+TVS Classic Sports (360p)
+https://rpn.bozztv.com/gusa/gusa-tvs/index.m3u8
+#EXTINF:-1 tvg-name="TVS Pinball Network (480p)" group-title="Uncategorized"
+TVS Pinball Network (480p)
+https://rpn.bozztv.com/gusa/gusa-TVSCartoonNetwork/index.m3u8
+#EXTINF:-1 tvg-name="TVS Sports (720p) [Not 24/7]" group-title="Uncategorized"
+TVS Sports (720p) [Not 24/7]
+https://rpn.bozztv.com/gusa/gusa-tvssports/index.m3u8
+#EXTINF:-1 tvg-name="TVS Sports Bureau (720p)" group-title="Uncategorized"
+TVS Sports Bureau (720p)
+https://rpn.bozztv.com/gusa/gusa-tvssportsbureau/index.m3u8
+#EXTINF:-1 tvg-name="TVS Women Sports (720p)" group-title="Uncategorized"
+TVS Women Sports (720p)
+https://rpn.bozztv.com/gusa/gusa-tvswsn/index.m3u8
+#EXTINF:-1 tvg-name="TyC Sports (1080p)" group-title="Uncategorized"
+TyC Sports (1080p)
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+#EXTINF:-1 tvg-name="TyC Sports Latin America (1080p)" group-title="Uncategorized"
+TyC Sports Latin America (1080p)
+http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-90.playlist.m3u8
+#EXTINF:-1 tvg-name="TyC Sports USA" group-title="Uncategorized"
+TyC Sports USA
+http://45.170.130.224:8000/play/a020/index.m3u8
+#EXTINF:-1 tvg-name="U&Transport (1080p) [Geo-blocked]" group-title="Uncategorized"
+U&Transport (1080p) [Geo-blocked]
+https://amg00886-uktvmedialimite-uktvplayfullthrottle-samsunguk-36uja.amagi.tv/playlist/amg00886-uktvmedialimite-uktvplayfullthrottle-samsunguk/playlist.m3u8
+#EXTINF:-1 tvg-name="U&Transport (720p)" group-title="Uncategorized"
+U&Transport (720p)
+https://jmp2.uk/plu-64c0d6765dc1660008a3e033.m3u8
+#EXTINF:-1 tvg-name="UFC" group-title="Uncategorized"
+UFC
+https://jmp2.uk/plu-6792044b680721c77c5b9ba2.m3u8
+#EXTINF:-1 tvg-name="UFC (1080p)" group-title="Uncategorized"
+UFC (1080p)
+https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
+#EXTINF:-1 tvg-name="UFC (1080p) [Geo-blocked]" group-title="Uncategorized"
+UFC (1080p) [Geo-blocked]
+https://pb-ljudrmfw5j68n.akamaized.net/playlist.m3u8
+#EXTINF:-1 tvg-name="UFC (720p)" group-title="Uncategorized"
+UFC (720p)
+https://jmp2.uk/plu-66ed3eb27358ce000830df49.m3u8
+#EXTINF:-1 tvg-name="Unbeaten Sports – Pluto TV" group-title="Uncategorized"
+Unbeaten Sports – Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64c3b106dac71b00080a26d2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-name="Unbeaten Sports Channel (1080p)" group-title="Uncategorized"
+Unbeaten Sports Channel (1080p)
+https://d1t5afz6qed3xk.cloudfront.net/Unbeaten.m3u8
+#EXTINF:-1 tvg-name="W14DK-D 14.5 All Sports Television Network" group-title="Uncategorized"
+W14DK-D 14.5 All Sports Television Network
+https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8
+#EXTINF:-1 tvg-name="WBTV HBO Boxing (1080p) [Geo-blocked]" group-title="Uncategorized"
+WBTV HBO Boxing (1080p) [Geo-blocked]
+https://live-manifest.production-public.tubi.io/live/9fe78734-1db2-49b4-af7b-3c89f5f256ad/playlist.m3u8
+#EXTINF:-1 tvg-name="Willow Sports (1080p)" group-title="Uncategorized"
+Willow Sports (1080p)
+https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8
+#EXTINF:-1 tvg-name="Win Sports (1080p)" group-title="Uncategorized"
+Win Sports (1080p)
+http://190.60.40.34:8001/play/a0ef
+#EXTINF:-1 tvg-name="Women's Sports Network (1080p)" group-title="Uncategorized"
+Women's Sports Network (1080p)
+https://d39accvx65hq9o.cloudfront.net/Womens_Sports_Network.m3u8
+#EXTINF:-1 tvg-name="World of Freesports (1080p)" group-title="Uncategorized"
+World of Freesports (1080p)
+https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreammediafreesportsintl-rakuten/CDN/master.m3u8
+#EXTINF:-1 tvg-name="XSport Ⓢ" group-title="Uncategorized"
+XSport Ⓢ
+http://cdnua05.hls.tv/946/hls/8743361621b245838bee193c9ec28322/3999/stream.m3u8
+#EXTINF:-1 tvg-name="Xtrem Sports (1080p)" group-title="Uncategorized"
+Xtrem Sports (1080p)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8
+#EXTINF:-1 tvg-name="Yahoo! Sports Network (1080p)" group-title="Uncategorized"
+Yahoo! Sports Network (1080p)
+https://d7vulbd7rxo7j.cloudfront.net/Yahoo_Sports_Network.m3u8
+#EXTINF:-1 tvg-name="Zoy TV Sports 1 (1080p) [Not 24/7]" group-title="Uncategorized"
+Zoy TV Sports 1 (1080p) [Not 24/7]
+https://mio.zoymilton.com/ZoyEventos/index.m3u8
+#EXTINF:-1 tvg-name="Астрахань.Ru Sport (720p)" group-title="Uncategorized"
+Астрахань.Ru Sport (720p)
+https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8

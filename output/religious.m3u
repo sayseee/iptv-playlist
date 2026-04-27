@@ -1,0 +1,328 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="A2i Religion (720p) [Not 24/7]" group-title="Uncategorized"
+A2i Religion (720p) [Not 24/7]
+https://stream.sen-gt.com/A2iReligion/myStream/playlist.m3u8
+#EXTINF:-1 tvg-name="ACTV" group-title="Uncategorized"
+ACTV
+https://castus-vod-dev.s3.amazonaws.com/vod_clients/athens/live/ch2/video.m3u8
+#EXTINF:-1 tvg-name="ACTV [Geo-blocked]" group-title="Uncategorized"
+ACTV [Geo-blocked]
+https://tvlocales-live.freecaster.com/live/95d2f733-1bc2-4bd5-9b96-c53ed3fc450f/95d2f733-1bc2-4bd5-9b96-c53ed3fc450f.isml/master.m3u8
+#EXTINF:-1 tvg-name="BCN Gospel TV (1080p)" group-title="Uncategorized"
+BCN Gospel TV (1080p)
+https://live1.ovalcast.com:3641/live/bcngospeltvlive.m3u8
+#EXTINF:-1 tvg-name="Bumblebee TV Trinity Beyond" group-title="Uncategorized"
+Bumblebee TV Trinity Beyond
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2626030145130f25474626/playlist.m3u8
+#EXTINF:-1 tvg-name="BVN (576p) [Geo-Blocked]" group-title="Uncategorized"
+BVN (576p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/bvn/browser-dash/bvn.mpd
+#EXTINF:-1 tvg-name="CBN Gospel (720p)" group-title="Uncategorized"
+CBN Gospel (720p)
+https://59d39900ebfb8.streamlock.net/ccbn/ccbn/playlist.m3u8
+#EXTINF:-1 tvg-name="CCTV-1 (2160p) [Geo-blocked]" group-title="Uncategorized"
+CCTV-1 (2160p) [Geo-blocked]
+http://123.175.209.52:9003/hls/1/index.m3u8
+#EXTINF:-1 tvg-name="CCTV-1 综合" group-title="Uncategorized"
+CCTV-1 综合
+https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
+#EXTINF:-1 tvg-name="CCTV-10 科教" group-title="Uncategorized"
+CCTV-10 科教
+https://node1.olelive.com:6443/live/CCTV10HD/hls.m3u8
+#EXTINF:-1 tvg-name="CCTV-11 (576p) [Geo-blocked]" group-title="Uncategorized"
+CCTV-11 (576p) [Geo-blocked]
+http://123.175.209.52:9003/hls/12/index.m3u8
+#EXTINF:-1 tvg-name="CCTV-12 (2160p) [Geo-blocked]" group-title="Uncategorized"
+CCTV-12 (2160p) [Geo-blocked]
+http://123.175.209.52:9003/hls/13/index.m3u8
+#EXTINF:-1 tvg-name="CCTV-13 新闻" group-title="Uncategorized"
+CCTV-13 新闻
+https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
+#EXTINF:-1 tvg-name="CCTV-13新闻 (2160p) [Geo-blocked]" group-title="Uncategorized"
+CCTV-13新闻 (2160p) [Geo-blocked]
+http://123.175.209.52:9003/hls/14/index.m3u8
+#EXTINF:-1 tvg-name="CCTV-15 (576p)" group-title="Uncategorized"
+CCTV-15 (576p)
+http://123.175.209.52:9003/hls/16/index.m3u8
+#EXTINF:-1 tvg-name="CCTV-16" group-title="Uncategorized"
+CCTV-16
+http://74.91.26.218:82/live/cctv16hd.m3u8
+#EXTINF:-1 tvg-name="CCTV-17 (2160p) [Geo-blocked]" group-title="Uncategorized"
+CCTV-17 (2160p) [Geo-blocked]
+http://123.175.209.52:9003/hls/18/index.m3u8
+#EXTINF:-1 tvg-name="CCTV-17 农业农村" group-title="Uncategorized"
+CCTV-17 农业农村
+https://node1.olelive.com:6443/live/CCTV17HD/hls.m3u8
+#EXTINF:-1 tvg-name="CCTV-2 (2160p) [Geo-blocked]" group-title="Uncategorized"
+CCTV-2 (2160p) [Geo-blocked]
+http://123.175.209.52:9003/hls/2/index.m3u8
+#EXTINF:-1 tvg-name="CCTV-2 财经" group-title="Uncategorized"
+CCTV-2 财经
+https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
+#EXTINF:-1 tvg-name="CCTV-3 (2160p) [Geo-blocked]" group-title="Uncategorized"
+CCTV-3 (2160p) [Geo-blocked]
+http://123.175.209.52:9003/hls/3/index.m3u8
+#EXTINF:-1 tvg-name="CCTV-4 (2160p) [Geo-blocked]" group-title="Uncategorized"
+CCTV-4 (2160p) [Geo-blocked]
+http://123.175.209.52:9003/hls/4/index.m3u8
+#EXTINF:-1 tvg-name="CCTV-4 America (1080p)" group-title="Uncategorized"
+CCTV-4 America (1080p)
+https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+#EXTINF:-1 tvg-name="CCTV-4 Europe" group-title="Uncategorized"
+CCTV-4 Europe
+https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
+#EXTINF:-1 tvg-name="CCTV-4 中文国际（亚） Ⓨ" group-title="Uncategorized"
+CCTV-4 中文国际（亚） Ⓨ
+https://www.youtube.com/channel/UC4K_LI-Tn3-LshNgG0-YypQ/live
+#EXTINF:-1 tvg-name="CCTV-5 (2160p) [Geo-blocked]" group-title="Uncategorized"
+CCTV-5 (2160p) [Geo-blocked]
+http://123.175.209.52:9003/hls/5/index.m3u8
+#EXTINF:-1 tvg-name="CCTV-5 体育" group-title="Uncategorized"
+CCTV-5 体育
+https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+#EXTINF:-1 tvg-name="CCTV-6 (2160p) [Geo-blocked]" group-title="Uncategorized"
+CCTV-6 (2160p) [Geo-blocked]
+http://123.175.209.52:9003/hls/7/index.m3u8
+#EXTINF:-1 tvg-name="CCTV-7 (2160p) [Geo-blocked]" group-title="Uncategorized"
+CCTV-7 (2160p) [Geo-blocked]
+http://123.175.209.52:9003/hls/8/index.m3u8
+#EXTINF:-1 tvg-name="CCTV-7 国防军事" group-title="Uncategorized"
+CCTV-7 国防军事
+https://node1.olelive.com:6443/live/CCTV7HD/hls.m3u8
+#EXTINF:-1 tvg-name="CCTV-8 (2160p) [Geo-blocked]" group-title="Uncategorized"
+CCTV-8 (2160p) [Geo-blocked]
+http://123.175.209.52:9003/hls/9/index.m3u8
+#EXTINF:-1 tvg-name="CCTV-8 电视剧" group-title="Uncategorized"
+CCTV-8 电视剧
+https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
+#EXTINF:-1 tvg-name="CCTV-9 (2160p) [Geo-blocked]" group-title="Uncategorized"
+CCTV-9 (2160p) [Geo-blocked]
+http://123.175.209.52:9003/hls/10/index.m3u8
+#EXTINF:-1 tvg-name="CCTV-9 纪录" group-title="Uncategorized"
+CCTV-9 纪录
+https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
+#EXTINF:-1 tvg-name="CCTV+ 1 (600p) [Not 24/7]" group-title="Uncategorized"
+CCTV+ 1 (600p) [Not 24/7]
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="CCTV+ 2 (600p) [Not 24/7]" group-title="Uncategorized"
+CCTV+ 2 (600p) [Not 24/7]
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Collier Television CTV (Naples FL) (720p)" group-title="Uncategorized"
+Collier Television CTV (Naples FL) (720p)
+https://reflect-collier-countyboc.cablecast.tv/live-4/live/stream-1/live.m3u8
+#EXTINF:-1 tvg-name="ConecTV Brasil (720p)" group-title="Uncategorized"
+ConecTV Brasil (720p)
+https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
+#EXTINF:-1 tvg-name="CTV" group-title="Uncategorized"
+CTV
+https://live.ctvbolivia.com/hls/ctv.m3u8
+#EXTINF:-1 tvg-name="CTV 9 (1080p)" group-title="Uncategorized"
+CTV 9 (1080p)
+http://43.252.18.195:5080/live/streams/ctv9_hd_playlist.m3u8
+#EXTINF:-1 tvg-name="CTV Barranquilla (1080p)" group-title="Uncategorized"
+CTV Barranquilla (1080p)
+https://live.ctvbarranquilla.com/live/ctv-4ad31c89f3764bf0980e642bc12fd00a.m3u8
+#EXTINF:-1 tvg-name="CTV News" group-title="Uncategorized"
+CTV News
+https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8
+#EXTINF:-1 tvg-name="CTV News Channel (中視新聞台) Ⓨ" group-title="Uncategorized"
+CTV News Channel (中視新聞台) Ⓨ
+https://www.youtube.com/watch?v=TCnaIE_SAtM
+#EXTINF:-1 tvg-name="CTV Toronto" group-title="Uncategorized"
+CTV Toronto
+https://bozztv.com/teleyupp1/teleup-zxsJFt6VvY/playlist.m3u8
+#EXTINF:-1 tvg-name="CTV3 (720p)" group-title="Uncategorized"
+CTV3 (720p)
+https://streamer2.nexgen.bz/03-CTVOW/index.m3u8
+#EXTINF:-1 tvg-name="CTV8 HD" group-title="Uncategorized"
+CTV8 HD
+http://live.happywatch99.com/livehd17/60b8e758d3dac2865fa0cd868d0f7ec4.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="CTVN AKD Plus (1080p)" group-title="Uncategorized"
+CTVN AKD Plus (1080p)
+https://live.legitpro.co.in/ctvnakdplus/index.m3u8
+#EXTINF:-1 tvg-name="Daystar TV (1080p)" group-title="Uncategorized"
+Daystar TV (1080p)
+https://live-mcl.cdn01.net/smarttv/48vy43564/playlist.m3u8
+#EXTINF:-1 tvg-name="Daystar TV Espanol (1080p)" group-title="Uncategorized"
+Daystar TV Espanol (1080p)
+https://hls-live-media-gc.cdn01.net/mpegts/232076_2222907/karlKyiKToEdHsTFUcjs9g/1776816000/master_mpegts.m3u8
+#EXTINF:-1 tvg-name="DirecTV Sports (1080p)" group-title="Uncategorized"
+DirecTV Sports (1080p)
+https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd
+#EXTINF:-1 tvg-name="Dynamic Gospel TV (480p) [Not 24/7]" group-title="Uncategorized"
+Dynamic Gospel TV (480p) [Not 24/7]
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/tvdynamicstream/playlist.m3u8
+#EXTINF:-1 tvg-name="Elevation Church (1080p)" group-title="Uncategorized"
+Elevation Church (1080p)
+https://linear-1066.frequency.stream/dist/stirr/1066/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="Escambia County TV ECTV (Escambia County FL) (720p)" group-title="Uncategorized"
+Escambia County TV ECTV (Escambia County FL) (720p)
+https://cpcdn.azureedge.net/ESCAMBIACOFLLIVE1/ESCAMBIACOFLLIVE1/playlist.m3u8
+#EXTINF:-1 tvg-name="ETVN (720p)" group-title="Uncategorized"
+ETVN (720p)
+https://origin2.afxp.telemedia.co.za/abr_kapang/enterepreneur/playlist.m3u8
+#EXTINF:-1 tvg-name="Fort Collins Cable TV (FCTV) (Fort Collins CO) (1080p)" group-title="Uncategorized"
+Fort Collins Cable TV (FCTV) (Fort Collins CO) (1080p)
+https://reflect-vod-fcgov.cablecast.tv/live-9/live/stream-1/live.m3u8
+#EXTINF:-1 tvg-name="Gospel Broadcasting Network (GBN) (1080p)" group-title="Uncategorized"
+Gospel Broadcasting Network (GBN) (1080p)
+https://cdn3.wowza.com/5/Ny9jK1A1Q3h4N1VZ/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-name="Gospel Cartoon (360p)" group-title="Uncategorized"
+Gospel Cartoon (360p)
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+#EXTINF:-1 tvg-name="Gospel Movie TV (360p)" group-title="Uncategorized"
+Gospel Movie TV (360p)
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+#EXTINF:-1 tvg-name="Gospel Truth TV (1080p)" group-title="Uncategorized"
+Gospel Truth TV (1080p)
+https://na.linear.zype.com/bf94f9f4-383c-40e0-9d49-279a4f33ab8d/f29b8836-d990-4c8d-b421-192a8f43edc4-zype/manifest.m3u8
+#EXTINF:-1 tvg-name="Gospel TV India (720p)" group-title="Uncategorized"
+Gospel TV India (720p)
+https://server.livelegitpro.in:9899/gospeltv/index.m3u8
+#EXTINF:-1 tvg-name="ICTV (480p) [Not 24/7]" group-title="Uncategorized"
+ICTV (480p) [Not 24/7]
+https://goliveafrica.media:9998/live/659a7f33bed3f/index.m3u8
+#EXTINF:-1 tvg-name="ICTV Serialy" group-title="Uncategorized"
+ICTV Serialy
+http://cdnua05.hls.tv/624/hls/f62d71219200da4130d13b21d23fb23c/4896/stream.m3u8
+#EXTINF:-1 tvg-name="ICTV2" group-title="Uncategorized"
+ICTV2
+http://cdnua05.hls.tv/919/hls/8743361621b245838bee193c9ec28322/4835/stream.m3u8
+#EXTINF:-1 tvg-name="KCTV" group-title="Uncategorized"
+KCTV
+https://tv.nknews.org/tvdash/stream.mpd
+#EXTINF:-1 tvg-name="KCTV 광주 CH05 (720p) [Not 24/7]" group-title="Uncategorized"
+KCTV 광주 CH05 (720p) [Not 24/7]
+http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
+#EXTINF:-1 tvg-name="KCTV-DT1 (720p)" group-title="Uncategorized"
+KCTV-DT1 (720p)
+https://cvtv.cvalley.net/hls/KCTVCBS/KCTVCBS.m3u8
+#EXTINF:-1 tvg-name="Korean Central Television (KCTV) (1080i) [Not 24/7]" group-title="Uncategorized"
+Korean Central Television (KCTV) (1080i) [Not 24/7]
+https://tv.intchoson.com/kctv/index.m3u8
+#EXTINF:-1 tvg-name="Maná Church Online (1080p) [Not 24/7]" group-title="Uncategorized"
+Maná Church Online (1080p) [Not 24/7]
+https://w2.manasat.com/church-online/smil:church-online.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Martin County MCTV (Martin County FL) (720p)" group-title="Uncategorized"
+Martin County MCTV (Martin County FL) (720p)
+https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/martin/G0074_002/playlist.m3u8
+#EXTINF:-1 tvg-name="MNCTV (720p)" group-title="Uncategorized"
+MNCTV (720p)
+https://cdn10jtedge.indihometv.com/atm/DASH/mnctv/manifest.mpd
+#EXTINF:-1 tvg-name="Monroe County Television MCTV (Monroe County FL) (1080p)" group-title="Uncategorized"
+Monroe County Television MCTV (Monroe County FL) (1080p)
+https://castus-vod-dev.s3.amazonaws.com/vod_clients/monroe/live/ch1/video.m3u8
+#EXTINF:-1 tvg-name="My Gospel TV" group-title="Uncategorized"
+My Gospel TV
+https://streamtv.cmediahosthosting.net:3046/live/mygospeltvlive.m3u8
+#EXTINF:-1 tvg-name="NACTV" group-title="Uncategorized"
+NACTV
+https://stream2.pivotalelements.com/memfs/2d2e1038-9eb2-44df-a9b9-109de5752f3b_output_0.m3u8
+#EXTINF:-1 tvg-name="NCTV (1080p)" group-title="Uncategorized"
+NCTV (1080p)
+https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="New Canaan Television 79 (NCTV79) (New Canaan CT) (1080p)" group-title="Uncategorized"
+New Canaan Television 79 (NCTV79) (New Canaan CT) (1080p)
+https://livestream.telvue.com/nctv791/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="Pinole Community Television (PCTV) Channel 26 (Pinole CA) (480p)" group-title="Uncategorized"
+Pinole Community Television (PCTV) Channel 26 (Pinole CA) (480p)
+https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/pinole/G0032_004/playlist.m3u8
+#EXTINF:-1 tvg-name="Pinole Community Television (PCTV) Channel 28 (Pinole CA) (480p)" group-title="Uncategorized"
+Pinole Community Television (PCTV) Channel 28 (Pinole CA) (480p)
+https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/pinole/G0032_002/playlist.m3u8
+#EXTINF:-1 tvg-name="Radio Tele Full Gospel" group-title="Uncategorized"
+Radio Tele Full Gospel
+https://f-tx-edge-87.christianworldmedia.com/EJCFG/mp4:EJCFG/playlist.m3u8
+#EXTINF:-1 tvg-name="Rancho Cucamonga RCTV3 (Rancho Cucamonga CA) (480p)" group-title="Uncategorized"
+Rancho Cucamonga RCTV3 (Rancho Cucamonga CA) (480p)
+https://vod.cityofrc.us/live-6/live/stream-1/live.m3u8
+#EXTINF:-1 tvg-name="RCTV (576p) [Not 24/7]" group-title="Uncategorized"
+RCTV (576p) [Not 24/7]
+https://v10.siar.us/rctv/live/playlist.m3u8
+#EXTINF:-1 tvg-name="Red CCTV (480p)" group-title="Uncategorized"
+Red CCTV (480p)
+https://solo.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8
+#EXTINF:-1 tvg-name="Rede Gospel (1080p)" group-title="Uncategorized"
+Rede Gospel (1080p)
+https://redegospel-aovivo.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Rifle Community TV RCTV (Rifle CO) (720p)" group-title="Uncategorized"
+Rifle Community TV RCTV (Rifle CO) (720p)
+https://livestream.telvue.com/riflecmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="RTH-TV2 Gospel (720p)" group-title="Uncategorized"
+RTH-TV2 Gospel (720p)
+https://2-fss-2.streamhoster.com/pl_120/amlst:206708-4202592/playlist.m3u8
+#EXTINF:-1 tvg-name="SCTV1 (720p)" group-title="Uncategorized"
+SCTV1 (720p)
+https://liveh12.vtvprime.vn/hls/SCTV1/index.m3u8
+#EXTINF:-1 tvg-name="SCTV2 (720p)" group-title="Uncategorized"
+SCTV2 (720p)
+https://liveh12.vtvprime.vn/hls/SCTV2/index.m3u8
+#EXTINF:-1 tvg-name="SCTV4 (720p)" group-title="Uncategorized"
+SCTV4 (720p)
+https://liveh12.vtvprime.vn/hls/SCTV4/index.m3u8
+#EXTINF:-1 tvg-name="SCTV6 (1080p) [Geo-blocked]" group-title="Uncategorized"
+SCTV6 (1080p) [Geo-blocked]
+https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-name="Shalom World Prayer (1080p)" group-title="Uncategorized"
+Shalom World Prayer (1080p)
+https://broadcaster-1.cclouds.in/srt-4/channel4_abr/playlist.m3u8
+#EXTINF:-1 tvg-name="Trace Gospel (1080p)" group-title="Uncategorized"
+Trace Gospel (1080p)
+https://channels.trace.plus/Traceprod/GOSPEL_FR/.m3u8
+#EXTINF:-1 tvg-name="Trinity Channel" group-title="Uncategorized"
+Trinity Channel
+https://edge66.magictvbox.com/liveApple/trinity/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Trinity TV" group-title="Uncategorized"
+Trinity TV
+https://sktv-forwarders.7m.pl/get.php?x=Trinity_TV
+#EXTINF:-1 tvg-name="Trinity TV (480p) [Not 24/7]" group-title="Uncategorized"
+Trinity TV (480p) [Not 24/7]
+https://5d00db0e0fcd5.streamlock.net/7410/7410/playlist.m3u8
+#EXTINF:-1 tvg-name="TVCARiB Gospel (480p) [Not 24/7]" group-title="Uncategorized"
+TVCARiB Gospel (480p) [Not 24/7]
+https://cdn.mycloudstream.io/hls/live/broadcast/wokrhjkd/index.m3u8
+#EXTINF:-1 tvg-name="TVN (1080p)" group-title="Uncategorized"
+TVN (1080p)
+http://217.26.190.76:8888/play/a0m6/index.m3u8
+#EXTINF:-1 tvg-name="TVN (720p)" group-title="Uncategorized"
+TVN (720p)
+https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/playlist_dvr.m3u8
+#EXTINF:-1 tvg-name="TVN 3" group-title="Uncategorized"
+TVN 3
+https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
+#EXTINF:-1 tvg-name="TVN Ⓖ" group-title="Uncategorized"
+TVN Ⓖ
+https://sktv-forwarders.7m.pl/get.php?x=TVN
+#EXTINF:-1 tvg-name="TVN24 (720p)" group-title="Uncategorized"
+TVN24 (720p)
+https://ss2.tvrdomi.com:1936/vozzmedianetwork/vozzmedianetwork/playlist.m3u8
+#EXTINF:-1 tvg-name="TVN3 (1080p) [Geo-blocked]" group-title="Uncategorized"
+TVN3 (1080p) [Geo-blocked]
+https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
+#EXTINF:-1 tvg-name="TVNBN (720p)" group-title="Uncategorized"
+TVNBN (720p)
+https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
+#EXTINF:-1 tvg-name="TVNET (360p)" group-title="Uncategorized"
+TVNET (360p)
+https://player.tvnet.lv/stream/amlst:61659/playlist.m3u8
+#EXTINF:-1 tvg-name="TVnet (720p)" group-title="Uncategorized"
+TVnet (720p)
+https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
+#EXTINF:-1 tvg-name="TVNZ 1 [Geo-blocked]" group-title="Uncategorized"
+TVNZ 1 [Geo-blocked]
+https://d2ce82tpc3p734.cloudfront.net/v1/master/b1f4432f8f95be9e629d97baabfed15b8cacd1f8/TVNZ_1/master.m3u8
+#EXTINF:-1 tvg-name="TVNZ 2 [Geo-blocked]" group-title="Uncategorized"
+TVNZ 2 [Geo-blocked]
+https://duoak7vltfob0.cloudfront.net/v1/master/b1f4432f8f95be9e629d97baabfed15b8cacd1f8/TVNZ_2/master.m3u8
+#EXTINF:-1 tvg-name="TVNZ Duke [Geo-blocked]" group-title="Uncategorized"
+TVNZ Duke [Geo-blocked]
+https://dayqb844napyo.cloudfront.net/v1/master/b1f4432f8f95be9e629d97baabfed15b8cacd1f8/TVNZ_Duke/master.m3u8
+#EXTINF:-1 tvg-name="UCTV University of California (720p) [Not 24/7]" group-title="Uncategorized"
+UCTV University of California (720p) [Not 24/7]
+https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Valley Shore Community Television (VSCTV) (Clinton CT) (1080p)" group-title="Uncategorized"
+Valley Shore Community Television (VSCTV) (Clinton CT) (1080p)
+https://reflect-vsctv.cablecast.tv/live-3/live/live.m3u8
+#EXTINF:-1 tvg-name="XITE Gospel (720p)" group-title="Uncategorized"
+XITE Gospel (720p)
+https://jmp2.uk/plu-623b93628e6ded0007337d4d.m3u8
