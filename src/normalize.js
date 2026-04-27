@@ -3,6 +3,8 @@
  * Cleans channel names and groups similar channels
  */
 
+const { detectGeoBlockedMarker, extractRegionRestriction, cleanGeoBlockedTitle } = require('./geoDetector');
+
 /**
  * Normalize channel name for comparison
  * Lowercase, remove special characters, trim whitespace
@@ -60,16 +62,22 @@ function extractLanguage(title) {
  */
 function normalizeChannels(channels) {
   const normalized = channels.map(channel => {
-    const normalized_name = normalizeChannelName(channel.title);
-    const clean_title = cleanChannelTitle(channel.title);
-    const language = extractLanguage(channel.title);
+    const hasGeoMarker = detectGeoBlockedMarker(channel.title);
+    const regionRestriction = extractRegionRestriction(channel.title);
+    const cleanTitle = hasGeoMarker ? cleanGeoBlockedTitle(channel.title) : channel.title;
+    
+    const normalized_name = normalizeChannelName(cleanTitle);
+    const clean_title = cleanChannelTitle(cleanTitle);
+    const language = extractLanguage(cleanTitle);
     
     return {
       ...channel,
       normalized_name: normalized_name,
       clean_title: clean_title,
       language: language,
-      group: channel.groupTitle || 'Uncategorized'
+      group: channel.groupTitle || 'Uncategorized',
+      geoBlocked: hasGeoMarker,
+      regionRestriction: regionRestriction
     };
   });
   

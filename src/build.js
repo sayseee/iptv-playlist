@@ -1,18 +1,18 @@
 #!/usr/bin/env node
 
 /**
- * IPTV Aggregator Main Build Script
- * Orchestrates the entire pipeline: fetch, parse, clean, deduplicate, health check, rank, classify, generate
+ * IPTV Aggregator Main Build Script (Advanced)
+ * Geo-aware, performance-optimized, production-ready pipeline
  */
 
 const fs = require('fs');
 const path = require('path');
 
-// Import all modules
+// Modules
 const { readLocalPlaylists } = require('./readLocal');
 const { fetchRemoteSources } = require('./fetchRemote');
-const { parseM3U, parseMultipleM3U } = require('./parser');
-const { normalizeChannels, groupSimilarChannels } = require('./normalize');
+const { parseMultipleM3U } = require('./parser');
+const { normalizeChannels } = require('./normalize');
 const { deduplicateChannels, getDuplicationStats } = require('./deduplicate');
 const { checkStreamsHealth, rankStreams } = require('./healthChecker');
 const { selectBestStreamsForAll, buildFinalPlaylist } = require('./bestStreamSelector');
@@ -24,191 +24,184 @@ const args = process.argv.slice(2);
 const verbose = args.includes('--verbose') || args.includes('-v');
 const skipHealthCheck = args.includes('--skip-health-check');
 
-// Main execution
+const MAX_STREAMS_PER_CHANNEL = 5;
+
+// MAIN
 async function main() {
   try {
     const startTime = Date.now();
-    console.log('🚀 IPTV Playlist Aggregator v1.0.0\n');
-    
-    // ========== STEP 1: FETCH SOURCES ==========
+    console.log('🚀 IPTV Playlist Aggregator v2.0.0\n');
+
+    // ========== STEP 1: FETCH ==========
     printSectionHeader('STEP 1: FETCHING SOURCES');
-    
-    // Read local playlists
-    console.log('\n📂 Reading local playlists...');
+
     const localPlaylists = readLocalPlaylists();
-    console.log(`   Found ${localPlaylists.length} local playlist(s)`);
-    
-    // Fetch remote sources
-    console.log('\n🌐 Fetching remote IPTV sources...');
+    console.log(`📂 Local playlists: ${localPlaylists.length}`);
+
     const remotePlaylists = await fetchRemoteSources();
-    console.log(`   Retrieved ${remotePlaylists.length} remote source(s)`);
-    
-    // Combine all sources
+    console.log(`🌐 Remote sources: ${remotePlaylists.length}`);
+
     const allPlaylists = [...localPlaylists, ...remotePlaylists];
+
     if (allPlaylists.length === 0) {
-      console.log('⚠️  No playlists found! Make sure to add files to IPTV PLAYLIST/ folder or check remote sources.');
+      console.log('❌ No playlists found.');
       process.exit(1);
     }
-    
-    // ========== STEP 2: PARSE PLAYLISTS ==========
-    printSectionHeader('STEP 2: PARSING PLAYLISTS');
-    
-    console.log('\n📝 Parsing all playlists...');
+
+    // ========== STEP 2: PARSE ==========
+    printSectionHeader('STEP 2: PARSING');
+
     const contents = allPlaylists.map(p => p.content);
-    let rawChannels = parseMultipleM3U(contents);
-    
-    console.log(`✓ Parsed ${rawChannels.length} raw channel entries`);
-    if (verbose) {
-      console.log(`  Sample channels:`);
-      rawChannels.slice(0, 3).forEach(ch => {
-        console.log(`    - ${ch.title} (${ch.groupTitle})`);
-      });
-    }
-    
+    const rawChannels = parseMultipleM3U(contents);
+
+    console.log(`✓ Parsed ${rawChannels.length} channels`);
+
     // ========== STEP 3: NORMALIZE ==========
-    printSectionHeader('STEP 3: NORMALIZING CHANNELS');
-    
-    console.log('\n🔤 Normalizing channel names and extracting metadata...');
+    printSectionHeader('STEP 3: NORMALIZING');
+
     const normalizedChannels = normalizeChannels(rawChannels);
-    console.log(`✓ Normalized ${normalizedChannels.length} channels`);
-    
-    // ========== STEP 4: DEDUPLICATE ==========
-    printSectionHeader('STEP 4: DEDUPLICATING CHANNELS');
-    
-    console.log('\n🔍 Detecting and grouping duplicates...');
+    console.log(`✓ Normalized ${normalizedChannels.length}`);
+
+    // ========== STEP 4: DEDUP ==========
+    printSectionHeader('STEP 4: DEDUPLICATION');
+
     const deduplicatedGroups = deduplicateChannels(normalizedChannels);
     const dupStats = getDuplicationStats(deduplicatedGroups);
-    
-    console.log(`✓ Found ${dupStats.unique_channels} unique channels`);
-    console.log(`  Total entries: ${dupStats.total_channels}`);
-    console.log(`  Duplicates: ${dupStats.duplicate_entries} (${dupStats.deduplication_ratio})`);
-    
-    // ========== STEP 5: HEALTH CHECK (OPTIONAL) ==========
+
+    console.log(`✓ Unique channels: ${dupStats.unique_channels}`);
+    console.log(`  Duplicates removed: ${dupStats.duplicate_entries}`);
+
+    // ========== STEP 5: HEALTH CHECK ==========
     let healthResults = [];
+    let healthMap = new Map();
+
     if (!skipHealthCheck) {
-      printSectionHeader('STEP 5: CHECKING STREAM HEALTH');
-      
-      // Collect all unique URLs
+      printSectionHeader('STEP 5: HEALTH CHECK');
+
       const allUrls = [];
       const urlSet = new Set();
+
+      // Limit streams per channel
       deduplicatedGroups.forEach(group => {
-        group.streams.forEach(alt => {
-          if (!urlSet.has(alt.url)) {
-            urlSet.add(alt.url);
-            allUrls.push(alt);
-          }
-        });
+        group.streams
+          .slice(0, MAX_STREAMS_PER_CHANNEL)
+          .forEach(stream => {
+            if (!urlSet.has(stream.url)) {
+              urlSet.add(stream.url);
+              allUrls.push(stream);
+            }
+          });
       });
-      
-      if (allUrls.length > 0) {
-        console.log(`\n🏥 Testing ${allUrls.length} stream URLs for health and latency...`);
-        console.log('   (This may take a few minutes)\n');
-        
-        const batchSize = 5;
-        const startHealthCheck = Date.now();
-        
-        healthResults = await checkStreamsHealth(allUrls, batchSize, 5000);
-        
-        const healthTime = formatDuration(Date.now() - startHealthCheck);
-        const aliveCount = healthResults.filter(h => h.alive).length;
-        const deadCount = healthResults.length - aliveCount;
-        const geoBlockedCount = healthResults.filter(h => h.geoBlocked).length;
-        
-        console.log(`\n✓ Health check completed in ${healthTime}`);
-        console.log(`  Alive streams: ${aliveCount}`);
-        console.log(`  Dead streams: ${deadCount}`);
-        console.log(`  Geo-blocked streams: ${geoBlockedCount}`);
-        console.log(`  Success rate: ${((aliveCount / healthResults.length) * 100).toFixed(1)}%`);
-        
-        if (verbose && healthResults.length > 0) {
-          const avgLatency = Math.round(
-            healthResults
-              .filter(h => h.alive)
-              .reduce((sum, h) => sum + h.latency, 0) / aliveCount
-          );
-          console.log(`  Average latency (alive): ${avgLatency}ms`);
-        }
-      }
+
+      console.log(`🏥 Testing ${allUrls.length} streams...\n`);
+
+      const startHealth = Date.now();
+      healthResults = await checkStreamsHealth(allUrls, 5, 5000);
+
+      const duration = formatDuration(Date.now() - startHealth);
+
+      // Build fast lookup map
+      healthMap = new Map();
+      healthResults.forEach(h => healthMap.set(h.url, h));
+
+      const alive = healthResults.filter(h => h.alive).length;
+      const geo = healthResults.filter(h => h.geoBlocked).length;
+
+      const successRate = healthResults.length > 0
+        ? ((alive / healthResults.length) * 100).toFixed(1)
+        : 0;
+
+      console.log(`✓ Done in ${duration}`);
+      console.log(`  Alive: ${alive}`);
+      console.log(`  Geo-blocked: ${geo}`);
+      console.log(`  Success rate: ${successRate}%`);
     } else {
-      console.log('\n⏭️  Skipping health check (use --skip-health-check to disable)\n');
+      console.log('\n⏭️ Skipping health check\n');
     }
-    
-    // ========== STEP 6: SELECT BEST STREAMS ==========
-    printSectionHeader('STEP 6: SELECTING BEST STREAMS');
-    
-    console.log('\n🏆 Selecting best stream for each channel...');
-    const selectedStreams = selectBestStreamsForAll(deduplicatedGroups, healthResults);
-    const finalPlaylist = buildFinalPlaylist(selectedStreams);
-    
-    // Count geo-blocked and unavailable channels
-    const geoBlockedChannels = selectedStreams.filter(s => !s || !s.best_stream).length;
-    
-    console.log(`✓ Selected best streams for ${finalPlaylist.length} channels`);
-    if (geoBlockedChannels > 0) {
-      console.log(`  Channels filtered (geo-blocked/unavailable): ${geoBlockedChannels}`);
-    }
-    
-    // ========== STEP 7: CLASSIFY CHANNELS ==========
-    printSectionHeader('STEP 7: CLASSIFYING CHANNELS');
-    
-    console.log('\n🏷️  Classifying channels into categories...');
+
+    // ========== STEP 6: CLEAN + RANK ==========
+    printSectionHeader('STEP 6: CLEANING & RANKING');
+
+    const cleanedGroups = deduplicatedGroups.map(group => {
+      let streams = group.streams;
+
+      if (!skipHealthCheck) {
+        streams = streams.filter(stream => {
+          const health = healthMap.get(stream.url);
+          return health && health.alive && !health.geoBlocked;
+        });
+      }
+
+      const ranked = rankStreams(streams, healthResults);
+
+      return {
+        ...group,
+        streams: ranked
+      };
+    });
+
+    // ========== STEP 7: SELECT ==========
+    printSectionHeader('STEP 7: SELECTING BEST STREAMS');
+
+    const selectedStreams = selectBestStreamsForAll(cleanedGroups, healthResults);
+
+    const validStreams = selectedStreams.filter(
+      s => s && s.best_stream
+    );
+
+    const finalPlaylist = buildFinalPlaylist(validStreams);
+
+    console.log(`✓ Final channels: ${finalPlaylist.length}`);
+
+    // ========== STEP 8: CLASSIFY ==========
+    printSectionHeader('STEP 8: CLASSIFICATION');
+
     const categorized = groupChannelsByCategory(finalPlaylist);
     const categoryStats = getCategoryStats(categorized);
-    
-    console.log(`✓ Classified into ${categoryStats.unique_categories} categories:`);
+
+    console.log(`✓ Categories: ${categoryStats.unique_categories}`);
+
     Object.entries(categoryStats.categories)
       .sort((a, b) => b[1] - a[1])
       .slice(0, 10)
-      .forEach(([category, count]) => {
-        console.log(`  - ${category}: ${count} channels`);
+      .forEach(([cat, count]) => {
+        console.log(`  - ${cat}: ${count}`);
       });
-    
-    // ========== STEP 8: GENERATE OUTPUTS ==========
-    printSectionHeader('STEP 8: GENERATING OUTPUTS');
-    
-    console.log('\n💾 Generating M3U playlists and JSON catalog...');
+
+    // ========== STEP 9: OUTPUT ==========
+    printSectionHeader('STEP 9: OUTPUT');
+
     const outputs = generateAllOutputs(finalPlaylist, categorized);
-    
-    console.log(`✓ Generated ${outputs.m3u_files.length + outputs.json_files.length} output files`);
-    
-    // ========== FINAL REPORT ==========
-    printSectionHeader('BUILD SUMMARY');
-    
-    const stats = generateStats(rawChannels, normalizedChannels, deduplicatedGroups, finalPlaylist);
+
+    console.log(`✓ Files generated: ${outputs.m3u_files.length + outputs.json_files.length}`);
+
+    // ========== SUMMARY ==========
+    printSectionHeader('SUMMARY');
+
+    const stats = generateStats(
+      rawChannels,
+      normalizedChannels,
+      deduplicatedGroups,
+      finalPlaylist
+    );
+
     printStats(stats);
-    
-    console.log('📂 Output Files:');
-    console.log(`   Location: ${path.resolve(path.join(__dirname, '../output'))}`);
-    console.log(`   - catalog.m3u (Main playlist with all channels)`);
-    Object.keys(categorized).forEach(category => {
-      const count = categorized[category].length;
-      if (count > 0) {
-        console.log(`   - ${category}.m3u (${count} channels)`);
-      }
-    });
-    console.log(`   - catalog.json (JSON catalog for app integration)`);
-    console.log(`   - summary.json (Build summary)\n`);
-    
-    console.log('✨ Build completed successfully!');
+
+    console.log('\n📂 Output folder:');
+    console.log(path.resolve(path.join(__dirname, '../output')));
+
+    console.log('\n✨ Build completed successfully!');
     printExecutionTime(startTime);
-    
-    console.log('\n🎬 Next steps:');
-    console.log('   1. Commit output files to GitHub');
-    console.log('   2. Access via: https://raw.githubusercontent.com/<user>/<repo>/output/catalog.m3u');
-    console.log('   3. Open in VLC or your streaming app\n');
-    
-  } catch (error) {
-    console.error('\n❌ Build failed with error:');
-    console.error(error.message);
-    if (verbose) {
-      console.error(error.stack);
-    }
+
+  } catch (err) {
+    console.error('\n❌ Build failed:');
+    console.error(err.message);
     process.exit(1);
   }
 }
 
-// Run main function
-main().catch(error => {
-  console.error('Fatal error:', error);
+// RUN
+main().catch(err => {
+  console.error('Fatal error:', err);
   process.exit(1);
 });
