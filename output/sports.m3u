@@ -476,9 +476,6 @@ https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/64
 #EXTINF:-1 tvg-name="S Sport 2" group-title="Uncategorized"
 S Sport 2
 https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8
-#EXTINF:-1 tvg-name="Sample Sports Channel" group-title="Uncategorized"
-Sample Sports Channel
-http://example.com/stream1.m3u8
 #EXTINF:-1 tvg-name="San Marino Rtv Sport" group-title="Uncategorized"
 San Marino Rtv Sport
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunklist_b1692000_slita.m3u8

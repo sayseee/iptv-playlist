@@ -17,15 +17,6 @@ https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
 #EXTINF:-1 tvg-name="90210" group-title="Uncategorized"
 90210
 https://jmp2.uk/plu-65a67dd13af63d0008257f17.m3u8
-#EXTINF:-1 tvg-name="Sample Sports Channel" group-title="Uncategorized"
-Sample Sports Channel
-http://example.com/stream1.m3u8
-#EXTINF:-1 tvg-name="Sample Movie Channel" group-title="Uncategorized"
-Sample Movie Channel
-http://example.com/stream2.m3u8
-#EXTINF:-1 tvg-name="Sample News Channel" group-title="Uncategorized"
-Sample News Channel
-http://example.com/stream3.m3u8
 #EXTINF:-1 tvg-name="00s Replay" group-title="Uncategorized"
 00s Replay
 https://jmp2.uk/plu-62ba60f059624e000781c436.m3u8
@@ -31085,8 +31076,8 @@ http://95.46.208.8:26259/nashe
 #EXTINF:-1 tvg-name="Pervyy Muzykal'nyy BY Ⓢ" group-title="Uncategorized"
 Pervyy Muzykal'nyy BY Ⓢ
 http://rtmp.one.by:1200
-#EXTINF:-1 tvg-name="Planeta RTR Ⓢ" group-title="Uncategorized"
-Planeta RTR Ⓢ
+#EXTINF:-1 tvg-name="Planeta RTR ���" group-title="Uncategorized"
+Planeta RTR ���
 https://a3569455801-s26881.cdn.ngenix.net/live/smil:rtrp.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-name="Radio HIT Orsk" group-title="Uncategorized"
 Radio HIT Orsk

@@ -2975,8 +2975,8 @@ https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/pinole/G0032_002/playlist.m3u8
 #EXTINF:-1 tvg-name="Planeta Channel" group-title="Uncategorized"
 Planeta Channel
 https://vs20.live.opencaster.com/planetachannel_089eff6d/index.m3u8
-#EXTINF:-1 tvg-name="Planeta RTR Ⓢ" group-title="Uncategorized"
-Planeta RTR Ⓢ
+#EXTINF:-1 tvg-name="Planeta RTR ���" group-title="Uncategorized"
+Planeta RTR ���
 https://a3569455801-s26881.cdn.ngenix.net/live/smil:rtrp.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-name="Planeta-RTR" group-title="Uncategorized"
 Planeta-RTR
@@ -3845,15 +3845,6 @@ https://pb-v4mil672yaqlk.akamaized.net/Salem_News_Channel.m3u8
 #EXTINF:-1 tvg-name="Salem News Channel (720p) [Geo-blocked]" group-title="Uncategorized"
 Salem News Channel (720p) [Geo-blocked]
 https://amg00732-salemmediagroup-salemnews-klowdtv-79zyj.amagi.tv/playlist/amg00732-salemmediagroup-salemnews-klowdtv/playlist.m3u8
-#EXTINF:-1 tvg-name="Sample Movie Channel" group-title="Uncategorized"
-Sample Movie Channel
-http://example.com/stream2.m3u8
-#EXTINF:-1 tvg-name="Sample News Channel" group-title="Uncategorized"
-Sample News Channel
-http://example.com/stream3.m3u8
-#EXTINF:-1 tvg-name="Sample Sports Channel" group-title="Uncategorized"
-Sample Sports Channel
-http://example.com/stream1.m3u8
 #EXTINF:-1 tvg-name="Samuel Goldwyn Classics (1080p)" group-title="Uncategorized"
 Samuel Goldwyn Classics (1080p)
 https://samuelgoldwyn-classics-1-us.roku.wurl.tv/playlist.m3u8
