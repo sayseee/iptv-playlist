@@ -112,10 +112,12 @@ async function main() {
         const healthTime = formatDuration(Date.now() - startHealthCheck);
         const aliveCount = healthResults.filter(h => h.alive).length;
         const deadCount = healthResults.length - aliveCount;
+        const geoBlockedCount = healthResults.filter(h => h.geoBlocked).length;
         
         console.log(`\n✓ Health check completed in ${healthTime}`);
         console.log(`  Alive streams: ${aliveCount}`);
         console.log(`  Dead streams: ${deadCount}`);
+        console.log(`  Geo-blocked streams: ${geoBlockedCount}`);
         console.log(`  Success rate: ${((aliveCount / healthResults.length) * 100).toFixed(1)}%`);
         
         if (verbose && healthResults.length > 0) {
@@ -138,7 +140,13 @@ async function main() {
     const selectedStreams = selectBestStreamsForAll(deduplicatedGroups, healthResults);
     const finalPlaylist = buildFinalPlaylist(selectedStreams);
     
+    // Count geo-blocked and unavailable channels
+    const geoBlockedChannels = selectedStreams.filter(s => !s || !s.best_stream).length;
+    
     console.log(`✓ Selected best streams for ${finalPlaylist.length} channels`);
+    if (geoBlockedChannels > 0) {
+      console.log(`  Channels filtered (geo-blocked/unavailable): ${geoBlockedChannels}`);
+    }
     
     // ========== STEP 7: CLASSIFY CHANNELS ==========
     printSectionHeader('STEP 7: CLASSIFYING CHANNELS');

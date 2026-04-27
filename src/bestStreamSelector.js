@@ -59,8 +59,19 @@ function selectBestStream(channelGroup, healthDataMap = {}) {
     return null;
   }
   
-  // Score each stream
-  const scoredStreams = channelGroup.streams.map(stream => ({
+  // Filter out geo-blocked streams
+  const nonBlockedStreams = channelGroup.streams.filter(stream => {
+    const health = healthDataMap[stream.url];
+    return !health || !health.geoBlocked;
+  });
+  
+  if (nonBlockedStreams.length === 0) {
+    // All streams are geo-blocked, return null
+    return null;
+  }
+  
+  // Score each non-blocked stream
+  const scoredStreams = nonBlockedStreams.map(stream => ({
     ...stream,
     health: healthDataMap[stream.url],
     score: scoreStreamCandidate(stream, healthDataMap[stream.url])

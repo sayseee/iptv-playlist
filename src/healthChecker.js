@@ -8,6 +8,31 @@ const http = require('http');
 const { URL } = require('url');
 
 /**
+ * Detect if a stream is geo-blocked
+ * Common geo-block indicators:
+ * - HTTP 403 Forbidden
+ * - HTTP 451 Unavailable For Legal Reasons
+ * - Specific error messages about geographic restrictions
+ */
+function isGeoBlocked(response, error) {
+  if (response && response.statusCode) {
+    // Common geo-block status codes
+    if (response.statusCode === 403 || response.statusCode === 451) {
+      return true;
+    }
+  }
+  
+  if (error && error.message) {
+    const msg = error.message.toLowerCase();
+    if (msg.includes('403') || msg.includes('geo') || msg.includes('block') || msg.includes('restricted')) {
+      return true;
+    }
+  }
+  
+  return false;
+}
+
+/**
  * Check if a stream URL is accessible
  */
 async function checkStreamHealth(url, timeout = 5000) {
@@ -30,12 +55,14 @@ async function checkStreamHealth(url, timeout = 5000) {
           isResolved = true;
           const latency = Date.now() - startTime;
           const isAlive = response.statusCode >= 200 && response.statusCode < 400;
+          const geoBlocked = isGeoBlocked(response, null);
           
           resolve({
             url: url,
             alive: isAlive,
             status: response.statusCode,
             latency: latency,
+            geoBlocked: geoBlocked,
             timestamp: new Date().toISOString()
           });
         }
@@ -50,6 +77,7 @@ async function checkStreamHealth(url, timeout = 5000) {
             alive: false,
             status: 'timeout',
             latency: timeout,
+            geoBlocked: false,
             timestamp: new Date().toISOString()
           });
         }
@@ -59,11 +87,13 @@ async function checkStreamHealth(url, timeout = 5000) {
         if (!isResolved) {
           isResolved = true;
           const latency = Date.now() - startTime;
+          const geoBlocked = isGeoBlocked(null, error);
           resolve({
             url: url,
             alive: false,
             status: error.code || 'error',
             latency: latency,
+            geoBlocked: geoBlocked,
             error: error.message,
             timestamp: new Date().toISOString()
           });
@@ -75,11 +105,13 @@ async function checkStreamHealth(url, timeout = 5000) {
       if (!isResolved) {
         isResolved = true;
         const latency = Date.now() - startTime;
+        const geoBlocked = isGeoBlocked(null, error);
         resolve({
           url: url,
           alive: false,
           status: 'error',
           latency: latency,
+          geoBlocked: geoBlocked,
           error: error.message,
           timestamp: new Date().toISOString()
         });
