@@ -48,7 +48,7 @@ iptv-playlist/
 
 1. **Clone the repository** (if not already done):
    ```bash
-   git clone https://github.com/yourusername/iptv-playlist.git
+   git clone https://github.com/sayseee/iptv-playlist.git
    cd iptv-playlist
    ```
 
@@ -100,20 +100,29 @@ The system runs through 8 main steps:
 ### VLC Media Player
 1. Open VLC
 2. Media → Open Network Stream
-3. Enter URL: `https://raw.githubusercontent.com/yourusername/iptv-playlist/main/output/catalog.m3u`
+3. Enter URL: `https://raw.githubusercontent.com/sayseee/iptv-playlist/main/output/catalog.m3u`
 4. Click Play
 
 ### Category-Specific Playlists
-- **All Channels**: `catalog.m3u`
-- **Sports**: `sports.m3u`
-- **Movies**: `movies.m3u`
-- **News**: `news.m3u`
-- **Korean Content**: `korea.m3u`
-- **US Series**: `us-series.m3u`
-- **Kids**: `kids.m3u`
+- **All Channels**: `https://raw.githubusercontent.com/sayseee/iptv-playlist/main/output/catalog.m3u`
+- **Sports**: `https://raw.githubusercontent.com/sayseee/iptv-playlist/main/output/sports.m3u`
+- **Movies**: `https://raw.githubusercontent.com/sayseee/iptv-playlist/main/output/movies.m3u`
+- **News**: `https://raw.githubusercontent.com/sayseee/iptv-playlist/main/output/news.m3u`
+- **Korean Content**: `https://raw.githubusercontent.com/sayseee/iptv-playlist/main/output/korea.m3u`
+- **US Series**: `https://raw.githubusercontent.com/sayseee/iptv-playlist/main/output/us-series.m3u`
+- **Kids**: `https://raw.githubusercontent.com/sayseee/iptv-playlist/main/output/kids.m3u`
+- **Music**: `https://raw.githubusercontent.com/sayseee/iptv-playlist/main/output/music.m3u`
+- **Entertainment**: `https://raw.githubusercontent.com/sayseee/iptv-playlist/main/output/entertainment.m3u`
+- **Documentaries**: `https://raw.githubusercontent.com/sayseee/iptv-playlist/main/output/documentaries.m3u`
+- **Asian Content**: `https://raw.githubusercontent.com/sayseee/iptv-playlist/main/output/asian.m3u`
+- **Religious**: `https://raw.githubusercontent.com/sayseee/iptv-playlist/main/output/religious.m3u`
+- **General**: `https://raw.githubusercontent.com/sayseee/iptv-playlist/main/output/general.m3u`
 
 ### JSON Catalog for Apps
-The `catalog.json` file provides structured data for custom streaming applications.
+The `catalog.json` file provides structured data for custom streaming applications:
+```
+https://raw.githubusercontent.com/sayseee/iptv-playlist/main/output/catalog.json
+```
 
 ## 🔧 Configuration
 
@@ -146,6 +155,8 @@ After each build, check `output/summary.json` for detailed statistics:
 - Duplication rates
 - Category distribution
 - Health check results
+
+**View live statistics**: `https://raw.githubusercontent.com/sayseee/iptv-playlist/main/output/summary.json`
 
 ## 🔄 Automation
 
